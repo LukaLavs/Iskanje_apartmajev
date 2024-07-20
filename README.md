@@ -5,12 +5,12 @@ Spletna stran apartmanija.hr ima mnogokrat na voljo dobre apartmaje. Kar me zmot
 
 POTREBUJETE NASLEDNJE KNJIŽNICE:
 (1.)
-beautifulsoup4
+beautifulsoup4,
 pandas
 (2.)
 selenium
 (3.)
-seaborn
+seaborn,
 matplotlib
 (4.)
 openpyxl
@@ -27,11 +27,13 @@ Odprite .ipynb datoteko.
 Stran apartmanija.hr ima url-je oblik:
 
 (1):  https://www.apartmanija.hr/apartmani/{glavni_naslov}
+
 (2):  https://www.apartmanija.hr/pretraga/apartmani/r:{okolica}+c:{kraj}+osobe:{osebe}+start:{prihod}+end:{odhod}
 
 Nastavite parametre glede na tip želenega url-ja:
  
 (1):  Nastavite {prihod, odhod, glavni_naslov}, vrednosti {osebe, okolica, kraj} ne spreminjajte, za {i} pa nastavite vrednost True.
+
 (2):  Nastavite {prihod, odhod, osebe, okolica, kraj}, vrednosti {glavni_naslov} ne spreminjajte, za {i} pa nastavite vrednost False.
 
 Pozor: datuma naj bosta oblike kot "01.08.2024"
