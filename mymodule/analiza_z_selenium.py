@@ -99,70 +99,67 @@ def izlusci_cenik(cenik_apartmajev):
 from datetime import datetime, timedelta
 
 
-def parse_date(date_str):
+def nastavi_datum(date_str):
     """Pretvori niz datuma v objekt datetime."""
     day, month = map(int, date_str.split('.'))
     return datetime(datetime.now().year, month, day)
 
-#Če datum ni mogoč, vrne [100000, 100000]
-def calculate_cost(cenik, datum):
+#Če datum ni mogoč, vrne ["nemogoče, nemogoče"]
+def izracuna_ceno(cenik, datum):
     """Izračuna strošek za določen datum glede na cenik."""
     
     # Pretvori datum v format datetime
-    datum_start, datum_end = datum.split('-')
-    datum_start = parse_date(datum_start)
-    datum_end = parse_date(datum_end)
+    datum_zacetek, datum_konec = datum.split('-')
+    datum_zacetek = nastavi_datum(datum_zacetek)
+    datum_konec = nastavi_datum(datum_konec)
 
-    # Inicializiraj strošek
-    total_cost = 0
-    covered_dates = []
+    skupna_cena = 0
+    pokriti_datumi = []
 
-    # Poglej vsak interval v ceniku
     for interval in cenik:
-        interval_start, interval_end = interval[0].split('-')
-        interval_start = parse_date(interval_start)
-        interval_end = parse_date(interval_end)
-        daily_cost = float(interval[1])
+        interval_zacetek, interval_konec = interval[0].split('-')
+        interval_zacetek = nastavi_datum(interval_zacetek)
+        interval_konec = nastavi_datum(interval_konec)
+        dnevna_cena = float(interval[1])
 
-        # Izračunaj prekrivni interval
-        overlap_start = max(datum_start, interval_start)
-        overlap_end = min(datum_end, interval_end)
+        # Prekrivni interval
+        overlap_start = max(datum_zacetek, interval_zacetek)
+        overlap_end = min(datum_konec, interval_konec)
 
-        # Preveri, ali obstaja prekrivni interval
+        #ali obstaja prekrivni interval
         if overlap_start <= overlap_end:
-            # Število dni v prekrivnem intervalu
+            
             days_in_overlap = (overlap_end - overlap_start).days + 1
-            total_cost += days_in_overlap * daily_cost
-            covered_dates.append((overlap_start, overlap_end))
+            skupna_cena += days_in_overlap * dnevna_cena
+            pokriti_datumi.append((overlap_start, overlap_end))
 
     # Preveri, ali so vsi dnevi v izbranem datumu pokriti
-    current_date = datum_start
-    while current_date <= datum_end:
-        if not any(start <= current_date <= end for start, end in covered_dates):
+    trenutni_datum = datum_zacetek
+    while trenutni_datum <= datum_konec:
+        if not any(zacetek <= trenutni_datum <= konec for zacetek, konec in pokriti_datumi):
             return ["nemogoče, nemogoče"]
-        current_date += timedelta(days=1)
+        trenutni_datum += timedelta(days=1)
     
-    return total_cost
+    return skupna_cena
 
 
 
-def count_days(datum):
+def prestej_dni(datum):
     """Izračuna število dni v danem obdobju."""
-    datum_start, datum_end = datum.split('-')
-    datum_start = parse_date(datum_start)
-    datum_end = parse_date(datum_end)
+    datum_zacetek, datum_konec = datum.split('-')
+    datum_zacetek = nastavi_datum(datum_zacetek)
+    datum_konec = nastavi_datum(datum_konec)
 
-    # Izračunaj število dni v obdobju
-    days_count = (datum_end - datum_start).days + 1  # +1 vključuje zadnji dan
+    dnevi = (datum_konec - datum_zacetek).days + 1  # +1 vključuje zadnji dan
 
-    return days_count
+    return dnevi
 
 
 def cena_skupaj_in_na_noc(cenik, datum):
-    a = calculate_cost(cenik, datum)
+    a = izracuna_ceno(cenik, datum)
     if a == ["nemogoče, nemogoče"]:
         return a
-    return [round(a, 2), round(a/count_days(datum), 2)]
+    return [round(a, 2), round(a/prestej_dni(datum), 2)]
 
 
 
