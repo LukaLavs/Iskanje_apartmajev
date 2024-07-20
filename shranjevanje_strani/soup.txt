@@ -1,0 +1,3428 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Apartmani Rogoznica | Apartmanija.hr</title>
+<meta content="Apartmani Rogoznica - Povoljan položaj, 34 kilometra južno od Šibenika i jednako toliko..." name="description"/>
+<link href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+<script crossorigin="anonymous" src="https://kit.fontawesome.com/edee4d6093.js"></script>
+<!--script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQNbiCrR4uICVUDhTtT8lbutr-NL3Ckes&language=hr"></script-->
+<link crossorigin="" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" rel="stylesheet"/>
+<script crossorigin="" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
+<script src="https://ivansanchez.gitlab.io/Leaflet.TileLayer.HERE/leaflet-tilelayer-here.js"></script>
+<link href="https://www.apartmanija.hr/css/daterangepicker.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.apartmanija.hr/css/v2styles.css?02-05-2024-16-47" rel="stylesheet" type="text/css"/>
+<link href="https://www.apartmanija.hr/icons/v3/favicon.png" rel="icon" type="image/png"/>
+<script src="https://www.apartmanija.hr/js/v3/validation.js"></script>
+<meta content="https://www.apartmanija.hr/slike/slike_gradovi/rogoznica-bg.jpg" property="og:image"/>
+<meta content="2000" property="og:image:width"/>
+<meta content="600" property="og:image:height"/>
+<meta content="https://www.apartmanija.hr/slike/slike_gradovi/rogoznica-bg.jpg" property="twitter:image"/>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TV86QP5');</script>
+<!-- End Google Tag Manager --> <!-- Facebook Pixel Code -->
+<script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '807330219600246');
+        fbq('track', 'PageView');
+    </script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=807330219600246&amp;ev=PageView
+&amp;noscript=1" width="1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta content="3530b49d1f54bda13781871a5cc58d5f3494b22547346421eb804a0fd9f98779" name="ahrefs-site-verification"/>
+</link></meta></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TV86QP5" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="ui_msg">
+<div class="rad_all_3"></div>
+</div>
+<div id="ui_msg_err">
+<div class="rad_all_3"></div>
+</div>
+<div id="ui_ldr">
+<div></div>
+</div>
+<div class="container-fluid nt" id="site_nt">
+<div class="container" id="site_nt_txt">
+</div>
+</div>
+<script>
+var translations = {satelit:'Satelit', map: 'Karta'};
+</script>
+<header>
+<div class="container-fluid search" id="cont-search" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/rogoznica-bg.jpg); background-size:cover;">
+<div class="header_shade">
+<div class="container-fluid nav-cont">
+<div class="navbar navbar-inverse ff1" id="slide-nav" role="navigation">
+<div class="navbar-header hidden-lg hidden-md nav_menu">
+<a class="navbar-toggle">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+</div>
+<div class="nav_logo hidden-lg hidden-md">
+<a href="https://www.apartmanija.hr"><img alt="Apartmani Hrvatska Logo Apartmanija.hr" class="logo" src="https://www.apartmanija.hr/icons/v3/logo/apartmanija_v2.png"/></a>
+</div>
+<div class="nav_srch hidden-lg hidden-md">
+<a class="fa-stack fa-3x wishlist_icon_m" href="https://www.apartmanija.hr/moji-apartmani" rel="nofollow">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<strong class="fa-stack-1x"></strong>
+</a>
+</div>
+<div id="slidemenu">
+<a class="hidden-xs" href="https://www.apartmanija.hr">
+<img alt="Apartmani Hrvatska Logo Apartmanija.hr" class="logo" src="https://www.apartmanija.hr/icons/v3/logo/apartmanija_v2_w.png"/></a>
+<div class="dd_lang_curr_cont navbar-right">
+<a class="btn-group navbar_link navbar_wsl_link hidden-xs" href="https://www.apartmanija.hr/moji-apartmani" rel="nofollow">
+<i class="fa fa-heart-o"></i> Odabrani smještaj <i style="display: none"></i>
+</a>
+<div class="btn-group hidden-xs">
+<a class="navbar_link" href="https://www.apartmanija.hr/apartmani">Apartmani i sobe</a>
+<button aria-expanded="false" aria-haspopup="true" class="button_reset_v2 dropdown-toggle" data-toggle="dropdown" type="button">
+<span class="caret"></span>
+</button>
+<ul class="dropdown-menu dd_lang" role="menu">
+<li>
+<a href="https://www.apartmanija.hr/apartmani">Apartmani i sobe</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/vile">Vile</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/robinzonski-turizam">Robinzonski turizam</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/seoski-turizam">Seoski turizam</a>
+</li>
+</ul>
+</div>
+<div class="btn-group">
+<button class="button_reset_v2 dd_header dropdown-toggle" data-toggle="dropdown" type="button">
+<img src="https://www.apartmanija.hr/icons/v3/ln/hr.gif"/> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu dd_lang" role="menu">
+<li>
+<a target="_blank">
+<img alt="Apartmani Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/hr.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.direct-croatia.com/apartments/rogoznica" target="_blank">
+<img alt="Apartments Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/en.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.alloggiocroazia.it/appartamenti/rogoznica" target="_blank">
+<img alt="Appartamenti Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/it.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.direkt-kroatien.de/ferienwohnungen/rogoznica" target="_blank">
+<img alt="Appartements Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/de.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.chorvatskeubytovani.cz/apartmany/rogoznica" target="_blank">
+<img alt="Apartmany Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/cs.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.apartamentychorwacja.pl/apartamenty/rogoznica" target="_blank">
+<img alt="Apartamenty Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.obmorju.si/apartmaji/rogoznica" target="_blank">
+<img alt="Apartmaji Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.horvatorszagapartmanok.net/apartmanok/rogoznica" target="_blank">
+<img alt="Apartmanok Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/hu.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.vacancescroatie.net/appartements/rogoznica" target="_blank">
+<img alt="Appartements Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/fr.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.alojamientocroacia.es/apartamentos/rogoznica" target="_blank">
+<img alt="Apartamentos Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/es.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.apartamentecroatia.com/apartamente/rogoznica" target="_blank">
+<img alt="Apartamente Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/ro.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.directkroatie.nl/appartementen/rogoznica" target="_blank">
+<img alt="Appartementen Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/nl.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.kroatiendirekte.dk/ferielejligheder/rogoznica" target="_blank">
+<img alt="Ferielejligheder Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/da.gif"/>
+</a>
+</li>
+<li>
+<a href="http://www.otdihhorvatija.ru/apartamenty/rogoznica" target="_blank">
+<img alt="Apartamenty Rogoznica" class="flag" src="https://www.apartmanija.hr/icons/v3/ln/ru.gif"/>
+</a>
+</li>
+</ul>
+</div>
+<div class="btn-group">
+<button class="button_reset dd_header dropdown-toggle" data-toggle="dropdown" type="button">
+
+                EUR (€)
+                <span class="caret"></span>
+</button>
+<ul class="dropdown-menu dd_lang" id="curr_list" role="menu">
+</ul>
+</div>
+<div class="btn-group">
+<a class="dd_header login_icon" href="https://www.apartmanija.hr/prijava" rel="nofollow" target="_blank"><i class="fa fa-user-circle login"></i></a>
+</div>
+<a class="btn-group ff1 reg_btn hidden-xs" href="//www.apartmanija.hr/oglasavanje-smjestaja" id="signup_url" title="Oglašavanje apartmana">Oglasi se!</a>
+</div>
+<ul class="nav navbar-nav navbar-right hidden-md hidden-lg">
+<li class="hidden-md hidden-lg"><a href="https://www.apartmanija.hr">Apartmanija.hr</a></li>
+<li>
+<a href="https://www.apartmanija.hr/apartmani">Apartmani i sobe</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/vile">Vile</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/robinzonski-turizam">Robinzonski turizam</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/seoski-turizam">Seoski turizam</a>
+</li>
+<a class="btn-group ff1 reg_btn visible-xs" onclick="gt_sgnp()" title="Oglašavanje apartmana"><i class="fa fa-home"></i>Oglasi svoj smještaj!</a>
+</ul>
+</div>
+</div>
+</div>
+<div class="container-fluid city_header_wrap">
+<div class="container">
+<h1 class="city_ttl" id="city_ttl">
+            Apartmani <span>Rogoznica</span> </h1>
+</div>
+<div class="city_search_wrap">
+<div>
+<div class="container-fluid ff1 subp_search_tray_cont hidden-xs">
+<div class="container">
+<form action="https://www.apartmanija.hr/pretraga" enctype="multipart/form-data" id="search_form" method="post">
+<div class="btn-group">
+<div class="dest_sel_wrap dest_sel_subp">
+<button class="button_reset dsel_dd dest_sel dest_sel_subp_btn" id="dsel" type="button">
+                                    Izaberite odredište <span class="caret"></span>
+</button>
+</div>
+</div>
+<div class="btn-group" style="margin-top:-1px;">
+<input class="subp_search_city" id="inp_dest" name="inp_dest" onclick="this.select();" placeholder="ili upišite naziv grada" style="max-width:230px;" type="text" value="Rogoznica, Šibenik i okolica"/>
+<input id="inp_reg_val" name="inp_reg_val" type="hidden"/>
+<input id="inp_cit_val" name="inp_cit_val" type="hidden"/>
+</div>
+<input id="inp_acmt_cat" name="inp_acmt_cat" type="hidden" value="apartments"/>
+<div class="btn-group" style="margin-top:-1px; background-color:#fff;">
+<i class="fa-regular fa-calendar home_search_icon" style="position:absolute; margin:20px 0 0 10px;"></i>
+<input class="subp_search_city datepicker_search_arrival" id="search_arrival" name="inp_start_date_val" placeholder="Dolazak" readonly="readonly" style="max-width:140px; border-left:1px solid #ccc; cursor:pointer; text-align:center;" type="text"/> <i class="fa-regular fa-long-arrow-right"></i>
+<input class="subp_search_city datepicker_search_departure" id="search_departure" name="inp_end_date_val" placeholder="Odlazak" readonly="readonly" style=" max-width:140px; cursor:pointer; text-align:center;" type="text"/>
+</div>
+<div class="btn-group">
+<i class="fa-regular fa-users" style="position:absolute; margin:20px 0 0 10px;"></i>
+<button class="button_reset subp_search_persons_select dropdown-toggle" data-toggle="dropdown" style="padding-left:35px;" type="button">
+                                Osoba                                <span class="caret"></span>
+</button>
+<input id="inp_nump_val" name="inp_nump_val" type="hidden"/>
+<ul aria-labelledby="dd_ppl" class="dropdown-menu dd_src" id="dd_ppl" role="menu">
+<li><a>1</a></li>
+<li class="divider"></li>
+<li><a>2</a></li>
+<li class="divider"></li>
+<li><a>3</a></li>
+<li class="divider"></li>
+<li><a>4</a></li>
+<li class="divider"></li>
+<li><a>5</a></li>
+<li class="divider"></li>
+<li><a>6</a></li>
+<li class="divider"></li>
+<li><a>7</a></li>
+<li class="divider"></li>
+<li><a>8</a></li>
+<li class="divider"></li>
+<li><a>9</a></li>
+<li class="divider"></li>
+<li><a>10</a></li>
+<li class="divider"></li>
+<li><a>11</a></li>
+<li class="divider"></li>
+<li><a>12</a></li>
+<li class="divider"></li>
+<li><a href="#">13+</a></li>
+</ul>
+</div>
+<div class="btn-group subp_search_btn">
+<button class="button_reset src_go ff1" onclick="start_search();" type="button"><i class="fa-regular fa-search"></i>Traži                            </button>
+</div>
+<div class="dest_sel_cont ml10" style="display:none;">
+<ul>
+<li class="dscn_ttl ff1">Regije</li>
+<li class="otoci" onclick="showCityList(); selRegion(11); map_dd(44.123085,15.3479,8,11);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/croatian-islands.jpg" width="30"/><span id="r11">Otoci</span></li>
+<li class="istra" onclick="showCityList(); selRegion(2); map_dd(45.217841,13.914185,9,2);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/istria.jpg" width="30"/><span id="r2">Istra</span></li>
+<li class="kvarner" onclick="showCityList(); selRegion(3); map_dd(44.969992,14.716448,9,3);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/kvarner.jpg" width="30"/><span id="r3">Kvarner i gorje</span></li>
+<li class="zadar" onclick="showCityList(); selRegion(4); map_dd(44.092190,15.412927,10,4);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/zadar.jpg" width="30"/><span id="r4">Zadar i okolica</span></li>
+<li class="sibenik" onclick="showCityList(); selRegion(5); map_dd(43.649570,15.843342,10,5);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/sibenik.jpg" width="30"/><span id="r5">Šibenik i okolica</span></li>
+<li class="split" onclick="showCityList(); selRegion(6); map_dd(43.362883,16.606303,9,6);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/split.jpg" width="30"/><span id="r6">Split i okolica</span></li>
+<li class="dubrovnik" onclick="showCityList(); selRegion(7); map_dd(42.861873,17.769012,9,7);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/dubrovnik.jpg" width="30"/><span id="r7">Dubrovnik i okolica</span></li>
+<li class="zagreb" onclick="showCityList(); selRegion(8); map_dd(45.818511,15.978928,9,8);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/zagreb.jpg" width="30"/><span id="r8">Zagreb i središnja Hrvatska</span></li>
+<li class="slavonija" onclick="showCityList(); selRegion(10); map_dd(45.287559,18.808119,9,10);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/slavonia.jpg" width="30"/><span id="r10">Slavonija i Baranja</span></li>
+</ul>
+</div>
+<div class="dest_sel_city_list" id="city_list" style="display:none;">
+<div class="dscl_cont">
+<div class="dscl_ttl ff1">Gradovi                                    <a class="dest_sel_city_list_close right" onclick="closeDestSel()"></a>
+<div class="clearfix"></div>
+</div>
+<div class="pull-left">
+<ul class="dest_sel_city_list_ul" id="city_list_cont"></ul>
+</div>
+<div class="pull-left dscl_cont_map" id="map-canvas"></div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="mobile_src_wrap">
+<div class="mobile_src_cont">
+<a class="mobile_src_inp" data-target="#mod-src" data-toggle="modal">Gdje se želite odmoriti?</a>
+<i class="fa-regular fa-search pull-right mobile_src_i filter_float_btn btn_bg_1" data-target="#mod-src" data-toggle="modal"></i>
+</div>
+</div>
+</div>
+<div class="city_desc_cont">
+<div class="container">
+<div class="col-md-12" style="padding:0;">
+<div class="city_desc_wrap">
+<div class="col-md-12 city_desc ff1" id="city_desc">
+                                                Povoljan položaj, 34 kilometra južno od Šibenika i jednako toliko do splitskog aerodroma, nije jedino čime se Rogoznica može pohvaliti. Duboko usječena u obalu i tako zaštićena od prevrtljivog mora, slovi kao najsigurnija luka na Jadranu. Udaljena je tek nekoliko kilometara od glasovitog Primoštena te s njim dijeli sličnu priču o svom postanku. Kopneni dio Kopača je naseljen u 14. stoljeću, da bi narod pred Turcima pobjegao na susjedni otočić Koparu u 16. stoljeću. Tako danas srce Rogoznice kuca na otočiću koji je nasipom povezan s kopnom gdje su se rasule brojne vikendice i ljetnikovci. Apartman ili sobu s pogledom na more lako je pronaći, jednako kao i vez u rogozničkoj marini koja je već dulje od desetljeća predvodnica hrvatskog nautičkog turizma.<br/>
+<br/>
+Rogoznica, prvenstveno, znači mir i odmor. To je mjesto kojem ste oduvijek pripadali i gdje ćete se odmah osjećati dijelom domaćeg stanovništva, bilo da dočekujete ribare kada ujutro doplovljavaju sa svježom ribom na mol, ili dok lješkarite na toplom pijesku uz šum maestrala.<br/>
+Rogoznička uvala će Vam se naći kao na dlanu ukoliko posjetite Ražanj, susjedno mjesto bez urbanih sadržaja, ali s poznatom školom ronjenja. Jedna od zanimljivosti u neposrednoj blizini Rogoznice je i Zmajevo oko, slano jezero povezano s morem špiljom Zmajevo uho, koje ne prestaje intrigirati ronioce i znanstvenike i uz koje se vežu brojne mistične legende.                    </div>
+</div>
+<div class="city_header_sm">
+<div class="city_desc_toggle_btn text-left hidden-xs ff1" id="l_less_desc" onclick="hideDesc()" style="display: none;"><i class="fa fa-angle-up"></i> Zatvori                    </div>
+<div class="city_desc_toggle_btn text-left hidden-xs ff1" id="l_more_desc" onclick="showDesc()">Pročitaj više <i class="fa fa-angle-down"></i>
+</div>
+<div class="city_desc_toggle_btn text-left hidden-md hidden-lg" data-target="#mod-desc" data-toggle="modal" onclick="modalDesc()">Pročitaj više <i class="fa fa-angle-down"></i></div>
+</div>
+<div class="city_header_btn_wrap">
+<a class="city_header_btn ff1" onclick="addReview(245,'Rogoznica')">
+<i class="fa fa-pencil-square"></i>
+<span class="">Posjetili ste mjesto Rogoznica? Kako Vam je bilo?</span>
+</a>
+<a class="smooth city_header_btn ff1" href="#poi">
+<i class="fa fa-map-marker"></i>
+<span class="">Točke od interesa Rogoznica</span>
+</a>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+<script>
+                function showDesc() {
+                    var h = $('.city_desc').height();
+                    $('.city_desc_wrap').animate({height: h});
+                    $('#l_more_desc').hide();
+                    $('#l_less_desc').show();
+                }
+
+                function hideDesc() {
+                    $('.city_desc_wrap').animate({height: '70px'});
+                    $('#l_less_desc').hide();
+                    $('#l_more_desc').show();
+                }
+
+                function modalDesc() {
+                    var img = $('#main_img').attr('src');
+                    var ttl = $("#city_ttl").text();
+                    var desc = $("#city_desc").html();
+                    $("#modal_desc_ttl").text(ttl);
+                    $("#desc_mob_img").attr('src', img);
+                    $("#desc_mob_body").html(desc);
+                }
+            </script>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="container-fluid search_filter_cont hidden-xs text-center ff1" id="search_bar_float">
+<div>
+<span class="search_filter_ttl ff1">Filtriraj rezultate</span>
+<div class="btn-group search_filter_dist">
+<i class="fa-regular fa-water search_filter_dd_i"></i>
+<button class="button_reset subp_search_select dropdown-toggle" data-initial='Udaljenost od mora&lt;span class="caret"&gt;&lt;/span&gt;' data-toggle="dropdown" type="button">
+                        Udaljenost od mora <span class="caret"></span>
+</button>
+<ul aria-labelledby="dd_ppl" class="dropdown-menu dd_src __filter" data-filter="beach" id="dd_ppl" role="menu">
+<li><a rel="false">--</a></li>
+<li><a rel="50">Manje od 50m</a></li>
+<li><a rel="100">Do 100m</a></li>
+<li><a rel="150">Do 150m</a></li>
+<li><a rel="200">Do 200m</a></li>
+<li><a rel="250">Do 250m</a></li>
+<li><a rel="300">Do 300m</a></li>
+<li><a rel="400">Do 400m</a></li>
+<li><a rel="500">Do 500m</a></li>
+<li><a rel="750">Do 750m</a></li>
+<li><a rel="1000">Do 1000m</a></li>
+<li><a rel="9999">Više od 1km</a></li>
+</ul>
+</div>
+<div class="btn-group">
+<i class="fa-regular fa-eur search_filter_dd_i"></i>
+<button class="button_reset subp_search_select dropdown-toggle" data-initial='Cijena na noć&lt;span class="caret"&gt;&lt;/span&gt;' data-toggle="dropdown" type="button">
+                        Cijena na noć <span class="caret"></span>
+</button>
+<ul aria-labelledby="dd_ppl" class="dropdown-menu dd_src __filter" data-filter="price" id="dd_ppl" role="menu">
+<li><a rel="false">--</a></li>
+<li><a rel="20">Manje od 20 €</a></li>
+<li><a rel="30">Do 30 €</a></li>
+<li><a rel="40">Do 40 €</a></li>
+<li><a rel="50">Do 50 €</a></li>
+<li><a rel="60">Do 60 €</a></li>
+<li><a rel="70">Do 70 €</a></li>
+<li><a rel="80">Do 80 €</a></li>
+<li><a rel="90">Do 90 €</a></li>
+<li><a rel="100">Do 100 €</a></li>
+<li><a rel="150">Do 150 €</a></li>
+<li><a rel="200">Do 200 €</a></li>
+<li><a rel="9999">Više od 200 €</a></li>
+</ul>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="wifi" rel="false">
+<i class="fa-regular fa-wifi"></i> Internet/Wi-fi<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="sea" rel="false">
+<i class="fa-regular fa-eye"></i> Pogled na more<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="pets" rel="false">
+<i class="fa-regular fa-paw"></i> Kućni ljubimci<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="reviewed" rel="false" style="border-right:1px solid #ccc; padding-right:15px;">
+<i class="fa-regular fa-star-half-stroke"></i> Ocijenjeni                    <span></span>
+</div>
+<div class="btn-group">
+<i class="fa-regular fa-clock search_filter_dd_i"></i>
+<button class="button_reset subp_search_select dropdown-toggle" data-initial='First/Last minute&lt;span class="caret"&gt;&lt;/span&gt;' data-toggle="dropdown" type="button">
+                            First/Last minute<span class="caret"></span>
+</button>
+<ul aria-labelledby="dd_lm" class="dropdown-menu dd_src __filter" data-filter="first-last-minute" id="dd_lm" role="menu">
+<li><a rel="false">--</a></li>
+<li><a rel="last"><i class="fa-regular fa-clock"></i>
+                                     Last minute</a>
+</li>
+<li><a rel="first"><i class="fa-regular fa-fire"></i>
+                                     First minute</a>
+</li>
+</ul>
+</div>
+<div class="btn-group search_filter_ttl search_filter_clear ff1">
+<i class="fa-regular fa-times"></i> Ukloni filtere                </div>
+</div>
+<div style="text-align:center; padding-top:5px;"><a onclick="$('.more_filters').slideToggle()"><i class="fa-regular fa-sliders"></i> Prikaži dodatne filtere</a></div>
+<div class="more_filters" style="display:none;">
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="kli" rel="false">
+<i class="fa-regular fa-air-conditioner"></i> Klima                    <span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="pool" rel="false">
+<i class="fa-regular fa-water-ladder"></i> Bazen                    <span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="par" rel="false">
+<i class="fa-regular fa-square-parking"></i> Parking                    <span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="grl" rel="false">
+<i class="fa-regular fa-steak"></i> Grill<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="pus" rel="false">
+<i class="fa-regular fa-smoking"></i> Dozvoljeno pušenje<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="tv" rel="false">
+<i class="fa-regular fa-tv"></i> TV<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="sat" rel="false">
+<i class="fa-regular fa-satellite-dish"></i> Satelitska TV                    <span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="mik" rel="false">
+<i class="fa-regular fa-microwave"></i> Mikrovalna<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="caf" rel="false">
+<i class="fa-regular fa-mug-hot"></i> Aparat za kavu<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="per" rel="false">
+<i class="fa-regular fa-washing-machine"></i> Perilica rublja                    <span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="sud" rel="false">
+<i class="fa-regular fa-soap"></i> Perilica posuđa<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="hla" rel="false">
+<i class="fa-regular fa-refrigerator"></i> Hladnjak                    <span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="dor" rel="false">
+<i class="fa-regular fa-croissant"></i> Priprema doručka<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="pri" rel="false">
+<i class="fa-regular fa-wheelchair"></i> Pristup invalidskim kolicima<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="ter" rel="false">
+<i class="fa-regular fa-sun"></i> Terasa<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="sef" rel="false">
+<i class="fa-regular fa-vault"></i> Sef<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="djk" rel="false">
+<i class="fa-regular fa-baby"></i> Dječji krevetić<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="gri" rel="false">
+<i class="fa-regular fa-heat"></i> Grijanje<span></span>
+</div>
+<div class="btn-group search_filter_checkbox __filterCheckBox" data-filter="caj" rel="false">
+<i class="fa-regular fa-coffee-pot"></i> Kuhalo za vodu<span></span>
+</div>
+</div>
+</div>
+<div class="container-fluid region_bc">
+<div class="container">
+<div class="pull-left">
+<ul class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="/" itemprop="item"><span itemprop="name">Apartmanija.hr</span></a><meta content="1" itemprop="position"/></li> <i class="fa-regular fa-angle-right"></i> <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/apartmani" itemprop="item"><span itemprop="name">Apartmani u Hrvatskoj</span></a><meta content="2" itemprop="position"/></li> <i class="fa-regular fa-angle-right"></i> <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name">Rogoznica</span><meta content="3" itemprop="position"/></li></ul> </div>
+<div class="pull-right social_subp hidden-xs">
+<div class="pull-left" style="margin-right:3px;">
+<div class="fb-like" data-action="like" data-colorscheme="light" data-font="arial" data-href="http://www.apartmanija.hr/apartmani/rogoznica" data-layout="button_count" data-send="false" data-show-faces="false" data-width="30"></div>
+</div>
+<a class="viber-share-button hidden-lg hidden-md" href="viber://forward?text=http://www.apartmanija.hr/apartmani/rogoznica" target="_blank"><span class="icon-viber"></span>Viber</a>
+</div>
+</div>
+</div>
+<div class="container content_home">
+<div class="col-md-9 content_left_cat">
+<h2 class="city_h2 mt20 city_h2_mob">
+            Smještaj Rogoznica        </h2>
+<div class="search_fil_map_cont ff1 visible-xs">
+<div class="col-md-6 col-xs-6 visible-xs text-center" style="border-right:1px solid #ddd">
+<a data-target="#mod-src-filters" data-toggle="modal"><i class="fa fa-filter"></i> Filtriraj rezultate</a>
+</div>
+<div class="col-md-6 col-xs-6 visible-xs text-center">
+<a class="open-close-map" href="#" onclick="return false;"><i class="fa fa-map-marker"></i> Prikaz na karti</a>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="ads_results_ttl hidden-xs">
+<div class="pull-left"><i class="fa fa-th"></i> <strong></strong> objekata odgovara vašem kriteriju pretrage                </div>
+<div class="pull-right">
+<i class="fa fa-sort-amount-asc"></i>
+<div class="btn-group">
+<button class="button_reset subp_search_select dropdown-toggle search_filter_sort subp_sort_select text-left ff1" data-toggle="dropdown" style="background:none;" type="button">
+                                Sortiraj prema<span class="caret"></span>
+</button>
+<ul aria-labelledby="dd_ppl" class="dropdown-menu dd_src __filter" data-filter="sort" id="dd_ppl" role="menu">
+<!--li><a rel="random">Nasumičnom odabiru</a></li-->
+<li><a rel="price-min">Cijeni: od niže prema višoj</a>
+</li>
+<li><a rel="price-max">Cijeni: od više prema nižoj</a>
+</li>
+<li><a rel="grade">Ocjeni gostiju</a></li>
+<li>
+<a rel="grade-count">Broju ocjena</a>
+</li>
+</ul>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="ads_cont __top">
+<div class="prop_wrap prop_featured" data-lat="43.532994" data-lng="15.965774">
+<div class="prop_header" style="background-image:url(/slike/apartments/Bilonic_1532rasporedapartmanamare.JPG);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-bilonic/1532" title="Bilonic">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Bilonic</p> <span><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 5 ocjena</span>
+</a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="1532" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap prop_featured" data-lat="43.541452" data-lng="15.954608">
+<div class="prop_header" style="background-image:url(/slike/apartments/Lemo_20d282473468.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-lemo/19647" title="Lemo">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Lemo</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="19647" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap prop_featured" data-lat="43.533956" data-lng="15.968947">
+<div class="prop_header" style="background-image:url(/slike/apartments/27020_9913_1659041802.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-antonio-/27020" title="Antonio ">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Antonio </p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="27020" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap prop_featured" data-lat="43.540892" data-lng="15.982703">
+<div class="prop_header" style="background-image:url(/slike/apartments/BM_540d3d3ffdb5.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-bm-rog-/6009" title="BM Rog ">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani BM Rog </p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 65</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6009" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<!--div class="clearfix"></div--> <div class="prop_wrap prop_featured" data-lat="43.545873" data-lng="15.944526">
+<div class="prop_header" style="background-image:url(/slike/apartments/Villa_Marin_6943zecevo01.JPG);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-marin/6943" title="Villa Marin">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Marin</p> <span><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 7 ocjena</span>
+</a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 12 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 150</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6943" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap prop_featured" data-lat="43.499585" data-lng="15.972714">
+<div class="prop_header" style="background-image:url(/slike/apartments/Rajcic_apartments_8205IMG_6874.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-rajcic/8205" title="Rajčić">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Rajčić</p> <span><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 3 ocjena</span>
+</a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 27 osoba u 7 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8205" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap prop_featured" data-lat="43.536420" data-lng="15.960899">
+<div class="prop_header" style="background-image:url(/slike/apartments/Villa_Klisovic_4973villaklisovic.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-klisovic/4973" title="Villa Klisovic">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Klisovic</p> <span><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 1 ocjena</span>
+</a>
+</div>
+<div class="prop_body">Kapacitet: od 3 do 34 osoba u 7 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 59</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="4973" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap prop_featured" data-lat="43.540606" data-lng="15.953722">
+<div class="prop_header" style="background-image:url(/slike/apartments/Polic_b3477cda7b5c.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-polic/13684" title="Polić">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Polić</p> <span><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i><i class="fa-solid fa-star"></i> 13 ocjena</span>
+</a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 24 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="13684" data-object="apartments" data-r="" title="Spremi">
+<i class="fa-regular fa-heart fa-stack-2x"></i>
+<i class="fa-solid fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<!--div class="clearfix"></div--> <div class="text-center hidden-lg hidden-md">
+</div>
+<div class="prop_wrap" data-lat="43.541483" data-lng="15.957226" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/8355_7872_1662194102.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-elle/8355" title="Elle">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Elle</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 8 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8355" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540717" data-lng="15.960029" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Tihana_1d83acaed9ad.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-tihana/9977" title="Tihana">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Tihana</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 6 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 10 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9977" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540414" data-lng="15.989102" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Marko_33de106c0a38.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-marko/21785" title="Marko">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Marko</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 10 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="21785" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.533582" data-lng="15.968974" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Goles__491e7bb395b1.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani--goles-/25460" title=" Goleš ">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani  Goleš </p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 12 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 75</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="25460" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.533974" data-lng="15.968134" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_8629Kuca.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-maslina/8629" title="Maslina">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Maslina</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 15 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 35</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8629" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540351" data-lng="15.987116" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Marin_37c7399b31f2.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-marin/4937" title="Marin">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Marin</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 13 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="4937" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541765" data-lng="15.952828" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/10071_9099_1668933203.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-magnolia-radacic/10071" title="Magnolia Radačić">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Magnolia Radačić</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 15 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 20 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10071" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.550794" data-lng="15.940491" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Jaz_faf2857ce304.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-jaz/18121" title="Jaz">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Jaz</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 9 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="18121" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541585" data-lng="15.959838" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/28265_9368_1687940288.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-cvita-holiday-villa-natali/28265" title="Cvita Holiday Villa Natali">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Cvita Holiday Villa Natali</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 85</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="28265" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.537069" data-lng="15.962015" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Suncica_487a120d27ac.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-suncica/15663" title="Sunčica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Sunčica</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 12 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="15663" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540557" data-lng="15.987808" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/miki_9464IMG_7761.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-miki/9464" title="Miki">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Miki</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 17 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9464" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.537260" data-lng="15.959924" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Lana_07ca530b994d.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-lana/9151" title="Lana">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Lana</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 90</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9151" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535634" data-lng="15.971015" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30945_6593_1713817500.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-marty/30945" title="Marty">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Marty</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 4 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30945" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541970" data-lng="15.957916" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/23542_6996_1622371565.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani--franka/23542" title=" Franka">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani  Franka</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23542" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.525559" data-lng="15.972920" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/11835_6138_1685907707.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-meri/11835" title="Meri">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Meri</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 4 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 10 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="11835" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.527671" data-lng="15.970171" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Ana_fff6997eda30.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-ana/17224" title="Ana">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Ana</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 2 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="17224" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541013" data-lng="15.957537" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/13378_9721_1663261114.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-ilija/13378" title="Ilija">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Ilija</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="13378" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541666" data-lng="15.953804" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Tonka_dfcea6b1e630.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-tonka/20496" title="Tonka">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Tonka</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 2 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 15 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="20496" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.528669" data-lng="15.982043" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Hadriaticum_7427kuca11mala.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427" title="Hadriaticum 1">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Hadriaticum 1</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 21 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 12 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="7427" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540759" data-lng="15.983251" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Katica_385b62eb4f71.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-katica/25359" title="Katica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Katica</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 29 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 30</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="25359" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.545010" data-lng="15.944902" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Gloria_2731cc149cc0.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-iris/17731" title="Iris">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Iris</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="17731" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.530259" data-lng="15.981845" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Sunrise_A1_51fbbd96cd52.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-sunrise-a1/23755" title="Sunrise A1">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Sunrise A1</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 100</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23755" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.512346" data-lng="15.978728" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Slavic_8978WP_000457.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-slavic/8978" title="Slavić">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Slavić</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8978" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.524668" data-lng="15.973929" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/2599_3483_1692119030.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-delfin/2599" title="Delfin">
+<span class="fm"></span><span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Delfin</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 10 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 15 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="2599" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.528852" data-lng="15.981947" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_126581_IMG_6031.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-jela/12658" title="Jela">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Jela</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 110</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="12658" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.533212" data-lng="15.965605" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/9768_2125_1719821617.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-jerkunica/9768" title="Jerkunica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Jerkunica</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 21 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9768" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.537560" data-lng="15.959785" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/28106_1962_1654556099.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-blue/28106" title="Blue">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Blue</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 6 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 130</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="28106" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540919" data-lng="15.962894" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/9991_5540_1673189163.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-frano/9991" title="Frano">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Frano</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 4 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 9 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9991" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.532519" data-lng="15.982535" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Fiso_fc60e0ffdc1c.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-fiso/23022" title="Fiso">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Fiso</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23022" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.539991" data-lng="15.985142" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30246_8999_1705923486.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-crnjac/30246" title="Crnjac">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Crnjac</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 15 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30246" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541005" data-lng="15.960705" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/6461_8677_1612721407.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-vlaic/6461" title="Vlaić">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Vlaić</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 6 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6461" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.544654" data-lng="15.944769" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Roberto_ae41d72c77c3.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-roberto-ivan/25147" title="Roberto Ivan">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Roberto Ivan</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 31 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="25147" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535532" data-lng="15.973106" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/10687_6020_1683821689.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-lilian/10687" title="Lilian">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Lilian</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 8 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10687" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.545539" data-lng="15.944316" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Luka_02ccebde3758.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-luka/12131" title="Luka">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Luka</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 19 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="12131" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535318" data-lng="15.966850" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/23005_6874_1699437739.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-dekovic/23005" title="Dekovic">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Dekovic</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 6 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23005" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.530314" data-lng="15.982980" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/24495_3425_1684929230.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-varazdinci/24495" title="Varaždinci">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Varaždinci</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 8 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 3 do 11 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 57</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="24495" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.538170" data-lng="15.961475" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/22284_8769_1610112671.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-nives/22284" title="Nives">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Nives</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 5 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 13 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22284" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541806" data-lng="15.951976" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/23444_7414_1720590663.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-doca/23444" title="DoCa">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartman DoCa</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 4 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23444" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534536" data-lng="15.968742" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/28023_3180_1686504299.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-three-sisters-suites/28023" title="Three Sisters Suites">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Three Sisters Suites</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 4 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="28023" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534108" data-lng="15.965967" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Ivona_4402010078b0.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-ivona/9502" title="Ivona">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Ivona</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 14 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 1 do 28 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9502" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.538831" data-lng="15.959960" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/28623_1937_1694935557.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-anna/28623" title="Anna">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Anna</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 19 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="28623" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540637" data-lng="15.956101" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/14651_9942_1650816413.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani--slavica/14651" title=" Slavica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani  Slavica</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 17 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14651" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.544211" data-lng="15.946359" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/27804_5624_1649525671.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-faro/27804" title="Faro">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Faro</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 22 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="27804" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534923" data-lng="15.962601" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_11704Photo15.7.2013.012655.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-micija/11704" title="Mičija">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mičija</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 12 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="11704" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.536413" data-lng="15.972620" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Vedrana_92e33b10355d.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-vedrana/24330" title="Vedrana">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Vedrana</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 19 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="24330" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535327" data-lng="15.975044" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Captains_house_33043b3f0768.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-captains-house/3129" title="Captains House">
+<span class="fm"></span><span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Captains House</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 8 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 39</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="3129" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540655" data-lng="15.958434" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Ljubomir_Gracin_10477rogkuca.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-ljubomir-gracin/10477" title="Ljubomir Gracin">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Ljubomir Gracin</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 12 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 90</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10477" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.542200" data-lng="15.950697" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Magnolija_b217cd193298.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-magnolia/16527" title="Magnolia">
+<span class="fm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Magnolia</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 1 do 16 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="16527" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.537414" data-lng="15.959516" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Mahin_Rogoznica_56536531b851.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mahin-/22786" title="Mahin ">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mahin </p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 8 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22786" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.524776" data-lng="15.969870" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_ATL_ac0027ca933d.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-atl/18543" title="ATL">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani ATL</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 11 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="18543" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.512759" data-lng="15.977758" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Palma__195c894af065.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-palma-/10059" title="Palma ">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Palma </p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 2 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 18 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 65</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10059" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534654" data-lng="15.968902" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/28782_5552_1686813645.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-vladica/28782" title="Vladica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Vladica</p> </a>
+</div>
+<div class="prop_body">Kapacitet: 4 osoba</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="28782" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.529395" data-lng="15.982502" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30688_1088_1709316026.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-botanica/30688" title="Botanica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Botanica</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 1 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 79</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30688" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534612" data-lng="15.959702" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/515_5675_1719764399.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-viktor/515" title="Viktor">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Viktor</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 1 do 18 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="515" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.539903" data-lng="15.958932" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/12744_1628_1690120271.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-morska-villa/12744" title="Morska Villa">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartman Morska Villa</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 7 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 90</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="12744" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.537114" data-lng="15.959695" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_61710.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-rogoznica/6171" title="Villa Rogoznica">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Rogoznica</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 10 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 100</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6171" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540329" data-lng="15.958365" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/29215_9662_1683299897.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mihanovic/29215" title="Mihanović">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mihanović</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i><i class="fa fa-star-o"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 10 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="29215" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534013" data-lng="15.970420" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Ivankovic_a7a99286735a.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-ivankovic/20464" title="Ivanković">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Ivanković</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 5 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 5 do 14 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="20464" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541618" data-lng="15.952566" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/24101_8130_1720464865.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-zec/24101" title="Zec">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Zec</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 6 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="24101" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.544421" data-lng="15.946928" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Vila_Mija_3a91a4303ae5.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-vila-mija/22880" title="Vila Mija">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Vila Mija</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 5 do 14 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22880" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540048" data-lng="15.958231" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/22783_5901_1652337461.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mistral/22783" title="Mistral">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mistral</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22783" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.545364" data-lng="15.944418" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Apartmani_Kuvek_4f481b88042900dbc783de2dce66219f.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-kuvek/14087" title="Kuvek">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Kuvek</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 11 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14087" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.542217" data-lng="15.950640" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/22652_3528_1675367345.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-janja/22652" title="Janja">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Janja</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 4 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 1 do 12 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 35</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22652" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.539140" data-lng="15.986575" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Anita_cf8f06609ec6.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-anita/14940" title="Anita">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Anita</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 16 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 74</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14940" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541642" data-lng="15.953653" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Iva_23fb35973081.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-iva/8821" title="Iva">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Iva</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 10 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 20 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8821" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540173" data-lng="15.956531" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/5549_4851_1693825001.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-lavanda/5549" title="Lavanda">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Lavanda</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 6 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 65</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="5549" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.550630" data-lng="15.939735" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/31364_1659_1718617771.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-novi-svijet/31364" title="Novi Svijet">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartman Novi Svijet</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 15 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="31364" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534333" data-lng="15.963213" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/First_row_to_the_sea__Goles_8eb972bb602d.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-goles/23691" title="Goleš">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Goleš</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 19 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23691" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.526965" data-lng="15.970857" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/27059_1679_1683660041.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-topic/27059" title="Topic">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Topic</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 10 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="27059" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.515047" data-lng="15.983772" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Jelena_38569d809506.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-jelena/11969" title="Jelena">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Jelena</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 20 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 85</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="11969" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540775" data-lng="15.962402" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/7818_7801_1702376353.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mima/7818" title="Mima">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mima</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 2 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 25</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="7818" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.542875" data-lng="15.955823" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/27992_3854_1653383447.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-lavanda/27992" title="Lavanda">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Lavanda</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 8 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 8 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="27992" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540423" data-lng="15.956118" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_9809P6150019.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-petric/9809" title="Petric">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Petric</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 5 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9809" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540845" data-lng="15.968215" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/24572_5575_1620287665.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-bepo/24572" title="Bepo">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Bepo</p> </a>
+</div>
+<div class="prop_body">Kapacitet: 6 osoba</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 85</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="24572" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540657" data-lng="15.956772" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/APARTMANI_NADIN_9d2b3d1242ee.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-nadin/22250" title="Nadin">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Nadin</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 12 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22250" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.532329" data-lng="15.982634" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Poljak_9599DSC_0905.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-poljak/9599" title="Poljak">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Poljak</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 19 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 11 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9599" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540375" data-lng="15.961729" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/28105_6087_1655662472.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-triton/28105" title="Triton">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Triton</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 5 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 22 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="28105" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540997" data-lng="15.953155" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_7312house_4dolphins.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-4-dolphins/7312" title="4 Dolphins">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani 4 Dolphins</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 58</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="7312" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.498604" data-lng="16.001383" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/10692_4719_1621544677.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-villa-gajeta/10692" title="Villa Gajeta">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Villa Gajeta</p> </a>
+</div>
+<div class="prop_body">Kapacitet: 4 osoba</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10692" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.539096" data-lng="15.961160" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Biserka_403a2479deed.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-biserka/14997" title="Biserka">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Biserka</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 75</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14997" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535312" data-lng="15.967684" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Dalia_b2d3eb46c1c2.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-dalia/23359" title="Dalia">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Dalia</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 6 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23359" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540134" data-lng="15.961707" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/The_D_f0a8c2674f94.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-the-d/23079" title="The D">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman The D</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: 4 osoba</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 65</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23079" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540028" data-lng="15.958519" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Anita_2b722b6d32dd.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-anita/6061" title="Anita">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Anita</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 6 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6061" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541345" data-lng="15.959006" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30875_6212_1712768092.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-odi/30875" title="Odi">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Odi</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 18 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30875" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.537357" data-lng="15.972481" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/14345_6466_1645877082.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mihoci/14345" title="Mihoci">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mihoci</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 8 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 12 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14345" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541327" data-lng="15.952570" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30066_7060_1689694904.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-lighthouse/30066" title="Lighthouse">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Lighthouse</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 4 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 65</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30066" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.542428" data-lng="15.951453" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/18816_7080_1657896568.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani--ines/18816" title=" Ines">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani  Ines</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 7 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 20 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 35</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="18816" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540208" data-lng="15.961415" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/17247_9263_1675279885.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-matija/17247" title="Matija">
+<span class="fm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Matija</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 2 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="17247" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.493756" data-lng="15.997703" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Blazevic_7a3b7032252c.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-blazevic/6348" title="Blažević">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Blažević</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 11 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 24 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6348" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534369" data-lng="15.974970" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/27104_6421_1624464548.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-marcelina-i-bepo/27104" title="Marcelina &amp; Bepo">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Marcelina &amp; Bepo</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="27104" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540917" data-lng="15.962615" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Antea_273pogledsabalkonaapart.1a.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-antea/273" title="Antea">
+<span class="fm"></span><span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Antea</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="273" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540558" data-lng="15.958516" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Nada_b0a986c922da.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/kuca-za-odmor-nada/19315" title="Nada">
+<span class="clearfix"></span>
+<p class="prop_name">Kuća za odmor Nada</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 12 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="19315" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.525779" data-lng="15.970719" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/8823_6411_1694433547.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-skorin/8823" title="Skorin">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Skorin</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 17 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8823" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535284" data-lng="15.964198" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/23585_9337_1719996130.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani--dekovic/23585" title=" Deković">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani  Deković</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 8 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="23585" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534079" data-lng="15.975000" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Alfera_e4e5a316383a.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-alfera/22984" title="Alfera">
+<span class="fm"></span><span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartman Alfera</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 3 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 100</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="22984" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.528128" data-lng="15.968414" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/29145_8754_1685371376.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mediteraneo/29145" title="Mediteraneo">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mediteraneo</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 6 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 65</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="29145" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.494503" data-lng="15.997806" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_6540KU_0.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-laim/6540" title="Laim">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Laim</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 19 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="6540" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540721" data-lng="15.953929" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Rora_7feb18ac1fc6.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-rora/26035" title="Rora">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Rora</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 110</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="26035" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534741" data-lng="15.963039" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Iva_Janes_56be6d5019c3.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-iva-janes/14191" title="Iva Janeš">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Iva Janeš</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 12 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 35</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14191" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.547825" data-lng="15.945064" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Mario_79d625d26efc.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mario/15818" title="Mario">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mario</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 5 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 9 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="15818" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535304" data-lng="15.973579" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/8061_3232_1720592873.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-vesna/8061" title="Vesna">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Vesna</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 4 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8061" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.546970" data-lng="15.944499" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30436_9174_1703055282.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-zecevo/30436" title="Zečevo">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Zečevo</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 16 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30436" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541565" data-lng="15.955826" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Mirko_11715Kucaizvani1.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mirko/11715" title="Mirko">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mirko</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 10 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="11715" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541137" data-lng="15.954852" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Divna_543bd4617173.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-sweet-mamma/5240" title="Sweet Mamma">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Sweet Mamma</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 23 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 12 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="5240" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.534481" data-lng="15.964079" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/7e7a41b8100b5266d5ffe632211f8ecb_Sime_Kuca4.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-sime/13872" title="Šime">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Šime</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="13872" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.545982" data-lng="15.944019" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Villa_Rosina_d062c7fdb392.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-rosina/11202" title="Villa Rosina">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Rosina</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 22 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="11202" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.532488" data-lng="15.969771" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/9643_1657_1665765267.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-roko/9643" title="Roko">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Roko</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 16 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9643" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540186" data-lng="15.985020" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Venci_946b9ee95853.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-venci/8496" title="Venci">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Venci</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 2 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 8 do 17 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8496" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.533429" data-lng="15.971417" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Miljenko_8298rogoznica.house.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-miljenko/8298" title="Miljenko">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Miljenko</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 17 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8298" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.541697" data-lng="15.961493" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/10149_5475_1707586556.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-perla/10149" title="Perla">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Perla</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 12 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 55</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10149" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.536367" data-lng="15.961391" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/27274_1129_1626513522.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-vila-luxor/27274" title="Vila Luxor">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Vila Luxor</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 35 osoba u 8 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="27274" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.536397" data-lng="15.966727" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Dalmacija__43a739afab6b.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-dalmacija-/14560" title="Dalmacija ">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Dalmacija </p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 14 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="14560" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540245" data-lng="15.986826" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30194_1441_1690993760.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-saponja/30194" title="Šaponja">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Šaponja</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 1 do 7 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30194" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.527661" data-lng="15.969986" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/26682_6262_1618230563.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartman-belin-dvor/26682" title="Belin Dvor">
+<span class="clearfix"></span>
+<p class="prop_name">Apartman Belin Dvor</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 3 osoba u 1 apartmanu</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 60</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="26682" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.539002" data-lng="15.989458" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Villa_Divna_2133SDC12933_Copy.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-divna/2133" title="Villa Divna">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Divna</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 3 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 19 osoba u 3 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 70</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="2133" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540529" data-lng="15.953564" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/31217_7402_1717367536.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-orazur/31217" title="Villa Orazur">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Orazur</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 8 osoba u 2 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="31217" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540912" data-lng="15.981880" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/1419_5550_1718528599.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-braco/1419" title="Braco">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Braco</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 13 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 50</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="1419" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.542100" data-lng="15.959346" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/30907_4064_1713288387.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-cvita-holiday/30907" title="Cvita Holiday">
+<span class="fm"></span><span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Cvita Holiday</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 33 osoba u 6 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 75</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="30907" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540250" data-lng="15.984909" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/Vincic_a045308a228f.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-vincic/10531" title="Vinčić">
+<span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Apartmani Vinčić</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 18 osoba u 4 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 40</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="10531" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540021" data-lng="15.961933" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/_Bozinko_281fd6ed3b19.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-villa-stella/16833" title="Villa Stella">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Villa Stella</p> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 22 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 80</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="16833" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.540246" data-lng="15.984826" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/7bcbf838aad2d6d4f975380ee45ef8d8_Dino_DSC03050.JPG">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-dino/8905" title="Dino">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Dino</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 1 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 2 do 23 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 45</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="8905" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.535981" data-lng="15.973322" data-rndn="0">
+<div class="prop_header" data-src="/slike/apartments/b8f36d2dffddf18ae2ff15d71c9eb62d_Mira_DSC_0202.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-mira/9850" title="Mira">
+<span class="clearfix"></span>
+<p class="prop_name">Apartmani Mira</p><span class="prop_rating"> <span><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> 13 ocjena</span>
+</span> </a>
+</div>
+<div class="prop_body">Kapacitet: od 4 do 20 osoba u 5 apartmana</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 90</span><span>na noć</span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="9850" data-object="apartments" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.525962" data-lng="15.973907" data-rndn="0">
+<div class="prop_header" data-src="/slike/villas/502_6138_1713958838.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/vile/rogoznica/villa-zdenka-/502" title="Villa Zdenka ">
+<span class="fm"></span><span class="lm"></span> <span class="clearfix"></span>
+<p class="prop_name">Villa Zdenka </p> </a>
+</div>
+<div class="prop_body">Kapacitet: 12 osoba</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 280</span><span></span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="502" data-object="villas" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="prop_wrap" data-lat="43.533643" data-lng="15.970948" data-rndn="0">
+<div class="prop_header" data-src="/slike/villas/1712_8692_1711620618.jpg">
+<a class="ff1" href="https://www.apartmanija.hr/vile/rogoznica/villa-martinis/1712" title="Villa Martinis">
+<span class="clearfix"></span>
+<p class="prop_name">Villa Martinis</p> </a>
+</div>
+<div class="prop_body">Kapacitet: 5 osoba</div>
+<div class="prop_footer">
+<div class="prop_footer_prc"><span>Cijena od</span><span>€ 250</span><span></span></div>
+<div class="prop_footer_wsl">
+<span class="fa-stack fa-lg __wishlist" data-id="1712" data-object="villas" data-r="" title="Spremi">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<i class="fa fa-heart fa-stack-1x"></i>
+</span>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<h2 class="__altSmj city_h2 city_sub_ttl ff1 __dontHide" style="display: none">Alternativni smještaj Rogoznica</h2>
+<div class="ads_cont" style="display: none">
+</div>
+<div class="clearfix"></div>
+<a class="showMore" data-cat="apartments" data-city="rogoznica" data-id="245" style="visibility: hidden">Prikaži više</a>
+<h2 class="city_h2 city_sub_ttl ff1 __dontHide">Rogoznica - smještaj u blizini</h2>
+<div class="col-md-12 mar_reset">
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/primošten.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/primosten">Primošten                            <br/>(90)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/brodarica.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/brodarica">Brodarica                            <br/>(55)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/zaboric_1.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/zaboric">Žaborić                            <br/>(45)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/grebaštica.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/grebastica">Grebaštica                            <br/>(39)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/šibenik.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/sibenik">Šibenik                            <br/>(29)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/razanj-rogoznica.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/razanj">Ražanj (Rogoznica)                            <br/>(25)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/Prvić.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/prvic">Prvić                            <br/>(18)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/kanica-mala.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/kanica">Kanica (Rogoznica)                            <br/>(15)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/Jadrija.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/jadrija">Jadrija                            <br/>(12)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/zablaće.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/zablace">Zablaće                            <br/>(7)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/zlarin_otok.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/zlarin">Zlarin                            <br/>(6)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/zirje.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/zirje">Žirje                            <br/>(5)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/Krapanj.gif'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/krapanj">Krapanj                            <br/>(5)</a>
+</div>
+<div class="col-md-2 city_poi_item city_nearby_item" style="background-image:url('https://www.apartmanija.hr/slike/slike_gradovi/apartmani-bilice.jpg'); ">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/bilice">Bilice                            <br/>(1)</a>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="scroll_anchor" id="poi" style="margin-top:-130px;"></div>
+<div class="city_h2 city_sub_ttl ff1 __dontHide"><i class="fa fa-map-marker"></i> Točke od interesa            </div>
+<div class="col-md-12 mar_reset">
+<div class="col-md-4 city_poi_item" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/poi/rogoznica-zmajevo-oko.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/zmajevo-oko-rogoznica">Zmajevo oko Rogoznica</a>
+</div>
+<div class="col-md-4 city_poi_item" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/poi/plaza-sepurina-rogoznica.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/plaza-sepurina-rogoznica">Plaža Šepurina u Rogoznici</a>
+</div>
+<div class="col-md-4 city_poi_item" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/poi/marina-frapa-rogoznica.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/marina-frapa-rogoznica">Marina Frapa Rogoznica</a>
+</div>
+</div>
+</div>
+<div class="col-md-3 content_right">
+<h2 class="city_h2 hidden-xs">
+            Karta Rogoznica        </h2>
+<a class="open-close-map map-back" href="">&lt;</a>
+<div class="city_map hidden-xs" id="map">
+</div>
+<input id="lat" type="hidden" value="43.528016"/>
+<input id="lng" type="hidden" value="15.968628"/>
+<input id="zoom" type="hidden" value="10"/>
+</div>
+</div>
+<!-- Modal city desc -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-desc" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Close</span></button>
+<div class="modal-title" id="modal_desc_ttl"></div>
+</div>
+<div class="modal-body">
+<img class="modal_city_img" id="desc_mob_img"/>
+<div id="desc_mob_body"></div>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal city review -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-city-review" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content" id="mod-city-review-content">
+</div>
+</div>
+</div>
+<div class="property_inquire_float_btn hidden-lg hidden-md" id="filters_mob_float"><a class="btn_bg_1" data-target="#mod-src-filters" data-toggle="modal"><i class="fa-regular fa-filter"></i> Filtriraj rezultate</a></div>
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-src-filters" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_1">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span></button>
+<div class="modal-title"><i class="fa-regular fa-filter"></i>Filtriraj rezultate</div>
+</div>
+<div class="modal-body">
+<div class="form-group">
+<i class="fa-regular fa-water home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<select class="mob_mod_inp __filter" data-filter="beach" id="" name="sel_dist" style="padding-left:27px;">
+<option rel="false" value="false">Udaljenost od mora</option>
+<option rel="50" value="50">Manje od 50m</option>
+<option rel="100" value="100">Do 100m</option>
+<option rel="150" value="150">Do 150m</option>
+<option rel="200" value="200">Do 200m</option>
+<option rel="250" value="250">Do 250m</option>
+<option rel="300" value="300">Do 300m</option>
+<option rel="400" value="400">Do 400m</option>
+<option rel="500" value="500">Do 500m</option>
+<option rel="750" value="750">Do 750m</option>
+<option rel="1000" value="1000">Do 1000m</option>
+<option rel="9999" value="9999">Više od 1km</option>
+</select>
+</div>
+<div class="form-group">
+<i class="fa-regular fa-eur home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<select class="mob_mod_inp __filter" data-filter="price" id="" name="sel_prc" style="padding-left:27px;">
+<option rel="false" value="false">Cijena na noć</option>
+<option rel="20" value="20">Manje od 20 €</option>
+<option rel="20" value="20">Do 20 €</option>
+<option rel="30" value="30">Do 30 €</option>
+<option rel="40" value="40">Do 40 €</option>
+<option rel="50" value="50">Do 50 €</option>
+<option rel="60" value="60">Do 60 €</option>
+<option rel="70" value="70">Do 70 €</option>
+<option rel="80" value="80">Do 80 €</option>
+<option rel="90" value="90">Do 90 €</option>
+<option rel="100" value="100">Do 100 €</option>
+<option rel="150" value="150">Do 150 €</option>
+<option rel="200" value="200">Do 200 €</option>
+<option rel="9999" value="9999">Više od 200 €</option>
+</select>
+</div>
+<div class="form-group">
+<i class="fa-regular fa-clock home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<select class="mob_mod_inp __filter" data-filter="first-last-minute" id="" name="" style="padding-left:27px;">
+<option rel="false" value="false">First/Last minute</option>
+<option rel="last">Last minute</option>
+<option rel="first">First minute</option>
+</select>
+</div>
+<div class="form-group search_filter_checkbox_mob __filter" data-filter="wifi" rel="false">
+<i class="fa-regular fa-wifi"></i> Internet/Wi-fi <span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filter" data-filter="sea" rel="false">
+<i class="fa-regular fa-eye"></i> Pogled na more <span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filter" data-filter="pets" rel="false">
+<i class="fa-regular fa-paw"></i> Kućni ljubimci <span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filter" data-filter="reviewed" rel="false">
+<i class="fa-regular fa-star-half-stroke"></i> Ocijenjeni <span></span>
+</div>
+<div style="text-align:center; padding-bottom:10px;"><a onclick="$('.more_filters_mob').slideToggle()"><i class="fa-regular fa-sliders"></i> Prikaži dodatne filtere</a></div>
+<div class="more_filters_mob" style="display:none;">
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="kli" rel="false">
+<i class="fa-regular fa-air-conditioner"></i> Klima<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filter" data-filter="pool" rel="false">
+<i class="fa-regular fa-water-ladder"></i> Bazen <span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="par" rel="false">
+<i class="fa-regular fa-square-parking"></i> Parking<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="grl" rel="false">
+<i class="fa-regular fa-steak"></i> Grill<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="pus" rel="false">
+<i class="fa-regular fa-smoking"></i> Dozvoljeno pušenje<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="tv" rel="false">
+<i class="fa-regular fa-tv"></i> TV<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="sat" rel="false">
+<i class="fa-regular fa-satellite-dish"></i> Satelitska TV<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="mik" rel="false">
+<i class="fa-regular fa-microwave"></i> Mikrovalna<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="caf" rel="false">
+<i class="fa-regular fa-mug-hot"></i> Aparat za kavu<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="per" rel="false">
+<i class="fa-regular fa-washing-machine"></i> Perilica rublja<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="sud" rel="false">
+<i class="fa-regular fa-soap"></i> Perilica posuđa<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="hla" rel="false">
+<i class="fa-regular fa-refrigerator"></i> Hladnjak<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="dor" rel="false">
+<i class="fa-regular fa-croissant"></i> Priprema doručka<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="pri" rel="false">
+<i class="fa-regular fa-wheelchair"></i> Pristup invalidskim kolicima<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="ter" rel="false">
+<i class="fa-regular fa-sun"></i> Terasa<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="sef" rel="false">
+<i class="fa-regular fa-vault"></i> Sef<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="djk" rel="false">
+<i class="fa-regular fa-baby"></i> Dječji krevetić<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="gri" rel="false">
+<i class="fa-regular fa-heat"></i> Grijanje<span></span>
+</div>
+<div class="form-group search_filter_checkbox_mob __filterCheckBox" data-filter="caj" rel="false">
+<i class="fa-regular fa-coffee-pot"></i> Kuhalo za vodu<span></span>
+</div>
+</div>
+<div class="form-group">
+<i class="fa-regular fa-sort-amount-asc home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<select class="mob_mod_inp __filter" data-filter="sort" id="" name="sel_prc" style="padding-left:27px;">
+<option rel="false" value="false">Sortiraj prema</option>
+<!--option>Nasumičnom odabiru</option-->
+<option rel="price-min" value="price-min">Cijeni: od niže prema višoj</option>
+<option rel="price-max" value="price-max">Cijeni: od više prema nižoj</option>
+<option rel="grade" value="grade">Ocjeni gostiju</option>
+<option rel="grade-count" value="grade-count">Broju ocjena</option>
+</select>
+</div>
+<button class="button_reset btn_src btn_bg_1 __mob_counter" data-dismiss="modal" type="button"><i class="fa-regular fa-search"></i> <span></span> rezultata</button>
+<div class="text-center mt15"><a class="search_filter_clear_mobile"><i class="fa-regular fa-times"></i> Ukloni filtere</a></div>
+</div>
+</div>
+</div>
+</div>
+<script type="application/javascript">
+    var exportJson = '{"city_name":"Rogoznica","region_name":"\u0160ibenik i okolica","city_id":"245","region_id":"5","arrival":null,"departure":null,"persons":null}';
+</script>
+<div class="container-fluid cont_latest_ads hidden-xs">
+<div class="container ff1">
+<span class="text-center latest_ads_ttl">Posljednji oglasi</span>
+<div class="row">
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31610_1104_1721388259.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/lumbarda/apartmani-josipa/31610">Apartmani Josipa</a>
+<span>Korčula Lumbarda, Otoci</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31608_1435_1721367794.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/baska-voda/apartmani-villa-nedo/31608">Apartmani Villa Nedo</a>
+<span>Baška Voda, Split i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/villas/1782_7900_1721302176.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/vile/orebic/house-senija-gracin/1782">House Senija Gracin</a>
+<span>Orebić, Dubrovnik i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31605_1995_1721413527.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/bibinje/apartmani-ines/31605">Apartmani Ines</a>
+<span>Bibinje, Zadar i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31602_6151_1721232283.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/pakostane/apartmani-zdravko/31602">Apartmani Zdravko</a>
+<span>Pakoštane, Zadar i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31599_9537_1721221419.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/ciovo-okrug-gornji/apartman-summer-memories/31599">Apartman Summer Memories</a>
+<span>Čiovo Okrug Gornji, Otoci</span>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid footer ff1">
+<div class="col-xs-12 to_top visible-xs">
+<a class="smooth" href="#top">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-arrow-up fa-stack-1x"></i>
+</span>
+</a>
+</div>
+<img class="footer_logo hidden-xs" src="//www.apartmanija.hr/icons/bg_footer_graph.png"/>
+<div class="container">
+<div class="row">
+<div class="col-md-4 text-center hidden-xs">
+<span class="ff1">Top odredišta</span>
+<ul>
+<li><a href="https://www.apartmanija.hr/apartmani/dubrovnik" target="_blank" title="Dubrovnik smještaj i apartmani.">Dubrovnik - Grad muzej</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/zadar" target="_blank" title="Apartmani u Zadru i Pivatni smjestaj Zadar.">Grad Zadar</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/sibenik" target="_blank" title="Pronadjite idealan smjestaj u Šibeniku">Šibenik - grad povijesne baštine </a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/biograd-na-moru" target="_blank" title="Apartmani, sobe i privatni smještaj u Biogradu na Moru.">Grad Biograd na Moru</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/split" target="_blank" title="Apartmani, sobe i privatni smještaj u Splitu.">Grad Split - 1700 godina tradicije</a></li>
+</ul>
+</div>
+<div class="col-md-4 text-center hidden-xs">
+<span class="ff1">Korisni linkovi</span>
+<ul>
+<li><a href="https://www.viamichelin.com" rel="nofollow" target="_blank" title="Planer putovanja - Karte, rute i ostalo. Viamichelin.">Planer putovanja</a></li>
+<li><a href="https://meteo.hr" rel="nofollow" target="_blank" title="Vremenska prognoza za Hrvatsku">Vremenska prognoza</a></li>
+<li><a href="https://www.croatia.hr" rel="nofollow" target="_blank" title="Hrvatska turistička zajednica | Top destinacije i Kamo ići?">Hrvatska turistička zajednica</a></li>
+<li><a href="https://www.apartmanija.hr/oglasavanje-smjestaja" target="_blank" title="Oglašavanje apartmana i ostalih smještajnih kapaciteta u Hrvatskoj">Oglašavanje apartmana</a></li>
+<li><a href="https://www.udaljenosti.com" target="_blank" title="Cestovna i zračna udaljenosti gradova i mjesta na karti">Udaljenosti gradova</a></li>
+</ul>
+</div>
+<div class="col-md-4 text-center">
+<span class="ff1">Otkrijte Hrvatsku</span>
+<ul>
+<li><a href="https://www.apartmanija.hr/apartmani/restoran-agli-amici-rovinj" title="Restoran Agli Amici u Rovinju je izvanredan restoran koji se ponosi dvjema...">Restoran Agli Amici u Rovinju</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/voznja-quadom-bednja" title="Vožnja quadom u Bednji je prilika da se provozamo pitomim zagorskim bregima...">Vožnja quadom u Bednji</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/usce-rijeke-zrnovnice-stobrec" title="Ušće rijeke Žrnovnice u Stobreču je dragocjeni prirodni i kulturni...">Ušće rijeke Žrnovnice u Stobreču</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/peljeski-most" title="Pelješki most je spoj između kopna i poluotoka, most koji spaja Brijesta...">Pelješki most</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/stara-jela-z-dugog-sela" title="Stara jela z Dugog Sela je manifestacija koja se održava svake godine...">Stara jela z Dugog Sela</a></li>
+</ul>
+</div>
+</div>
+<div class="row footer_follow_us">
+<div class="col-md-12 text-center">
+<span class="text-center latest_ads_ttl ff1">Pratite nas</span>
+<div>
+<a href="https://www.facebook.com/apartmanija" rel="nofollow" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://www.twitter.com/apartmanija" rel="nofollow" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="http://www.pinterest.com/directcroatia" rel="nofollow" target="_blank"><i class="fa fa-pinterest"></i></a>
+<a href="https://www.instagram.com/apartmanija.hr/" rel="nofollow" target="_blank"><i class="fa fa-instagram"></i></a>
+</div>
+<a href="https://www.cimerfraj.hr" target="_blank" title="Cimerfraj.hr"><img alt="Cimerfraj.hr" class="ftr_logo_zi" src="https://www.apartmanija.hr/icons/v3/community/logo_v4_m.png"/></a>
+</div>
+</div>
+<hr/>
+<div class="row footer_end">
+<div class="col-md-12 text-center">
+</div>
+<div class="col-md-12 text-center">
+                Copyright © 2009 - 2024 Do-bra d.o.o. | <a href="https://www.apartmanija.hr/kontakt" rel="nofollow">Kontakt</a>
+                | <a href="https://www.apartmanija.hr/opci-uvjeti-koristenja" rel="nofollow">Pravila korištenja</a>
+                                    | <a href="https://www.apartmanija.hr/opci-uvjeti-oglasavanja" rel="nofollow">Uvjeti oglašavanja</a>
+                                | Apartmanija.hr
+            </div>
+</div>
+</div>
+</div>
+<!-- Modal fullscreen -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-src" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_1">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span>
+</button>
+<div class="modal-title"><i class="glyphicon glyphicon-search"></i>Pronađi idealan smještaj u Hrvatskoj</div>
+</div>
+<div class="modal-body">
+<form action="https://www.apartmanija.hr/pretraga" enctype="multipart/form-data" id="search_form_mob" method="post">
+<div class="form-group">
+<input class="mob_mod_inp" id="inp_dest_mob" name="inp_dest" onkeyup="$('#dest_inp_clear').show(); $('#req_dest').hide(); " placeholder="Gdje se želite odmoriti?" type="text"/>
+<span id="dest_inp_clear" onclick="$('#inp_dest_mob').val('').focus(); $(this).hide()" style="position:absolute; top:16px; right:27px; font-size:28px; display:none;">×</span>
+<input id="inp_reg_val_mob" name="inp_reg_val" type="hidden">
+<input id="inp_cit_val_mob" name="inp_cit_val" type="hidden"/>
+<span class="help-block form_alert collapse" id="req_dest"><i class="fa-regular fa-caret-up"></i> Obavezno polje</span>
+</input></div>
+<div class="form-group" style="display:inline-block;">
+<i class="fa-regular fa-calendar-check home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<input class="mob_mod_inp" id="search_arrival_mobile" name="inp_start_date_val" placeholder="Dolazak" readonly="readonly" style="width:49%; padding-left:30px;" type="text"/>
+<i class="fa-regular fa-calendar-times home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<input class="mob_mod_inp" id="search_departure_mobile" name="inp_end_date_val" placeholder="Odlazak" readonly="readonly" style="width:49%; padding-left:30px;" type="text"/>
+</div>
+<div class="form-group">
+<i class="fa-regular fa-users home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<select class="mob_mod_inp" id="inp_nump_val_mob" name="inp_nump_val" style="padding-left:27px;">
+<option value="">Osoba</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13+</option>
+</select>
+</div>
+<div class="form-group">
+<select class="mob_mod_inp" id="inp_acmt_cat_mob" name="inp_acmt_cat">
+<option value="apartments">Apartmani i sobe</option>
+<option value="villas">Vile</option>
+<option value="robinson">Robinzonski turizam</option>
+<option value="rural">Seoski turizam</option>
+</select>
+</div>
+<button class="button_reset btn_src btn_bg_1" onclick="start_mob_search();" type="button">
+<i class="glyphicon glyphicon-search"></i>Traži</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="site_curr" style="display:none;">
+<li><a onclick="setCurrency('EUR')">EUR                - Euro <span>(€                    )</span></a></li>
+<li><a onclick="setCurrency('CHF')">CHF                - Švicarski franak <span>(CHF                    )</span></a></li>
+<li><a onclick="setCurrency('CZK')">CZK                - Češka koruna <span>(Kč                    )</span></a></li>
+<li><a onclick="setCurrency('DKK')">DKK                - Danska kruna <span>(kr                    )</span></a></li>
+<li><a onclick="setCurrency('GBP')">GBP                - Britanska funta <span>(£                    )</span></a></li>
+<li><a onclick="setCurrency('HRK')">HRK                - Hrvatska kuna <span>(kn                    )</span></a></li>
+<li><a onclick="setCurrency('HUF')">HUF                - Mađarski forint <span>(Ft                    )</span></a></li>
+<li><a onclick="setCurrency('NOK')">NOK                - Norveška kruna <span>(kr                    )</span></a></li>
+<li><a onclick="setCurrency('PLN')">PLN                - Poljski zloti <span>(zł                    )</span></a></li>
+<li><a onclick="setCurrency('RON')">RON                - Rumunjski lei <span>(LEI                    )</span></a></li>
+<li><a onclick="setCurrency('SEK')">SEK                - Švedska kruna <span>(kr                    )</span></a></li>
+<li><a onclick="setCurrency('RUB')">RUB                - Ruska rublja <span>(RUB                    )</span></a></li>
+<li><a onclick="setCurrency('USD')">USD                - Američki dolar <span>($                    )</span></a></li>
+</div><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script>
+    var currentDateMDY = '07/20/2024';
+    var baseUrl = 'https://www.apartmanija.hr';
+    let exchangeRate = 7.53450;
+</script>
+<script type="text/javascript">
+    var daterangepicker_options = {
+            autoApply: true,
+            autoUpdateInput: false,
+            minDate: currentDateMDY
+        },
+        selector_arrival = '.datepicker_search_arrival',
+        selector_departure = '.datepicker_search_departure';
+    </script>
+<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/jquery.mobile.custom.min.js" type="text/javascript"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/infobubble-compiled.js" type="text/javascript"></script>
+<script src="//cdn.jsdelivr.net/npm/moment@2.22.1/min/moment-with-locales.min.js" type="text/javascript"></script>
+<script>
+            daterangepicker_options['locale'] = {
+        daysOfWeek: 'ne_po_ut_sr_če_pe_su'.split('_'),
+        monthNames: 'sij_velj_ožu_tra_svi_lip_srp_kol_ruj_lis_stu_pro'.split('_')
+    };
+        daterangepicker_options['locale']['firstDay'] = 1;
+</script>
+<script src="https://www.apartmanija.hr/js/v3/datepicker.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/autocomplete/autocomplete-hr.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/functions.js?24-06-2024-14-00" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.6/jquery.lazy.min.js" type="text/javascript"></script>
+<script>
+    $(function () {
+        $("[data-src]").lazy();
+        $('[data-target="#mod-src"]').click(function (e) {
+            setTimeout(function () {
+                $('#inp_dest_mob').focus();
+                if ($('#inp_dest_mob').val().length > 0) {
+                    $('#dest_inp_clear').show();
+                }
+            }, 50);
+        });
+    });
+
+    function showImg() {
+        $(".lazy").lazy({
+            bind: "event",
+            delay: 0,
+            attribute: "data-ssrc"
+        });
+    }
+</script>
+<script>
+        $(window).load(function () {
+            if (!/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+                showObjectsOnMap('city');
+            }
+
+            if (typeof exportJson !== 'undefined') {
+                var searchValues = JSON.parse(exportJson);
+                $('#inp_dest_mob').val(searchValues.city_name + ', ' + searchValues.region_name);
+                                $('#inp_nump_val_mob').val(searchValues.persons);
+                $('#search_arrival_mobile').val(searchValues.arrival);
+                $('#search_departure_mobile').val(searchValues.departure);
+                $('#inp_reg_val_mob').val(searchValues.region_id);
+                $('#inp_cit_val_mob').val(searchValues.city_id);
+                                //if (searchValues.arrival != null && searchValues.departure != null)
+                /*$('.__top a.ff1').each(function () {
+                    $(this).attr('href', $(this).attr('href') + '?' + searchValues.arrival + ':' + searchValues.departure);
+                });*/
+            }
+            $('.showMore').click();
+        });
+    </script>
+<div id="fb-root"></div>
+<script src="https://www.apartmanija.hr/js/v3/jquery.smoothscroll.js"></script>
+<!-- Load Facebook SDK for JavaScript -->
+<script async="" crossorigin="anonymous" defer="" nonce="FOKrbAYI" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0&amp;appId=119647764745190&amp;autoLogAppEvents=1"></script>
+<script>
+    !function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.id = id;
+            js.src = p + '://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+    }(document, 'script', 'twitter-wjs');
+    window.___gcfg = {lang: 'en-GB'};
+    if (typeof jQueryLoad === "function")
+        jQueryLoad();
+</script>
+<div class="fullPageLoader" style="display:none;top:0;left:0;z-index:9999;text-align:center;width: 100%; height: 100%; background: rgba(0,0,0,.6); position: fixed; color: #fff">
+<div style="position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);font-size: 16px">Učitavam...
+    </div>
+</div>
+</body>
+</html><!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> <!-- 8Undefined offset: -1/home/manija/public_html/v1mob/application/templates/html.city.php436--> 

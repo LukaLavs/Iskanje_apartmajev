@@ -1,0 +1,2469 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+<title>Apartmani Rogoznica - Apartmani Hadriaticum 1 | Apartmanija.hr</title>
+<meta content="Apartmani Hadriaticum 1 Rogoznica - Šibenik i okolica - Kontakt osoba Tonći Žanko" name="description"/>
+<link href="//fonts.googleapis.com/css?family=Roboto+Condensed:300,400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+<link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">
+<script crossorigin="anonymous" src="https://kit.fontawesome.com/edee4d6093.js"></script>
+<!--script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDQNbiCrR4uICVUDhTtT8lbutr-NL3Ckes&language=hr"></script-->
+<link crossorigin="" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" rel="stylesheet"/>
+<script crossorigin="" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"></script>
+<script src="https://ivansanchez.gitlab.io/Leaflet.TileLayer.HERE/leaflet-tilelayer-here.js"></script>
+<link href="https://www.apartmanija.hr/css/daterangepicker.css" rel="stylesheet" type="text/css"/>
+<link href="https://www.apartmanija.hr/css/v2styles.css?02-05-2024-16-47" rel="stylesheet" type="text/css"/>
+<link href="https://www.apartmanija.hr/icons/v3/favicon.png" rel="icon" type="image/png"/>
+<script src="https://www.apartmanija.hr/js/v3/validation.js"></script>
+<meta content="http://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427" property="og:url"/>
+<meta content="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427kuca11mala.jpg" property="og:image"/>
+<meta content="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427kuca11mala.jpg" property="twitter:image"/>
+<link href="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.2/jquery.fancybox.min.css" rel="stylesheet" type="text/css"/>
+<!--link href="https://www.apartmanija.hr/css/lightbox.css?v1" rel="stylesheet" type="text/css"/-->
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TV86QP5');</script>
+<!-- End Google Tag Manager --> <!-- Facebook Pixel Code -->
+<script>
+        !function (f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function () {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '807330219600246');
+        fbq('track', 'PageView');
+    </script>
+<noscript>
+<img height="1" src="https://www.facebook.com/tr?id=807330219600246&amp;ev=PageView
+&amp;noscript=1" width="1"/>
+</noscript>
+<!-- End Facebook Pixel Code -->
+<meta content="3530b49d1f54bda13781871a5cc58d5f3494b22547346421eb804a0fd9f98779" name="ahrefs-site-verification"/>
+</link></meta></head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-TV86QP5" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) --><div id="ui_msg">
+<div class="rad_all_3"></div>
+</div>
+<div id="ui_msg_err">
+<div class="rad_all_3"></div>
+</div>
+<div id="ui_ldr">
+<div></div>
+</div>
+<div class="container-fluid nt" id="site_nt">
+<div class="container" id="site_nt_txt">
+</div>
+</div>
+<script>
+var translations = {satelit:'Satelit', map: 'Karta'};
+</script>
+<header>
+<div class="container-fluid city_nav" id="cont-search">
+<div class="">
+<div class="container-fluid nav-cont-subp">
+<div class="navbar navbar-inverse ff1" id="slide-nav" role="navigation">
+<div class="navbar-header hidden-lg hidden-md nav_menu">
+<a class="navbar-toggle">
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+<span class="icon-bar"></span>
+</a>
+</div>
+<div class="nav_logo hidden-lg hidden-md">
+<a href="https://www.apartmanija.hr"><img alt="Apartmani Hrvatska Logo Apartmanija.hr" class="logo" src="https://www.apartmanija.hr/icons/v3/logo/apartmanija_v2.png"/></a>
+</div>
+<div class="nav_srch hidden-lg hidden-md">
+<a data-target="#mod-src" data-toggle="modal"><i class="fa fa-search property_search_icon"></i></a>
+<a class="fa-stack fa-3x wishlist_icon_m" href="https://www.apartmanija.hr/moji-apartmani" rel="nofollow">
+<i class="fa fa-heart-o fa-stack-2x"></i>
+<strong class="fa-stack-1x"></strong>
+</a>
+</div>
+<div id="slidemenu">
+<a class="hidden-xs" href="https://www.apartmanija.hr">
+<img alt="Apartmani Hrvatska Logo Apartmanija.hr" class="logo" src="https://www.apartmanija.hr/icons/v3/logo/apartmanija_v2.png"/></a>
+<div class="dd_lang_curr_cont dd_subp navbar-right">
+<a class="btn-group navbar_link navbar_link_dark navbar_wsl_link hidden-xs" href="https://www.apartmanija.hr/moji-apartmani" rel="nofollow">
+<i class="fa fa-heart-o"></i> Odabrani smještaj <i style="display: none"></i>
+</a>
+<div class="btn-group hidden-xs">
+<a class="navbar_link navbar_link_dark" href="https://www.apartmanija.hr/apartmani">Apartmani i sobe</a>
+<button aria-expanded="false" aria-haspopup="true" class="button_reset_v2 dropdown-toggle" data-toggle="dropdown" type="button">
+<span class="caret"></span>
+</button>
+<ul class="dropdown-menu dd_lang" role="menu">
+<li>
+<a href="https://www.apartmanija.hr/apartmani">Apartmani i sobe</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/vile">Vile</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/robinzonski-turizam">Robinzonski turizam</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/seoski-turizam">Seoski turizam</a>
+</li>
+</ul>
+</div>
+<div class="btn-group">
+<button class="button_reset_v2 dd_header dropdown-toggle" data-toggle="dropdown" type="button">
+<img src="https://www.apartmanija.hr/icons/v3/ln/hr.gif"/> <span class="caret"></span>
+</button>
+<ul class="dropdown-menu dd_lang" role="menu">
+<li>
+<a target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/hr.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.direct-croatia.com/apartments/rogoznica/apartments-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/en.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.alloggiocroazia.it/appartamenti/rogoznica/appartamenti-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/it.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.direkt-kroatien.de/ferienwohnungen/rogoznica/appartements-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/de.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.chorvatskeubytovani.cz/apartmany/rogoznica/apartmany-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/cs.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.apartamentychorwacja.pl/apartamenty/rogoznica/apartamenty-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.obmorju.si/apartmaji/rogoznica/apartmaji-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.horvatorszagapartmanok.net/apartmanok/rogoznica/apartmanok-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/hu.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.vacancescroatie.net/appartements/rogoznica/appartements-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/fr.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.alojamientocroacia.es/apartamentos/rogoznica/apartamentos-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/es.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.apartamentecroatia.com/apartamente/rogoznica/apartamente-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/ro.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.directkroatie.nl/appartementen/rogoznica/appartementen-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/nl.gif"/>
+</a>
+</li>
+<li>
+<a href="https://www.kroatiendirekte.dk/ferielejligheder/rogoznica/ferielejligheder-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/da.gif"/>
+</a>
+</li>
+<li>
+<a href="http://www.otdihhorvatija.ru/apartamenty/rogoznica/a-hadriaticum-1/7427" target="_blank">
+<img class="flag" src="https://www.apartmanija.hr/icons/v3/ln/ru.gif"/>
+</a>
+</li>
+</ul>
+</div>
+<div class="btn-group">
+<button class="button_reset dd_header dropdown-toggle" data-toggle="dropdown" type="button">
+
+                EUR (€)
+                <span class="caret"></span>
+</button>
+<ul class="dropdown-menu dd_lang" id="curr_list" role="menu">
+</ul>
+</div>
+<div class="btn-group">
+<a class="dd_header login_icon" href="https://www.apartmanija.hr/prijava" rel="nofollow" target="_blank"><i class="fa fa-user-circle login login_subp"></i></a>
+</div>
+<a class="btn-group ff1 reg_btn hidden-xs" href="//www.apartmanija.hr/oglasavanje-smjestaja" id="signup_url" title="Oglašavanje apartmana">Oglasi se!</a>
+</div>
+<ul class="nav navbar-nav navbar-nav-subp navbar-right hidden-md hidden-lg">
+<li class="hidden-md hidden-lg"><a href="https://www.apartmanija.hr">Apartmanija.hr</a></li>
+<li>
+<a href="https://www.apartmanija.hr/apartmani">Apartmani i sobe</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/vile">Vile</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/robinzonski-turizam">Robinzonski turizam</a>
+</li>
+<li>
+<a href="https://www.apartmanija.hr/seoski-turizam">Seoski turizam</a>
+</li>
+<a class="btn-group ff1 reg_btn visible-xs" onclick="gt_sgnp()" title="Oglašavanje apartmana"><i class="fa fa-home"></i>Oglasi svoj smještaj!</a>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div></header>
+<div>
+<div class="container-fluid ff1 subp_search_tray_cont property_search_tray_cont hidden-xs">
+<div class="container">
+<form action="https://www.apartmanija.hr/pretraga" enctype="multipart/form-data" id="search_form" method="post">
+<div class="btn-group">
+<div class="dest_sel_wrap dest_sel_subp">
+<button class="button_reset dsel_dd dest_sel dest_sel_subp_btn" id="dsel" type="button">
+                                    Izaberite odredište <span class="caret"></span>
+</button>
+</div>
+</div>
+<div class="btn-group" style="margin-top:-1px;">
+<input class="subp_search_city" id="inp_dest" name="inp_dest" onclick="this.select();" placeholder="ili upišite naziv grada" style="max-width:230px;" type="text" value="Rogoznica, Šibenik i okolica"/>
+<input id="inp_reg_val" name="inp_reg_val" type="hidden"/>
+<input id="inp_cit_val" name="inp_cit_val" type="hidden"/>
+</div>
+<input id="inp_acmt_cat" name="inp_acmt_cat" type="hidden" value="apartments"/>
+<div class="btn-group" style="margin-top:-1px; background-color:#fff;">
+<i class="fa-regular fa-calendar home_search_icon" style="position:absolute; margin:20px 0 0 10px;"></i>
+<input class="subp_search_city datepicker_search_arrival" id="search_arrival" name="inp_start_date_val" placeholder="Dolazak" readonly="readonly" style="max-width:140px; border-left:1px solid #ccc; cursor:pointer; text-align:center;" type="text"/> <i class="fa-regular fa-long-arrow-right"></i>
+<input class="subp_search_city datepicker_search_departure" id="search_departure" name="inp_end_date_val" placeholder="Odlazak" readonly="readonly" style=" max-width:140px; cursor:pointer; text-align:center;" type="text"/>
+</div>
+<div class="btn-group">
+<i class="fa-regular fa-users" style="position:absolute; margin:20px 0 0 10px;"></i>
+<button class="button_reset subp_search_persons_select dropdown-toggle" data-toggle="dropdown" style="padding-left:35px;" type="button">
+                                Osoba                                <span class="caret"></span>
+</button>
+<input id="inp_nump_val" name="inp_nump_val" type="hidden"/>
+<ul aria-labelledby="dd_ppl" class="dropdown-menu dd_src" id="dd_ppl" role="menu">
+<li><a>1</a></li>
+<li class="divider"></li>
+<li><a>2</a></li>
+<li class="divider"></li>
+<li><a>3</a></li>
+<li class="divider"></li>
+<li><a>4</a></li>
+<li class="divider"></li>
+<li><a>5</a></li>
+<li class="divider"></li>
+<li><a>6</a></li>
+<li class="divider"></li>
+<li><a>7</a></li>
+<li class="divider"></li>
+<li><a>8</a></li>
+<li class="divider"></li>
+<li><a>9</a></li>
+<li class="divider"></li>
+<li><a>10</a></li>
+<li class="divider"></li>
+<li><a>11</a></li>
+<li class="divider"></li>
+<li><a>12</a></li>
+<li class="divider"></li>
+<li><a href="#">13+</a></li>
+</ul>
+</div>
+<div class="btn-group subp_search_btn">
+<button class="button_reset src_go ff1 property_search_tray_btn" onclick="start_search();" type="button"><i class="fa-regular fa-search"></i>Traži                            </button>
+</div>
+<div class="dest_sel_cont ml10" style="display:none;">
+<ul>
+<li class="dscn_ttl ff1">Regije</li>
+<li class="otoci" onclick="showCityList(); selRegion(11); map_dd(44.123085,15.3479,8,11);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/croatian-islands.jpg" width="30"/><span id="r11">Otoci</span></li>
+<li class="istra" onclick="showCityList(); selRegion(2); map_dd(45.217841,13.914185,9,2);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/istria.jpg" width="30"/><span id="r2">Istra</span></li>
+<li class="kvarner" onclick="showCityList(); selRegion(3); map_dd(44.969992,14.716448,9,3);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/kvarner.jpg" width="30"/><span id="r3">Kvarner i gorje</span></li>
+<li class="zadar" onclick="showCityList(); selRegion(4); map_dd(44.092190,15.412927,10,4);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/zadar.jpg" width="30"/><span id="r4">Zadar i okolica</span></li>
+<li class="sibenik" onclick="showCityList(); selRegion(5); map_dd(43.649570,15.843342,10,5);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/sibenik.jpg" width="30"/><span id="r5">Šibenik i okolica</span></li>
+<li class="split" onclick="showCityList(); selRegion(6); map_dd(43.362883,16.606303,9,6);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/split.jpg" width="30"/><span id="r6">Split i okolica</span></li>
+<li class="dubrovnik" onclick="showCityList(); selRegion(7); map_dd(42.861873,17.769012,9,7);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/dubrovnik.jpg" width="30"/><span id="r7">Dubrovnik i okolica</span></li>
+<li class="zagreb" onclick="showCityList(); selRegion(8); map_dd(45.818511,15.978928,9,8);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/zagreb.jpg" width="30"/><span id="r8">Zagreb i središnja Hrvatska</span></li>
+<li class="slavonija" onclick="showCityList(); selRegion(10); map_dd(45.287559,18.808119,9,10);">
+<img height="30" src="https://www.apartmanija.hr/slike/slike_regije/v3/slavonia.jpg" width="30"/><span id="r10">Slavonija i Baranja</span></li>
+</ul>
+</div>
+<div class="dest_sel_city_list" id="city_list" style="display:none;">
+<div class="dscl_cont">
+<div class="dscl_ttl ff1">Gradovi                                    <a class="dest_sel_city_list_close right" onclick="closeDestSel()"></a>
+<div class="clearfix"></div>
+</div>
+<div class="pull-left">
+<ul class="dest_sel_city_list_ul" id="city_list_cont"></ul>
+</div>
+<div class="pull-left dscl_cont_map" id="map-canvas"></div>
+<div class="clearfix"></div>
+</div>
+<div class="clearfix"></div>
+</div>
+</form>
+</div>
+</div>
+</div>
+<div class="container-fluid property_header_wrap">
+<div class="container hidden-xs">
+<div class="pull-left">
+<ul class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+<li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+<a href="/" itemprop="item"><span itemprop="name">Apartmanija.hr</span></a><meta content="1" itemprop="position"/></li> <i class="fa-regular fa-angle-right"></i> <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/apartmani" itemprop="item"><span itemprop="name">Apartmani u Hrvatskoj</span></a><meta content="2" itemprop="position"/></li> <i class="fa-regular fa-angle-right"></i> <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><a href="/apartmani/rogoznica" itemprop="item"><span itemprop="name">Rogoznica</span></a><meta content="3" itemprop="position"/></li> <i class="fa-regular fa-angle-right"></i> <li class="active" itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem"><span itemprop="name">Apartmani Hadriaticum 1</span><meta content="4" itemprop="position"/></li></ul> </div>
+<div class="pull-right social_subp">
+<div class="pull-left" style="margin-right:3px;">
+<div class="fb-like" data-action="like" data-colorscheme="light" data-font="arial" data-href="http://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427" data-layout="button_count" data-send="false" data-show-faces="false" data-width="30"></div>
+</div>
+<a class="viber-share-button hidden-lg hidden-md" href="viber://forward?text=http://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427" target="_blank"><span class="icon-viber"></span>Viber</a>
+</div>
+</div>
+<div class="container content_home" itemscope="" itemtype="http://schema.org/Hotel">
+<div class="col-md-9 property_header">
+<h1 itemprop="name">Apartmani Hadriaticum 1<span class="hidden-xs"> - </span><span>Rogoznica - Šibenik i okolica</span></h1>
+<image itemprop="image" src="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427kuca11mala.jpg" style="display:none"/>
+<pricerange itemprop="priceRange" style="display:none">cijena od € 50 na noć</pricerange>
+<script>
+                    window.dataLayer = window.dataLayer || [];
+                    window.dataLayer.push({
+                        'google_tag_params': {
+                            'dynx_itemid': 'apartments7427', // Product ID
+                            'dynx_pagetype': 'product', // Page type
+                            'dynx_totalvalue': 50.00 // Lowest price
+                        }
+                    });
+                </script>
+<div class="property_contact hidden-xs" id="property_contact">
+<span id="property_address" itemprop="address"><i class="fa fa-map-marker"></i>Zatoglav 69, Rogoznica</span>
+<i class="fa fa-mobile" style="margin-left: 10px"></i>
+<a class="property_mobile" href="tel:+385981699486" onclick="javascript:fClick('phone', 6353);" style="color:#777">
+                                                        +385981699486                                                            </a>
+</div>
+</div>
+<div class="col-md-3 text-right property_rating_info">
+<div itemprop="aggregateRating" itemscope="" itemtype="http://schema.org/AggregateRating">
+<a class="default smooth" href="#property_reviews">
+<div class="rating_count">Ocjena gostiju na temelju <u><span itemprop="ratingCount">21</span> komentara</u></div>
+<div class="rating_avg ff1">
+                            Odlično! <span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
+</a>
+<div class="hidden-xs">
+                            Boravili ste ovdje? <span class="property_add_review_link" onclick="addReview(6816,7427,'apartments','A4_18596|A4_22944|S_22520|S_18595')"><u>Napišite komentar!</u></span> </div>
+</div>
+</div>
+</div>
+<div class="container gallery">
+<div class="col-md-4 property_main_img">
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427kuca11mala.jpg" title="Apartmani Hadriaticum 1">
+<div style="background:url(/slike/apartments/Hadriaticum_7427kuca11mala.jpg) center center no-repeat; background-size:cover;">
+<i class="fa fa-search-plus property_more_img property_more_main_img hidden-lg"></i>
+</div>
+</a>
+</div>
+<div class="col-md-8 property_tmbs hidden-xs">
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/7427_5789_1672397876.jpg" title="Apartmani Hadriaticum 1">
+<div class="sqr" style="background:url(https://www.apartmanija.hr/slike_thumbs/apartments/7427_5789_1672397876.jpg) center center no-repeat; background-size:cover; ">
+</div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/7427_4068_1672398165.jpg" title="Apartmani Hadriaticum 1">
+<div class="pan" style="background:url(https://www.apartmanija.hr//slike/apartments/7427_4068_1672398165.jpg) center center no-repeat; background-size:249px;"></div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/aecad42329922dfc97eee948606e1f8e_Hadriaticum_WIEW1.jpg" title="Apartmani Hadriaticum 1">
+<div class="pan" style="background:url(https://www.apartmanija.hr//slike/apartments/aecad42329922dfc97eee948606e1f8e_Hadriaticum_WIEW1.jpg) center center no-repeat; background-size:249px;"></div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427plaza66.jpg" title="Apartmani Hadriaticum 1">
+<div class="sqr" style="background:url(https://www.apartmanija.hr/slike_thumbs/apartments/Hadriaticum_7427plaza66.jpg) center center no-repeat; background-size:cover; ">
+</div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/7427_1892_1672398998.jpg" title="Apartmani Hadriaticum 1">
+<div class="pan" style="background:url(https://www.apartmanija.hr//slike/apartments/7427_1892_1672398998.jpg) center center no-repeat; background-size:249px;"></div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/7427_1078_1672397914.jpg" title="Apartmani Hadriaticum 1">
+<div class="pan" style="background:url(https://www.apartmanija.hr//slike/apartments/7427_1078_1672397914.jpg) center center no-repeat; background-size:249px;"></div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_5a83a78ef350.jpg" title="Apartmani Hadriaticum 1">
+<div class="sqr" style="background:url(https://www.apartmanija.hr/slike_thumbs/apartments/Hadriaticum_5a83a78ef350.jpg) center center no-repeat; background-size:cover; ">
+</div>
+</a>
+<a class="gal_item" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/aecad42329922dfc97eee948606e1f8e_Hadriaticum_WIEW14.jpg" title="Apartmani Hadriaticum 1">
+<div class="sqr" style="background:url(https://www.apartmanija.hr/slike_thumbs/apartments/aecad42329922dfc97eee948606e1f8e_Hadriaticum_WIEW14.jpg) center center no-repeat; background-size:cover; ">
+<i class="fa fa-plus-circle property_more_img"></i> </div>
+</a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427kucasastrane.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/aecad42329922dfc97eee948606e1f8e_Hadriaticum_WIEW12.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427pogleed1.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427IMG_7387.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/_7427podmorje.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427prolazribe.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427grill2.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427vecera2.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427kanu4.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_a5623f86bc19.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427rogainfo.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/Hadriaticum_7427zatoglav2.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/7427_2554_1672397851.jpg" title="Apartmani Hadriaticum 1"></a>
+<a class="gal_item collapse" data-caption="Apartmani Hadriaticum 1" data-fancybox="Apartmani Hadriaticum 1" href="https://www.apartmanija.hr/slike/apartments/7427_6075_1672398186.jpg" title="Apartmani Hadriaticum 1"></a>
+</div>
+<div class="property_owner_tmb" id="property_owner_tmb">
+<a class="smooth" href="#owner"><img class="img-circle" src="https://korisnici.apartmanija.hr/data/uspht/picce20a856566dd68acdfa54ff17f00e11.jpg"/></a>
+</div>
+<ul class="property_contact_xs list-group hidden-md hidden-lg" id="property_contact_xs">
+<li class="list-group-item"><span id="property_address" itemprop="address"><i class="fa fa-map-marker"></i>Zatoglav 69, Rogoznica</span>
+</li>
+<div class="container visible-xs" style="background-color:#fff; border-top:1px solid #ddd; border-bottom:1px solid #ddd; padding:0;">
+<div class="btn-group btn-group-justified property_contact_buttons" role="group">
+<div class="btn-group text-center" role="group">
+<a href="tel:+385981699486" onclick="javascript:fClick('phone', 6353);" style="color:#777;">
+<i class="fa fa-mobile" style="padding:0; margin:0; font-size:18px;"></i>
+<div>
+                                                                                            Nazovi                                                                                        <span style="font-size:10px; display:block; margin:0;">+385981699486</span>
+</div>
+</a>
+</div>
+<div class="btn-group text-center" role="group">
+<a href="whatsapp://send?phone=+385981699486" onclick="fClick('whatss', 6353);" style="display:block; min-height:25px; color:#25d366;"><i class="fa fa-whatsapp" style="padding:0; margin:0; font-size:18px;"></i><br/>WhatsApp</a>
+</div>
+</div>
+</div>
+</ul>
+</div>
+</div>
+<div class="property_nav_wrap" id="property_nav_wrap">
+<div class="container">
+<div class="btn-group btn-group-justified property_nav_buttons" role="group">
+<div class="btn-group" role="group">
+<a class="btn btn-default smooth" href="#accommodation_units"><i class="fa fa-bed"></i>
+<span>Smještajne jedinice</span></a>
+</div>
+<div class="btn-group" role="group">
+<a class="btn btn-default smooth" href="#property_info"><i class="fa fa-list-ul"></i>
+<span>Ostale informacije</span></a>
+</div>
+<div class="btn-group" role="group">
+<a class="btn btn-default smooth" href="#property_map" onclick='showGMap($("#lat").val(), $("#lng").val(), $("#zoom").val());$(".show_map").remove();'><i class="fa fa-map-marker"></i>
+<span>Prikaz na karti</span></a>
+</div>
+<div class="btn-group" role="group">
+<a class="btn btn-default smooth" href="#property_reviews"><i class="fa fa-star"></i>
+<span>Komentari</span></a>
+</div>
+<div class="btn-group hidden-xs" role="group">
+<a class="btn btn-default smooth_event" href="#inquiry"><i class="fa fa-envelope"></i>
+<span>Pošalji upit</span></a>
+</div>
+<div class="btn-group hidden-lg hidden-md" role="group">
+<a class="btn btn-default" data-target="#mod-inq" data-toggle="modal"><i class="fa fa-envelope"></i></a>
+</div>
+<div class="btn-group" role="group">
+<a class="btn btn-default smooth_event" data-target="#mod-social-share" data-toggle="modal"><i class="fa fa-share-alt"></i> <span>Podijeli</span></a>
+</div>
+<div class="btn-group" role="group">
+<a class="btn btn-default property_add_to_wsl __wishlist" data-id="7427" data-object="apartments"><i class="fa fa-heart"></i>
+<span>Spremi</span></a>
+</div>
+</div>
+</div>
+</div>
+<div class="container property_content">
+<div class="col-md-9 content_left_cat">
+<div class="city_sub_ttl ff1">Opis objekta</div>
+<p class="property_desc">
+                Oduševljenje morem smo pokušali prenijeti i u naše apartmane. Uredili smo ih tako da odišu toplinom doma, a da budu jednostavni i funkcionalni. Opremili smo ih sa svime što treba za savršen odmor. A oni su opet toliko blizu mora, da vam se i ne čini da ste u apartmanu. Pogledavši kroz prozor, more vam je uvijek u kadru, dok se sa svake terase ispraća Sunce na počinak. Želimo da se u našim apartmanima ugodno osjećate i da svoje dragocjeno vrijeme provedete na najbolji mogući način! Smješteni smo na samom kraju mirnog naselja Zatoglav, nasuprot Rogoznice, što je idealno za ljude koji vole čisto more i mir. Udaljenost do mjesta je 4 km, Primoštena 10 km, Trogira 25 km, Šibenik 35, nacionalni parkovi Krka i Kornati su udaljeni 39 km, Split 50 km...Naši apartmani su mirna oaza gdje možete uživati u moru i izvrsna pozicija za izlete po gradovima bogate prošlosti ili nacionalnim parkovima...restoranima, barovima, sportskim aktivnostima...A kad se umorite, vaša vas mirna oaza čeka.             </p>
+<div class="property_units_wrap">
+<div class="city_sub_ttl ff1" id="accommodation_units">Smještajne jedinice</div>
+<div class="property_unit_cont price-18596" data-price="80">
+<div class="property_unit_header gallery">
+<div class="property_unit_det">
+<div class="property_unit_det_info">
+<div class="pull-left property_unit_xs">
+<span>A4</span>
+</div>
+<div class="pull-left property_unit_xs">
+<strong>ID:18596                                                                                            <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </strong>
+<div>Apartman za četiri osobe (60 m2)</div>
+</div>
+<div class="clearfix"></div>
+<ul class="hidden-xs">
+<li>Internet/Wi-fi</li><li>Klima</li><li>TV</li><li>Kupaonica</li><li>Kuhinja</li><li>Dozvoljeno pušenje</li>
+<li>• <strong><a onclick="showAmenities(18596,'apartments','tv,kli,sat,gri,int,hla,caj,rad,per,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)">Više detalja</a></strong>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="property_unit_thumbs" id="acmu_img_18596">
+<a class="gal_item property_unit_main_img_lg" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_8f47f7f303cc.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(/slike/apartments_units/Hadriaticum_8f47f7f303cc.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_3934586e782e.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_3934586e782e.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_18596dnevni33.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_18596dnevni33.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_d71360cb703b.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_d71360cb703b.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_4946e604be21.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_4946e604be21.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_6919ffacd67b.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_6919ffacd67b.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_dfb1302d020a.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_dfb1302d020a.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_3f4739f3cde2.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_3f4739f3cde2.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_4a1a951226af.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_4a1a951226af.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/Hadriaticum_7935a0c2ee22.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_7935a0c2ee22.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:18596)" data-fancybox="A4 (ID:18596)" href="/slike/apartments_units/18596_1943_1672398475.jpg" title="A4 (ID:18596)">
+<div style="background-image:url(https://www.apartmanija.hr/slike_thumbs/apartments_units/18596_1943_1672398475.jpg); background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+</div>
+</div>
+<div class="property_unit_prc_from pull-right property_unit_xs">
+<div class="property_unit_prc_info">
+<span>cijena od </span><span><i>€</i> 80</span> <span>na noć</span> <a class="property_unit_book_btn smooth_event hidden-xs" href="#inquiry" onclick="focusCform('A4|18596')">Pošalji upit</a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(18596,'apartments','tv,kli,sat,gri,int,hla,caj,rad,per,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(18596, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(18596,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik</button>
+</div>
+</div>
+<div class="property_unit_body table-responsive collapse" id="unit_det_1182">
+</div>
+<a class="property_unit_book_btn_xs text-center hidden-lg hidden-md" data-target="#mod-inq" data-toggle="modal" onclick="focusCform('A4|18596')">Pošalji upit</a>
+<!-- Modal amenities -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-ame-18596" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_8f47f7f303cc.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">A4</span>
+<br/>ID:18596</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-ame-content18596">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(18596, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(18596,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal pricelist -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-prc-18596" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_8f47f7f303cc.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">A4</span>
+<br/>ID:18596</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-prc-content18596">
+</div>
+<div class="clearfix"></div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(18596,'apartments','tv,kli,sat,gri,int,hla,caj,rad,per,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(18596, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal calendar/availability -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-cal-18596" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_8f47f7f303cc.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">A4</span>
+<br/>ID:18596</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div class="property_loader_float" id="cal-loader-float18596">
+<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+</div>
+<div id="mod-unit-cal-content18596">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(18596,'apartments','tv,kli,sat,gri,int,hla,caj,rad,per,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(18596,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="property_unit_cont price-22944" data-price="70">
+<div class="property_unit_header gallery">
+<div class="property_unit_det">
+<div class="property_unit_det_info">
+<div class="pull-left property_unit_xs">
+<span>A4</span>
+</div>
+<div class="pull-left property_unit_xs">
+<strong>ID:22944                                                                                            <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </strong>
+<div>Apartman za četiri osobe (55 m2)</div>
+</div>
+<div class="clearfix"></div>
+<ul class="hidden-xs">
+<li>Internet/Wi-fi</li><li>Klima</li><li>TV</li><li>Kupaonica</li><li>Kuhinja</li><li>Dozvoljeno pušenje</li>
+<li>• <strong><a onclick="showAmenities(22944,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk,sud|pog,kup,kuh,pus,ter,grl,par',null)">Više detalja</a></strong>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="property_unit_thumbs" id="acmu_img_22944">
+<a class="gal_item property_unit_main_img_lg" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_22944zeleni39.jpg" title="A4 (ID:22944)">
+<div data-src="/slike/apartments_units/Hadriaticum_22944zeleni39.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_22944ulaz2.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22944ulaz2.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_22944velikikuhinja12.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22944velikikuhinja12.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_22944velikikuhinja13.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22944velikikuhinja13.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_fa491b1a3057.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_fa491b1a3057.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_22944zeleni2.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22944zeleni2.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_a486d86759b8.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_a486d86759b8.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_56d2d89aa6a5.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_56d2d89aa6a5.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_de5defda62c6.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_de5defda62c6.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="A4 (ID:22944)" data-fancybox="A4 (ID:22944)" href="/slike/apartments_units/Hadriaticum_22944zeleni4.jpg" title="A4 (ID:22944)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22944zeleni4.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+</div>
+</div>
+<div class="property_unit_prc_from pull-right property_unit_xs">
+<div class="property_unit_prc_info">
+<span>cijena od </span><span><i>€</i> 70</span> <span>na noć</span> <a class="property_unit_book_btn smooth_event hidden-xs" href="#inquiry" onclick="focusCform('A4|22944')">Pošalji upit</a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(22944,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk,sud|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(22944, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(22944,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik</button>
+</div>
+</div>
+<div class="property_unit_body table-responsive collapse" id="unit_det_1182">
+</div>
+<a class="property_unit_book_btn_xs text-center hidden-lg hidden-md" data-target="#mod-inq" data-toggle="modal" onclick="focusCform('A4|22944')">Pošalji upit</a>
+<!-- Modal amenities -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-ame-22944" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_22944zeleni39.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">A4</span>
+<br/>ID:22944</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-ame-content22944">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(22944, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(22944,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal pricelist -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-prc-22944" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_22944zeleni39.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">A4</span>
+<br/>ID:22944</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-prc-content22944">
+</div>
+<div class="clearfix"></div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(22944,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk,sud|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(22944, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal calendar/availability -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-cal-22944" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_22944zeleni39.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">A4</span>
+<br/>ID:22944</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div class="property_loader_float" id="cal-loader-float22944">
+<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+</div>
+<div id="mod-unit-cal-content22944">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(22944,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk,sud|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(22944,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="property_unit_cont price-22520" data-price="50">
+<div class="property_unit_header gallery">
+<div class="property_unit_det">
+<div class="property_unit_det_info">
+<div class="pull-left property_unit_xs">
+<span>Studio</span>
+</div>
+<div class="pull-left property_unit_xs">
+<strong>ID:22520                                                                                            <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </strong>
+<div>Smještaj za dvije osobe (30 m2)</div>
+</div>
+<div class="clearfix"></div>
+<ul class="hidden-xs">
+<li>Internet/Wi-fi</li><li>Klima</li><li>TV</li><li>Kupaonica</li><li>Kuhinja</li><li>Dozvoljeno pušenje</li>
+<li>• <strong><a onclick="showAmenities(22520,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)">Više detalja</a></strong>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="property_unit_thumbs" id="acmu_img_22520">
+<a class="gal_item property_unit_main_img_lg" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_d2b053ae1ce0.jpg" title="Studio (ID:22520)">
+<div data-src="/slike/apartments_units/Hadriaticum_d2b053ae1ce0.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_4d8430e3f0d0.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_4d8430e3f0d0.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali33.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali33.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali31.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali31.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali22.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali22.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali34.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali34.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali32.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali32.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali23.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali23.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520mali25.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520mali25.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:22520)" data-fancybox="Studio (ID:22520)" href="/slike/apartments_units/Hadriaticum_22520maliwc.jpg" title="Studio (ID:22520)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_22520maliwc.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+</div>
+</div>
+<div class="property_unit_prc_from pull-right property_unit_xs">
+<div class="property_unit_prc_info">
+<span>cijena od </span><span><i>€</i> 50</span> <span>na noć</span> <a class="property_unit_book_btn smooth_event hidden-xs" href="#inquiry" onclick="focusCform('Studio|22520')">Pošalji upit</a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(22520,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(22520, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(22520,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik</button>
+</div>
+</div>
+<div class="property_unit_body table-responsive collapse" id="unit_det_1182">
+</div>
+<a class="property_unit_book_btn_xs text-center hidden-lg hidden-md" data-target="#mod-inq" data-toggle="modal" onclick="focusCform('Studio|22520')">Pošalji upit</a>
+<!-- Modal amenities -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-ame-22520" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_d2b053ae1ce0.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">Studio</span>
+<br/>ID:22520</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-ame-content22520">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(22520, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(22520,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal pricelist -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-prc-22520" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_d2b053ae1ce0.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">Studio</span>
+<br/>ID:22520</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-prc-content22520">
+</div>
+<div class="clearfix"></div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(22520,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(22520, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal calendar/availability -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-cal-22520" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_d2b053ae1ce0.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">Studio</span>
+<br/>ID:22520</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div class="property_loader_float" id="cal-loader-float22520">
+<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+</div>
+<div id="mod-unit-cal-content22520">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(22520,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef,djk|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(22520,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="property_unit_cont price-18595" data-price="50">
+<div class="property_unit_header gallery">
+<div class="property_unit_det">
+<div class="property_unit_det_info">
+<div class="pull-left property_unit_xs">
+<span>Studio</span>
+</div>
+<div class="pull-left property_unit_xs">
+<strong>ID:18595                                                                                            <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </strong>
+<div>Smještaj za dvije osobe (25 m2)</div>
+</div>
+<div class="clearfix"></div>
+<ul class="hidden-xs">
+<li>Internet/Wi-fi</li><li>Klima</li><li>TV</li><li>Kupaonica</li><li>Kuhinja</li><li>Dozvoljeno pušenje</li>
+<li>• <strong><a onclick="showAmenities(18595,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef|pog,kup,kuh,pus,ter,grl,par',null)">Više detalja</a></strong>
+</li>
+</ul>
+</div>
+<div class="clearfix"></div>
+<div class="property_unit_thumbs" id="acmu_img_18595">
+<a class="gal_item property_unit_main_img_lg" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_273eff4c3761.jpg" title="Studio (ID:18595)">
+<div data-src="/slike/apartments_units/Hadriaticum_273eff4c3761.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_4d49b8eda4f0.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_4d49b8eda4f0.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_ac21b7ff7ab1.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_ac21b7ff7ab1.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_5c625fb7f84d.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_5c625fb7f84d.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_582d111fc139.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_582d111fc139.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_8a499b5ac753.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_8a499b5ac753.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_233c94338f2a.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_233c94338f2a.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_2830a64b444e.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_2830a64b444e.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_66e851c3d0cd.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_66e851c3d0cd.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+<a class="gal_item" data-caption="Studio (ID:18595)" data-fancybox="Studio (ID:18595)" href="/slike/apartments_units/Hadriaticum_ec5a583c6421.jpg" title="Studio (ID:18595)">
+<div data-src="https://www.apartmanija.hr/slike_thumbs/apartments_units/Hadriaticum_ec5a583c6421.jpg" style="background-repeat: no-repeat; background-position: center; background-size:cover;"></div>
+</a>
+</div>
+</div>
+<div class="property_unit_prc_from pull-right property_unit_xs">
+<div class="property_unit_prc_info">
+<span>cijena od </span><span><i>€</i> 50</span> <span>na noć</span> <a class="property_unit_book_btn smooth_event hidden-xs" href="#inquiry" onclick="focusCform('Studio|18595')">Pošalji upit</a>
+</div>
+</div>
+<div class="clearfix"></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(18595,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(18595, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(18595,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik</button>
+</div>
+</div>
+<div class="property_unit_body table-responsive collapse" id="unit_det_1182">
+</div>
+<a class="property_unit_book_btn_xs text-center hidden-lg hidden-md" data-target="#mod-inq" data-toggle="modal" onclick="focusCform('Studio|18595')">Pošalji upit</a>
+<!-- Modal amenities -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-ame-18595" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_273eff4c3761.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">Studio</span>
+<br/>ID:18595</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-ame-content18595">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(18595, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(18595,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal pricelist -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-prc-18595" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_273eff4c3761.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">Studio</span>
+<br/>ID:18595</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div id="mod-unit-prc-content18595">
+</div>
+<div class="clearfix"></div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(18595,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showCalendar(18595, 'start','apartments')" type="button"><i class="fa fa-calendar"></i> Dostupnost                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+<!-- Modal calendar/availability -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-unit-cal-18595" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title" id="modal_desc_ttl">
+<img class="pull-left" src="/slike/apartments_units/Hadriaticum_273eff4c3761.jpg" style="width:100px; height:auto; border:2px solid #eee; margin-right:10px;"/>
+<div class="pull-left"><span class="ff1" style="font-size:30px;">Studio</span>
+<br/>ID:18595</div>
+<div class="clearfix"></div>
+</div>
+</div>
+<div class="modal-body">
+<div class="property_loader_float" id="cal-loader-float18595">
+<i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+</div>
+<div id="mod-unit-cal-content18595">
+<div class="mt15 text-center"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+</div>
+<div class="btn-group btn-group-justified property_unit_details_buttons property_unit_details_modal_buttons" role="group">
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showAmenities(18595,'apartments','tv,kli,sat,gri,int,hla,caj,rad,sef|pog,kup,kuh,pus,ter,grl,par',null)" type="button"><i class="fa fa-list"></i> Opremljenost                                                </button>
+</div>
+<div class="btn-group" role="group">
+<button class="btn btn-default" data-dismiss="modal" onclick="showPricelist(18595,'reg','apartments',null)" type="button"><i class="fa fa-eur"></i> Cjenik                                                </button>
+</div>
+</div>
+<a class="btn property_unit_modal_close_btn btn_bg_3" data-dismiss="modal">Zatvori</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div> <div class="scroll_anchor" id="property_info"></div>
+<div class="city_sub_ttl ff1" id="property_info_ttl">Ostale informacije</div>
+<div class="property_more_info">
+<div class="media">
+<div class="media-left">Plaćanje i napomene</div>
+<div class="media-body">
+                    Za rezervaciju termina za odmor, uplaćuje se 20% akontacije od dogovorenog iznosa. Ostatak se plaća po dolasku gosta. u slučaju otkaza rezervacije, uplaćena akontacija se ne vraća!
+
+Idealno vrijeme dolaska je iza 14. 00 a do 22. 00 sati. Gosti koji dođu ranije, mogu se zadržati na plaži dok apartman ne bude spreman. 
+
+Idealno vrijeme odlaska je do 10. 00 sati. Nakon što se napuste apartman, gosti i dalje mogu biti na plaži. 
+
+Molimo Vas da prije slanja upita pogledate raspoloživost apartmana koju redovito ažuriramo. Tako štedite vrijeme i sebi i nama. Hvala!<br/> <strong>
+                        Boravišna pristojba je uključena u cijenu. <i class="fa fa-check" style="color:green;"></i> </strong>
+</div>
+</div>
+<div class="media">
+<div class="media-left">Udaljenost od objekta</div>
+<div class="media-body">
+<ul class="property_dist_mob" id="property_dist_list">
+<li><i class="fa fa-sun-o"></i> More: <span>10 m</span></li><li><i class="fa fa-flag"></i> Plaža: <span>10 m</span></li><li><i class="fa fa-dot-circle-o"></i> Centar: <span>4 km</span></li><li><i class="fa fa-shopping-cart"></i> Trgovina: <span>2 km</span></li><li><i class="fa fa-cutlery"></i> Restoran: <span>4 km</span></li><li><i class="fa fa-ambulance"></i> Doktor: <span>4 km</span></li><li><i class="fa fa-plus-square"></i> Ljekarna: <span>4 km</span></li><li><i class="fa fa-bank"></i> Banka: <span>4 km</span></li><li><i class="fa fa-envelope-o"></i> Pošta: <span>4 km</span></li><li><i class="fa fa-car"></i> Benzinska crpka: <span>10 km</span></li><li><i class="fa fa-bus"></i> Autobusni kolodvor: <span>2 km</span></li><li><i class="fa fa-train"></i> Željeznički kolodvor: <span>350 km</span></li><li><i class="fa fa-plane"></i> Zračna luka: <span>30 km</span></li><li><i class="fa fa-anchor"></i> Marina: <span>4 km</span></li><li><i class="fa fa-futbol-o"></i> Sportske aktivnosti: <span>10 m</span></li><li><i class="fa fa-glass"></i> Disco klub: <span>4 km</span></li><li><i class="fa fa-cube"></i> Casino: <span>4 km</span></li><li><i class="fa fa-tree"></i> Nacionalni park: <span>30 km</span></li>
+<li class="property_desc_toggle hidden-lg hidden-md"></li>
+</ul>
+<div class="property_dist_mob_toggle_btn text-center hidden-lg hidden-md" onclick="showDesc()"><i class="fa fa-angle-down"></i></div>
+<script>
+                        function showDesc() {
+                            $('#property_dist_list').removeClass('property_dist_mob');
+                            $('.property_desc_toggle').hide();
+                            $('.property_dist_mob_toggle_btn').hide();
+                        }
+                    </script>
+</div>
+</div>
+<div class="media">
+<div class="media-left">Vrsta plaže</div>
+<div class="media-body">Šljunčana, Betonska, Stjenovita, </div>
+</div>
+<div class="media">
+<div class="media-left">Dodatni sadržaji</div>
+<div class="media-body">Uz smještaj nudimo mogućnost panoramskog obilaska Rogoznice, organiziranje raznih izleta: Nacionalni park Krka, Obilazak parka Kornati i Telašćica, ronjenje s ronilačkim klubom, panoramsko letenje, rafting, transfere do aerodroma...
+
+Naša plaža je opremljena s tušem i nudimo mogućnost priveza manjeg brodića 3-5 metara. 
+
+Ležaljke na plaži
+
+Tuš na plaži
+
+Kanu za dvije osobe</div>
+</div>
+<div class="media">
+<div class="media-left">Web</div>
+<div class="media-body"><a href="http://www.apartmentshadriaticumrogoznica.com" rel="nofollow" target="_blank">www.apartmentshadriaticumrogoznica.com</a></div>
+</div>
+</div>
+<div class="scroll_anchor" id="property_map"></div>
+<div class="city_sub_ttl ff1">Prikaz na karti</div>
+<div class="property_map" id="map">
+<a class="show_map property" onclick='$(this).remove();showGMap($("#lat").val(), $("#lng").val(), $("#zoom").val()); return false;'></a>
+<input id="lat" type="hidden" value="43.528669"/>
+<input id="lng" type="hidden" value="15.982043"/>
+<input id="zoom" type="hidden" value="15"/>
+</div>
+<div class="property_map_functions ff1">
+<a class="" id="nerby_properties" onclick="showPropertiesNerby(this); return false;"><img src="https://www.apartmanija.hr/icons/v3/map_fn_nearby.png"/> Prikaži smještaj u blizini                </a>
+<a class="" id="nerby_pois" onclick="showPoisNerby(this); return false;"> <img src="https://www.apartmanija.hr/icons/v3/map_fn_poi.png"/> Prikaži zanimljivosti u blizini</a>
+<div class="clearfix"></div>
+</div>
+<div class="scroll_anchor" id="poi" style="margin-top:-130px;"></div>
+<div class="city_h2 city_sub_ttl ff1"><i class="fa fa-map-marker"></i> Točke od interesa u blizini smještaja Apartmani Hadriaticum 1            </div>
+<div class="col-md-12 mar_reset">
+<div class="col-md-4 city_poi_item" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/poi/marina-frapa-rogoznica.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/marina-frapa-rogoznica" target="_blank">Marina Frapa Rogoznica<br/><span><i class="fa fa-map-marker"></i> 1.8 km</span></a>
+</div>
+<div class="col-md-4 city_poi_item" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/poi/rogoznica-zmajevo-oko.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/zmajevo-oko-rogoznica" target="_blank">Zmajevo oko Rogoznica<br/><span><i class="fa fa-map-marker"></i> 1.9 km</span></a>
+</div>
+<div class="col-md-4 city_poi_item" style="background-image:url(https://www.apartmanija.hr/slike/slike_gradovi/poi/plaza-sepurina-rogoznica.jpg);">
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/plaza-sepurina-rogoznica" target="_blank">Plaža Šepurina u Rogoznici<br/><span><i class="fa fa-map-marker"></i> 2 km</span></a>
+</div>
+</div>
+<div class="clearfix"></div>
+<div>
+<div class="scroll_anchor" id="property_reviews"></div>
+<div class="city_sub_ttl ff1 property_review_ttl">Komentari</div>
+<div class="city_sub_ttl ff1 property_review_info">
+<div class="rating_avg ff1">
+                        Odlično!                        <span>5</span>/<span>5</span>
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> </div>
+<div class="rating_count">Ocjena gostiju na temelju <u><span itemprop="ratingCount">21</span> komentara</u></div>
+</div>
+<div class="property_write_review_btn">
+                    Boravili ste ovdje? <br/> <a onclick="addReview(6816,7427,'apartments','A4_18596|A4_22944|S_22520|S_18595')"><i class="fa fa-pencil-square"></i> Napišite komentar!</a> </div>
+<div class="clearfix"></div>
+<div class="property_reviews media" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Keri</span>
+<span>Pozega, Hrvatska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/hr.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Lipanj 2023                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2023-06-24">Objavljeno                                    : 18.07.2023</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_25524" itemprop="name">Hyge</span>
+<p id="rev_text_25524" itemprop="description">Tjedan koji smo proveli u Zaglavu kod obitelji Žanko bio je iznad naših očekivanja. Osim pozicije na samoj plaži, apartmani Hadriatic imaju i umjetničku notu, imaju dušu. Naši domaćini su se potrudili da naš odmor bude nezaboravan. O samoj zgradi bi se moglo puno napisati, ali ja bih napisao samo jednu riječ, fantastično. Čisto, uredno i na svom mjestu. Sigurno ćemo se vratiti i preporučam svima.
+Sve pohvale našim domaćinima. Upoznali smo se, malo se družili, skoro kao da se znamo od davnina. Odmor za 5.</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Obitelji s djecom, Romantičare, </span>
+</div>
+</div>
+<div class="property_reviews media" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Nastja </span>
+<span>Pragersko, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                A4, </span> Kolovoz 2020                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2020-08-07">Objavljeno                                    : 16.08.2020</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_20378" itemprop="name">Najbolji odmor</span>
+<p id="rev_text_20378" itemprop="description">Imali smo najbolji odmor. Stan lijepo uređen, čist sa prelijepim pogledom. Vlasnik je vrlo ljubazan. Sigurno ćemo se opet vratiti. Preporučam...</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Starije osobe, Obitelji s djecom, Romantičare, </span>
+<div class="property_reviews_translate">Komentar preveden sa slovenski                                    -
+                                    <a id="show_org_20378" onclick="showSubmReview(20378,'org')">Prikaži original</a>
+<a id="show_tra_20378" onclick="showSubmReview(20378,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Super počitnice </span>
+<span>Trbovlje, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                A4, </span> Srpanj 2017                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2017-07-29">Objavljeno                                    : 25.10.2017</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_16477" itemprop="name">Trbovlje, Slovenija</span>
+<p id="rev_text_16477" itemprop="description">Ovdje smo proveli jednu od najljepših i opušten odmor Bol! U svakom pogledu odlična - Mir, privatnost, prijateljstvo, autentičnost, red, posjetite obližnje znamenitosti i gradove ... 
+Cijela obitelj je uživala tako dugo vremena nije - 
+Preporučujemo !!!
+
+</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa slovenski                                    -
+                                    <a id="show_org_16477" onclick="showSubmReview(16477,'org')">Prikaži original</a>
+<a id="show_tra_16477" onclick="showSubmReview(16477,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Boris</span>
+<span>Šmartno/Sl. Gradec, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Srpanj 2017                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2017-07-30">Objavljeno                                    : 06.09.2017</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_16285" itemprop="name">Više od odmora!</span>
+<p id="rev_text_16285" itemprop="description">Iza nas je prekrasan dvotjedni odmor, kojeg smo žena i ja proveli u apartmanu Hidratium u Zatoglavu. Imam već dosta ugodnih iskustava iz ranijih odmora po cijeloj Dalmaciji. Gledajući fotografije i opise ovdje smo se nadali udobnom i sadržajnom odmoru, a dobili smo puno više od toga! 
+Svaki gost se nada, da dobije za ono što je platio - uredan, čist apartman sa svim sustavom što u njega spada. Pored toga ima svaki gost želi čisto more i plažu. Sve ovo uglavnom zadovolji i najzahtjevnije goste. 
+Sve je kao u opisu, s dodanim svim najmanjim sitnicama (ležaljke, suncobrani, perilica suđa,čamac,....), za koje brinu obitelj vlasnika, a mogli smo i koristiti.
+Ali dobili smo i nešto, što se ne može uračunati u cijenu apartmana i platiti, a to je: spontano istinito gostoprimstvo i prijateljski odnos, kojeg posjeduje cijela obitelj vlasnika. 
+To je velika sreća koju kod rezervacije ne možeš tražiti, da imaš sreću upoznati takve ljude, i kao gost sposoban prihvatiti.
+Bilo je to mnogo više od odličnog odmora. 
+ 
+Hvala obitelj Žanko!
+ 
+Boris i Alenka, Šmartno/Slovenj Gradec, SLOVENIJA</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Obitelji s djecom, Romantičare, </span>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Utracki</span>
+<span>Będzin, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Srpanj 2017                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2017-07-30">Objavljeno                                    : 20.08.2017</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_16052" itemprop="name">Fantastično mjesto.</span>
+<p id="rev_text_16052" itemprop="description">Fantastična lokacija, velika soba, čist, dobro čuva, te pogled s balkona .... vrlo lijepo mjesto, mirno, pristupa u more samo za goste ovog objekta, tako da nema problema s mjestom na vodi. 
+Mir, tišina, nasmijani ljudi. Dobra baza za lijepe okolnim selima. Vrlo symtatyczni, nasmijana vlasnika. Preporučujem svima. Mi ćemo svakako vratiti :)</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Obitelji s djecom, Romantičare, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_16052" onclick="showSubmReview(16052,'org')">Prikaži original</a>
+<a id="show_tra_16052" onclick="showSubmReview(16052,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Laura</span>
+<span>Kostanjevica na Krki, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Kolovoz 2016                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2016-08-13">Objavljeno                                    : 24.08.2016</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_14337" itemprop="name">Raj na moru</span>
+<p id="rev_text_14337" itemprop="description">Mi smo mladi par koji voli mir i privatnost, a ipak psebaj na odmoru. Svake godine odpraviva dopustovatit negdje drugdje, ali većina Hrvatske. Mi upoznati se s novim ljudima, mjestima, tradicije, običaja. Obično imamo 7 dana dosta svega, ove godine je bilo drugačije. Stalno visi na internetu, isakanje dobra ponuda po razumnoj cijeni, radili smo sijedu kosu. Dva mjeseca "surfanje" je urodila plodom. Kad sam otkrio ovaj "raj na zemlji" Bio sam skeptičan, ja nekako vjerujem fotografije na webu, sve dobro provjerio sam. Čim sam ušla u akciju, kada se razmatra stotine ponuda, odlučio sam da je to to. Prihvatljiva cijena, nevjerojatno lijepa ambijent i što je najvažnije, na samoj plaži. Pisao sam vlasnik, brz odgovor i ubrzo sam platio unaprijed. Čak i putem pošte, vlasnik bio pošten i pouzdan. Napokon je došao dan kada smo pršla na naše odredište. Bilo je fantastično čuti zvuk Garmin "imate diti stignete na odredište." Bilo je kao na slikama, nešto čak i bolje. Stan je na kraju novog naselja, pored plaže, predivan pogled sa balkona. Moderni studio za 2, sa svim potrebnim priborom i aparatima. Prekrasan ambijent. Na privatnoj plaži u malom komadu sve, betonirana plaža sa stepenicama u more, lukobran iz koje možete skočiti, šljunčana plaža za djecu. Ležaljke i suncobrani, kanu, tuš na plaži, u sjeni borova i sunce su svi uključeni u cijenu. Mir, čista voda. Istovremeno, mnoga mjesta u blizini koje su dostupne automobilom (Rogoznica, Primošten, Šibenik, Trogir Posjetili smo i Split). Vlasnici su vrlo prijateljski i uvijek na raspolaganju. Definitivno preporučujem ga nikome. Za obitelji s djecom, parove, one koji vole mir i sve ostalo. 7 dana imali smo prebrzo prošlo, mogu reći za prvi put :). Sigurno se vratiti. Laura i Gregor</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Starije osobe, Obitelji s djecom, Romantičare, </span>
+<div class="property_reviews_translate">Komentar preveden sa slovenski                                    -
+                                    <a id="show_org_14337" onclick="showSubmReview(14337,'org')">Prikaži original</a>
+<a id="show_tra_14337" onclick="showSubmReview(14337,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Daniel</span>
+<span>Boguszów-Gorce, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Lipanj 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-06-06">Objavljeno                                    : 16.08.2016</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_14159" itemprop="name">Najbolji odmor</span>
+<p id="rev_text_14159" itemprop="description">Otkad sam se rodio sin svake godine idemo negdje, ali prvo mjesto je upravo ovo putovanje i odmor u Hadriaticum. Mir i tišina, intimnost, čisto, lijepo, ugodno, lijepo. Soba stubama do čistog mora, kava ispred apartmana, a na plaži :)) divno! S djecom, s prijateljima, s hladnim pićima. Ja bih preporučio! 
+U blizini slapova Krke, Trogira, na način na koji trebate vidjeti Plitvička jezera.</p>
+<span><strong>Preporučujem za                            :</strong> Obitelji s djecom, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_14159" onclick="showSubmReview(14159,'org')">Prikaži original</a>
+<a id="show_tra_14159" onclick="showSubmReview(14159,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Madzia</span>
+<span>Rybnik, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Kolovoz 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-08-15">Objavljeno                                    : 25.08.2014</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_2715" itemprop="name">Divno mjesto :)</span>
+<p id="rev_text_2715" itemprop="description">Apartmani Hadriaticum imao stvarno veliki odmor. Mir i tišina sve oko sebe, intimna plaža, djeca sretna, za jednokratnu kanu, motorni brod, ležaljke, suncobrani, grill, gdje smo se pripremali svježu ribu za večeru. U blizini Primoštena, Trogira, Marine. Preporučujemo svima koji žele odmoriti od gradske gužve i buke.</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_2715" onclick="showSubmReview(2715,'org')">Prikaži original</a>
+<a id="show_tra_2715" onclick="showSubmReview(2715,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Manuel</span>
+<span>Pförring, Njemačka<br/><img src="https://www.apartmanija.hr/icons/v3/ln/de.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Kolovoz 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-08-06">Objavljeno                                    : 18.08.2014</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_2569" itemprop="name">Sve je bilo super</span>
+<p id="rev_text_2569" itemprop="description">Soba je jako udoban, vrlo čisto i savršeno prikladan za dvije osobe. To je samo 20 metara do mora. S balkona možete vidjeti izravno na moru. Kuhinja je dobro opremljena za manje jela. 
+Vlasnici su vrlo lijepo i korisno. Pomozite nam odmah kada trebate nešto. 
+Rado opet, vrlo preporučljivo!</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Romantičare, </span>
+<div class="property_reviews_translate">Komentar preveden sa njemački                                    -
+                                    <a id="show_org_2569" onclick="showSubmReview(2569,'org')">Prikaži original</a>
+<a id="show_tra_2569" onclick="showSubmReview(2569,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Zofia</span>
+<span>Gorzów, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Srpanj 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-07-16">Objavljeno                                    : 30.07.2014</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_2360" itemprop="name">Fantastičan odmor!</span>
+<p id="rev_text_2360" itemprop="description">Prekrasno mjesto, fantastičan položaj na rivi 
+s dobro njegovan plaže. 
+Fotografije potpunosti odražavaju ukusno namještene, udobne apartmane 
+sa pogledom na more. 
+Oni koji traže mir i tišinu, sigurno će biti zadovoljni 
+ostati u Zatoglav. 
+Pozdrav velikih, dobronamjernih domaćina.</p>
+<span><strong>Preporučujem za                            :</strong> </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_2360" onclick="showSubmReview(2360,'org')">Prikaži original</a>
+<a id="show_tra_2360" onclick="showSubmReview(2360,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Dorota</span>
+<span>Jastrzębie-Zdrój, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Lipanj 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-06-19">Objavljeno                                    : 29.07.2014</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_2345" itemprop="name">Odmor</span>
+<p id="rev_text_2345" itemprop="description">Bili smo ovdje po drugi put, a vjerojatno ne i posljednji. Fantastičan mjesto za boravak - tiho, mirno, čistih plaža s ležaljkama. Apartmani čisto, ukusno uređen i opremljen sa svim što je potrebno tijekom vašeg odmora outfita. Prijateljski, gostoljubivi domaćini, vodeći računa o dobrobiti gostiju. Dobra podloga za Šibenik, Primošten, Trogir, Split, Makarska (2 sata. Daleko). 
+Ja visoko preporučiti!</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Romantičare, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_2345" onclick="showSubmReview(2345,'org')">Prikaži original</a>
+<a id="show_tra_2345" onclick="showSubmReview(2345,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">silusa</span>
+<span>Úžice, Češka Republika<br/><img src="https://www.apartmanija.hr/icons/v3/ln/cs.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Srpanj 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-07-12">Objavljeno                                    : 23.07.2014</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_2271" itemprop="name">Preporučujemo!</span>
+<p id="rev_text_2271" itemprop="description">Vrlo fascinantno mjesto, prekrasan stan, čisto posvuda. Vlasnici su vrlo lijepo i korisno. Proveli smo prekrasan odmor u Hrvatskoj i izvrsno smo se odmarali, pa čak i naša kći bila oduševljena. Definitivno ću se vratiti ovdje. Hvala ti :-)))</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Noćne izlaske, Obitelji s djecom, Romantičare, </span>
+<div class="property_reviews_translate">Komentar preveden sa engleski                                    -
+                                    <a id="show_org_2271" onclick="showSubmReview(2271,'org')">Prikaži original</a>
+<a id="show_tra_2271" onclick="showSubmReview(2271,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">marekravel</span>
+<span>Częstochowa, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Lipanj 2014                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2014-06-27">Objavljeno                                    : 12.07.2014</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_2190" itemprop="name">Mjesto je kao u snu</span>
+<p id="rev_text_2190" itemprop="description">Hadriaticum je mjesto koje u potpunosti ispunjava moja očekivanja. Imala sam veliku dva tjedna. Plaža je lijepo smješten na zapadnoj strani. Plaža ležaljke, tuš, kajak i suncobrani. U blizini postoji mnogo mjesta za posjetiti, dobro mjesto za trčanje i biciklizam. Domaćini su divni i topli ljudi spremni ispuniti svaki gost želje. Vožnja brodom je nevjerojatno iskustvo. Preporučujemo svima - apartmani Hadriaticum u Zatoglav.</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Starije osobe, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa engleski                                    -
+                                    <a id="show_org_2190" onclick="showSubmReview(2190,'org')">Prikaži original</a>
+<a id="show_tra_2190" onclick="showSubmReview(2190,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Kotnik</span>
+<span>Novo mesto, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Kolovoz 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-08-16">Objavljeno                                    : 05.09.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1546" itemprop="name">super odmor</span>
+<p id="rev_text_1546" itemprop="description">Evo to je to što tražiš. Ljubazni, gostoljubni domačini, koji su spremni pomoči u vsaki situaciji.Studio je opremljen sa svim potrebnim stvarima koje ti trebaju na godišnjem (veliki hladnjak, sudoper, mikrovalna, klima, tv, velika kupaonica, itd..).
+Vani velika terasa a more na dohvatu ruke. Stvarno plaža je dva koraka od terase. Super je i privatna plaža (vrlo čista i čisto more). Preporučujem svima koji žele miran i bezbrižan odmor. Plaža je super i za djeca jer se mogu igrati na pijesku, pretraživati obalu i more ili skakati sa mola. Mi se defenitivno vračamo sljedeće godine.</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Obitelji s djecom, Romantičare, </span>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Nena</span>
+<span>Maribor, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Srpanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-07-27">Objavljeno                                    : 03.09.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1519" itemprop="name">Nezaboravni odmor</span>
+<p id="rev_text_1519" itemprop="description">Bio je to odmor, kojeg sanjaš. Ljubazni domačini, koji su uvjek na raspolaganju i uvjek dobre volje. To je mirno mjesto za odmor, i stvarno je kuča (apartmani) uz more. Apartmani su potpuno ovakvi kakvi su na slikama!! Mi smo se imali nezaboravno ljepo i ostat če nam u sječanju.</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Romantičare, Razgledavanje, </span>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Marek i Beata</span>
+<span>Racibórz, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Lipanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-06-27">Objavljeno                                    : 11.08.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1231" itemprop="name">Preporučamo!</span>
+<p id="rev_text_1231" itemprop="description">Prekrasno mjesto! Velika atmosfera, prijateljski vlasnika, vrlo prijateljski. Novi, ukusno i praktično namješten. Najvažnije je da mora doslovno dva koraka. Mir, tišina, možete se opustiti. Mnogo mjesta za istraživanje u blizini. Mi smo se osjećali fantastično! Preporučamo vrlo! Pozdrav Ton i Marine. Uvijek nasmijana :) imam fantastičan brod :)</p>
+<span><strong>Preporučujem za                            :</strong> Osobe željne mira, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_1231" onclick="showSubmReview(1231,'org')">Prikaži original</a>
+<a id="show_tra_1231" onclick="showSubmReview(1231,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Dorota</span>
+<span>Jastrzębie-Zdrój, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                A4, </span> Srpanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-07-06">Objavljeno                                    : 07.08.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1178" itemprop="name">Sjajno mjesto za odmor</span>
+<p id="rev_text_1178" itemprop="description">Preporuči Zatoglav svi miroljubivi, prekrasan krajolik, toplo more bękitne. Novi stan je ukusno uređen, sa svim aparatima koje mogu biti potrebne za vrijeme blagdana. Uz samo more, s "privatnom" uredan čiste plaže. 
+Gostoljubivi, ljubazni domaćini. Dobra baza za upoznavanje - u neposrednoj blizini Trogira, Šibenik, Trogir, Omiš s atrakcija na rijeci Cetini, slapove Krke. Sjajno mjesto za odmor! 
+Ja visoko preporučiti! Mi definitivno će se vratiti!</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_1178" onclick="showSubmReview(1178,'org')">Prikaži original</a>
+<a id="show_tra_1178" onclick="showSubmReview(1178,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Miha</span>
+<span>Ravne, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Studio, </span> Srpanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-07-25">Objavljeno                                    : 07.08.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1172" itemprop="name">Fantastičan</span>
+<p id="rev_text_1172" itemprop="description">Studio C je pravi gnijezdo sasvim malo iznad obale Zatoglav. Studio ima sve što je potrebno ostaviti, i još mnogo toga. Od sušilom za kosu kako bi mješalica, hladnjak, klima-uređaj. No to nije. Studio je moderno uređen. Vlasnik i njegova obitelj su vrlo prijateljski Dalmatinci. Oni su prostrani, šarmantan, društven, ljubav prema nekim korisnim informacijama o tome gdje bi se dobila fina vina da bez obzira gdje se oni kupe najsvježiju ribu. U obiteljskoj kući se također nalazi roštilj. Na privatnoj plaži tušem, stolice, suncobrani, opet, ne da nije ;) More je vrlo čisto. Preporučujem svima kojima želite ostaviti pravi odmor. U blizini mjesta su veći gradovi, kao što su Rogoznica, Primošten, Trogir .... Ukratko, puno zanimljivih dalmatinskih gradova koje vrijedi pogledati ... Preporučujem!</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Starije osobe, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa slovenski                                    -
+                                    <a id="show_org_1172" onclick="showSubmReview(1172,'org')">Prikaži original</a>
+<a id="show_tra_1172" onclick="showSubmReview(1172,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Aziis</span>
+<span>Kraków, Poljska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/pl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o"></i> Vrlo dobro (<span itemprop="ratingValue">4</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                Apartmani Hadriaticum 1, </span> Srpanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-07-14">Objavljeno                                    : 05.08.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1148" itemprop="name">Odmor 2013 :)</span>
+<p id="rev_text_1148" itemprop="description">Zatoglav preporučiti za ljude koji žele mir, opuštanje i predah. Stan je vrlo dobro održavan, na plažu - Jadran "prozor". Vrlo lijepo i toplo ljudi! Preporuči!</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa poljski                                    -
+                                    <a id="show_org_1148" onclick="showSubmReview(1148,'org')">Prikaži original</a>
+<a id="show_tra_1148" onclick="showSubmReview(1148,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">T-Major Timea</span>
+<span>Budapest, Mađarska<br/><img src="https://www.apartmanija.hr/icons/v3/ln/hu.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                A4, </span> Srpanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-07-01">Objavljeno                                    : 30.07.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_1047" itemprop="name">Moderan, moderan i vrlo udoban stan s pogledom na more šarmantan</span>
+<p id="rev_text_1047" itemprop="description">Vrlo ugodan i udoban stan u novogradnji, prijateljske i korisne vlasnici. Savršeno opremljena kuhinja. 
+Preporučujem ovu na odmor, da se opusti. Nema energičnost i žuriti, tiho i mirno "njihov" plaža. Dječice posebno ga preporučujemo jer plaža je takva da čak i bebe mogu pancsolni.
+
+</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Starije osobe, Obitelji s djecom, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa mađarski                                    -
+                                    <a id="show_org_1047" onclick="showSubmReview(1047,'org')">Prikaži original</a>
+<a id="show_tra_1047" onclick="showSubmReview(1047,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="property_reviews media hidden-xs hidden-lg hidden-md" itemprop="review">
+<div class="media-left ff1">
+<i class="fa fa-user-circle-o" style="font-size:25px; color:#aaa;"></i>
+<span itemprop="author">Gregor Stojanovič</span>
+<span>Kranj, Slovenija<br/><img src="https://www.apartmanija.hr/icons/v3/ln/sl.gif"/></span>
+</div>
+<div class="media-body">
+<div class="property_reviews_info">
+<span class="property_reviews_score" itemprop="reviewRating" itemscope="" itemtype="http://schema.org/Rating">
+<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i> Odlično! (<span itemprop="ratingValue">5</span>/<span itemprop="bestRating">5</span>)                            </span>
+<span class="property_reviews_stayed">
+								Boravio u                                 <span itemprop="itemReviewed">
+                                A4, </span> Travanj 2013                                <span class="hidden-xs">|</span> <br class="hidden-lg hidden-md"/>
+<time datetime="2013-04-28">Objavljeno                                    : 09.05.2013</time>
+</span>
+<span class="clearfix"></span>
+</div>
+<span class="media-heading ff1" id="rev_ttl_781" itemprop="name">Najljepši apartman s pogledom na more</span>
+<p id="rev_text_781" itemprop="description">Novi i vrlo lijep stan na moru. Sa svojim intimnim plaže, ponudom, u slipstream zaljeva, miran, siguran vez i polazne točke mora niti jedna žila.</p>
+<span><strong>Preporučujem za                            :</strong> Aktivni odmor, Osobe željne mira, Obitelji s djecom, Romantičare, Razgledavanje, </span>
+<div class="property_reviews_translate">Komentar preveden sa slovenski                                    -
+                                    <a id="show_org_781" onclick="showSubmReview(781,'org')">Prikaži original</a>
+<a id="show_tra_781" onclick="showSubmReview(781,'tra')" style="display:none;">Prikaži prevedeni tekst</a>
+</div>
+</div>
+</div>
+<div class="visible-xs property_review_showall" onclick="$('.property_reviews').removeClass('hidden-xs'), $('.property_review_showall').addClass('hidden-xs')">Prikaži sve komentare</div>
+<div class="hidden-xs property_review_showall" onclick="$('.property_reviews').removeClass('hidden-lg hidden-md'), $('.property_review_showall').addClass('hidden-lg hidden-md')">Prikaži sve komentare</div>
+</div>
+</div>
+<div class="col-md-3 content_right">
+<div class="property_owner">
+<img class="img-circle" id="owner" src="https://korisnici.apartmanija.hr/data/uspht/picce20a856566dd68acdfa54ff17f00e11.jpg"/>
+<span class="ff1">Tonći Žanko</span>
+<strong>Oglašivač od 2013</strong> <hr/>
+<strong>Govori:</strong> <br/>Hrvatski, Engleski,                             <div>
+<a id="property_owner_about_btn" onclick="javascript:$('#property_owner_about').show(); $('#property_owner_about_btn').hide(); ">Više o domaćinu                        <i class="fa fa-angle-down"></i></a>
+<p class="collapse" id="property_owner_about">
+<i class="fa fa-minus"></i> Rođen sam 1970. sretno sam oženjen i otac sam troje djece. Od malih nogu volim more i morske aktivnosti. Uz posao, imam razne hobije: autor sam sedam knjiga o moru, zajedno sa suprugom izrađujem  skulpture riba i slikam. Smatram da svatko treba raditi nešto za dušu! Iz ljubavi prema moru i želje da mu budem blizu, nastalo je moje bavljenje turizmom                    </p>
+</div>
+</div>
+<div class="scroll_anchor" id="inquiry"></div>
+<div class="property_inquiry hidden-xs">
+<div class="property_inquiry_ttl ff1" id="contact">Kontakt obrazac</div>
+<div class="mt15 collapse text-center" id="cform_loader"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i>
+</div>
+<div class="mt15 collapse" id="cform_msg"></div>
+<form action="javascript:sendInquiry(1)" enctype="multipart/form-data" id="cform" method="post">
+<input name="cform" type="hidden"/>
+<input name="mem" type="hidden" value="6816"/>
+<input name="cat" type="hidden" value="apartments"/>
+<input name="prop_id" type="hidden" value="7427"/>
+<input name="prop_name" type="hidden" value="Apartmani Hadriaticum 1"/>
+<input name="prop_url" type="hidden" value="www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427"/>
+<div class="form-group">
+<input class="form-control" id="fname" name="fname" placeholder="Ime" type="text"/>
+<input class="form-control" name="lname" placeholder="Prezime" type="text"/>
+<span class="form_alert" id="cform_fname_errorloc" style="position:relative;"></span>
+<span class="form_alert" id="cform_lname_errorloc" style="position:relative; left:20%;"></span>
+</div>
+<div class="form-group">
+<input class="form-control full" name="email" placeholder="E-mail" type="email"/>
+<span class="form_alert" id="cform_email_errorloc" style="position:relative;"></span>
+</div>
+<div class="form-group">
+<input class="form-control" name="phone" placeholder="Telefon" type="text"/>
+<input class="form-control" name="mobile" placeholder="Mobitel" type="text"/>
+</div>
+<div class="form-group">
+<label class="pull-left" style="padding-top:0;">Smještajna<br/>jedinica                                :</label>
+<select class="form-control pull-right" id="acm_unit" name="acm_unit">
+<option value="0">---------</option>
+<option value="A4|18596">A4  (ID:18596)</option>
+<option value="A4|22944">A4  (ID:22944)</option>
+<option value="Studio|22520">Studio  (ID:22520)</option>
+<option value="Studio|18595">Studio  (ID:18595)</option>
+</select>
+</div>
+<div class="clearfix"></div>
+<span class="form_alert" id="cform_acm_unit_errorloc"></span>
+<div class="clearfix"></div>
+<div class="form-group">
+<input class="form-control datepick" id="arrival" name="arrival" placeholder="Dolazak" readonly="readonly" type="text"/>
+<input class="form-control datepick" id="departure" name="departure" placeholder="Odlazak" readonly="readonly" type="text"/>
+<span class="form_alert" id="cform_arrival_errorloc" style="position:relative;"></span>
+<span class="form_alert" id="cform_departure_errorloc" style="position:relative; left:20%;"></span>
+</div>
+<div class="form-group">
+<label class="pull-left">Broj odraslih:</label>
+<select class="form-control pull-right guests" name="adults">
+<option value="0">---------</option>
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option> </select>
+</div>
+<div class="clearfix"></div>
+<span class="form_alert" id="cform_adults_errorloc"></span>
+<div class="form-group">
+<label class="pull-left">Broj djece do 6 godina:</label>
+<select class="form-control pull-right guests" name="child_12">
+<option value="0">---------</option>
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option> </select>
+</div>
+<div class="clearfix"></div>
+<div class="form-group">
+<label class="pull-left">Broj djece od 6 do 12 godina:</label>
+<select class="form-control pull-right guests" name="child_18">
+<option value="0">---------</option>
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option> </select>
+</div>
+<div class="form-group">
+<textarea class="form-control" name="inquiry" placeholder="Upit"></textarea>
+<span class="form_alert" id="cform_inquiry_errorloc" style="position:relative;"></span>
+</div>
+<div class="form-group note" id="inquiry-terms">Sadržaj ovog obrasca će biti poslan direktno na e-mail oglašivača i koristi se isključivo za slanje upita vezanih za oglašene kapacitete. Korištenje formulara u bilo koje druge svrhe, čini zloupotrebu portala Apartmanija.hr i narušava pravila korištenja.</div>
+<!-- errors default -->
+<div class="price_xxx">
+<div class="overview ff1">
+<div class="total_nights">
+<div>Ukupan broj noćenja: <span class="pull-right" id="nightsCount"></span></div>
+<div>Ukupan broj osoba: <span class="pull-right" id="personCount"></span></div>
+</div>
+<!-- errors start -->
+<div class="__price_error error_not_defined">
+<i class="fa fa-circle-exclamation" style="margin-right:3px !important; font-size:18px !important;"></i>
+            Za odabrani period cijena nije definirana. 
+        </div>
+<div class="__price_error error_maxPersons">
+<i class="fa fa-circle-exclamation" style="margin-right:3px !important; font-size:18px !important;"></i>
+            Za odabranu smještajnu jedinicu maksimalan broj gostiju je  <span class="error_maxPersons"></span></div>
+<div class="__price_error error_minStay">
+<i class="fa fa-circle-exclamation" style="margin-right:3px !important; font-size:18px !important;"></i>
+            Za odabrani period minimalni broj noćenja je  <span class="error_minStay"></span></div>
+<!-- errors end -->
+</div>
+<div class="total_cont ff1">
+<div class="days" style="font-size: 14px; text-align:right; margin-bottom:5px;"></div>
+        Ukupni iznos: <span class="total pull-right"></span>
+</div>
+<p class="price__note">
+<strong>Napomena:</strong><br/>
+        Cijena je izračunata iz dostupnih parametara. Za točnu cijenu, molimo, kontaktirati iznajmljivača. <br/>U cijenu možda nisu uključeni sadržaji koji nisu navedeni na oglasu, a naplaćuju se.    </p>
+</div>
+<input id="currency" type="hidden" value="€">
+<input id="nights_trans" type="hidden" value="noći">
+<button class="btn btn-default property_unit_book_btn ff1" type="submit">Pošalji upit</button>
+</input></input></form>
+<a class="btn btn-default property_unit_book_btn ff1" id="cform_resend" onclick="resendInquiry(1)" style="display:none">Pošalji novi upit</a>
+<script>
+                    //<![CDATA[
+
+                    var fval = new Validator("cform");
+                    fval.EnableOnPageErrorDisplay();
+                    fval.EnableMsgsTogether();
+                    fval.addValidation("fname", "req", "Obavezno polje");
+                    fval.addValidation("lname", "req", "Obavezno polje");
+                    fval.addValidation("email", "req", "Obavezno polje");
+                    fval.addValidation("email", "email", "Neispravna e-mail adresa");
+                    fval.addValidation("arrival", "req", "Obavezno polje");
+                    fval.addValidation("departure", "req", "Obavezno polje");
+                                        fval.addValidation("acm_unit", "dontselect=0", "Obavezno polje");
+                                        fval.addValidation("adults", "dontselect=0", "Obavezno polje");
+                    fval.addValidation("inquiry", "req", "Obavezno polje");
+                    //]]>
+                </script>
+<div id="cform_btn">
+<a class="smooth_event ff1" href="#inquiry">
+<i class="fa fa-send"></i> Pošalji upit                    </a>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid property_report">
+<div class="container">
+<div class="col-md-12 col-xs-12">
+            Oglas Apartmani Hadriaticum 1 je pregledan 106006 puta od 23.01.2013.        </div>
+</div>
+</div>
+<!-- Modal property review -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-property-review" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title"><i class="fa fa-comments-o"></i>Napišite novi komentar</div>
+</div>
+<div class="modal-body">
+</div>
+</div>
+</div>
+</div>
+<!-- Modal social share -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen modal_social_share" id="mod-social-share" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title"><i class="fa fa-share-alt"></i>Podijeli</div>
+</div>
+<div class="modal-body modal_social_share_body">
+<a class="fb_art" onclick="window.open('https://www.facebook.com/sharer/sharer.php?u=https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427','_blank')"><i class="fa-brands fa-facebook"></i></a>
+<a class="ms_art hidden-lg hidden-md" onclick="window.location.href = 'fb-messenger://share/?link='+window.location.href"><img src="https://www.apartmanija.hr/icons/v3/community/msngr.png"/></a>
+<a class="ms_art hidden-xs" onclick="window.open('http://www.facebook.com/dialog/send?app_id=119647764745190&amp;link=https%3A%2F%2Fwww.apartmanija.hr%2Fapartmani%2Frogoznica%2Fapartmani-hadriaticum-1%2F7427&amp;redirect_uri=https%3A%2F%2Fwww.apartmanija.hr%2Fapartmani%2Frogoznica%2Fapartmani-hadriaticum-1%2F7427','_blank')"><i class="fa-brands fa-facebook-messenger"></i></a>
+<a class="tw_art" onclick="window.open('https://twitter.com/intent/tweet?counturl=https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427&amp;url=https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427&amp;via=apartmanija','_blank')"><i class="fa-brands fa-twitter"></i></a>
+<a class="vb_art" onclick="window.location.href = 'viber://forward?text='+window.location.href"><i class="fa-brands fa-viber"></i></a>
+<a class="wa_art" onclick="window.location.href = 'whatsapp://send?text='+window.location.href"><i class="fa-brands fa-whatsapp"></i></a>
+<a class="pi_art" onclick="window.open('http://pinterest.com/pin/create/link/?url=https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427','_blank')"><i class="fa-brands fa-pinterest pi_art"></i></a>
+<a class="em_art" onclick="window.location.href='mailto:?body=https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427','_blank'"><i class="fa-regular fa-envelope"></i></a>
+<a class="lk_art" data-target="#mod-copy-link" data-toggle="modal" title="Kopiraj poveznicu"><i class="fa-regular fa-link"></i></a>
+<!-- Modal copy link -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen modal_social_share" id="mod-copy-link" role="dialog" style="margin-top:150px;" tabindex="-1">
+<div class="modal-dialog" style="width:80%; height:70%; border:1px solid #ddd;">
+<div class="modal-content">
+<div class="modal-header modal_bg_2">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span>
+</button>
+<div class="modal-title"><i class="fa-regular fa-link"></i>Kopiraj poveznicu</div>
+</div>
+<div class="modal-body modal_social_share_body">
+<input onclick="this.focus();this.select()" readonly="readonly" style="border:1px solid #ccc; width:90%; padding:5px;" value="https://www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427">
+</input></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="property_inquire_float_btn2 hidden-lg hidden-md" id="property_mob_float">
+<a class="btn_bg_2" data-target="#mod-inq" data-toggle="modal">Pošalji upit</a>
+</div>
+<!-- Modal inquiry -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-inq" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_3">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span><span class="sr-only">Zatvori</span></button>
+<div class="modal-title"><i class="fa fa-envelope"></i>Kontakt obrazac</div>
+</div>
+<div class="modal-body shaded">
+<div class="mt15 collapse text-center" id="cform-mob_loader"><i class="fa fa-spinner fa-spin fa-3x fa-fw"></i></div>
+<div class="mt15 collapse" id="cform-mob_msg"></div>
+<form action="javascript:sendInquiry(2)" enctype="multipart/form-data" id="cform-mob" method="post">
+<input name="mem" type="hidden" value="6816">
+<input name="cat" type="hidden" value="apartments">
+<input name="prop_id" type="hidden" value="7427">
+<input name="prop_name" type="hidden" value="Apartmani Hadriaticum 1">
+<input name="prop_url" type="hidden" value="www.apartmanija.hr/apartmani/rogoznica/apartmani-hadriaticum-1/7427"/>
+<div class="form-group">
+<input class="mob_mod_inp" name="fname" placeholder="Ime" type="text"/>
+<span class="form_alert" id="cform-mob_fname_errorloc"></span>
+</div>
+<div class="form-group">
+<input class="mob_mod_inp" name="lname" placeholder="Prezime" type="text"/>
+<span class="form_alert" id="cform-mob_lname_errorloc"></span>
+</div>
+<div class="form-group">
+<input class="mob_mod_inp" name="email" placeholder="E-mail" type="text"/>
+<span class="form_alert" id="cform-mob_email_errorloc"></span>
+</div>
+<div class="form-group">
+<input class="mob_mod_inp" name="phone" placeholder="Telefon" type="text"/>
+<span class="form_alert" id="cform-mob_phone_errorloc"></span>
+</div>
+<div class="form-group">
+<input class="mob_mod_inp" name="mobile" placeholder="Mobitel" type="text"/>
+<span class="form_alert" id="cform-mob_mobile_errorloc"></span>
+</div>
+<hr/>
+<div class="form-group">
+<label>Smještajna jedinica:</label>
+<select class="mob_mod_inp" id="acm_unit" name="acm_unit">
+<option value="0">---------</option>
+<option value="A4|18596">A4  (ID:18596)</option>
+<option value="A4|22944">A4  (ID:22944)</option>
+<option value="Studio|22520">Studio  (ID:22520)</option>
+<option value="Studio|18595">Studio  (ID:18595)</option>
+</select>
+<span class="form_alert" id="cform-mob_acm_unit_errorloc"></span>
+</div>
+<div class="form-group has-feedback">
+<input class="mob_mod_inp datepick" id="arrival-mobile" name="arrival" placeholder="Dolazak" readonly="readonly" type="text"/>
+<span class="form_alert" id="cform-mob_arrival_errorloc"></span>
+</div>
+<div class="form-group">
+<input class="mob_mod_inp datepick" id="departure-mobile" name="departure" placeholder="Odlazak" readonly="readonly" type="text"/>
+<span class="form_alert" id="cform-mob_departure_errorloc"></span>
+</div>
+<hr/>
+<div class="form-group">
+<label>Broj odraslih:</label>
+<select class="mob_mod_inp" name="adults">
+<option value="0">---------</option>
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option> </select>
+<span class="form_alert" id="cform-mob_adults_errorloc"></span>
+</div>
+<div class="form-group">
+<label>Broj djece do 6 godina:</label>
+<select class="mob_mod_inp" name="child_12">
+<option value="0">---------</option>
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option> </select>
+</div>
+<div class="clearfix"></div>
+<div class="form-group">
+<label>Broj djece od 6 do 12 godina:</label>
+<select class="mob_mod_inp" name="child_18">
+<option value="0">---------</option>
+<option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option> </select>
+</div>
+<hr/>
+<div class="form-group">
+<textarea class="mob_mod_inp" name="inquiry" placeholder="Upit" rows="7"></textarea>
+<span class="form_alert" id="cform-mob_inquiry_errorloc"></span>
+<span class="help-block" id="inquiry-terms-mob"></span>
+</div>
+<!-- errors default -->
+<div class="price_xxx">
+<div class="overview ff1">
+<div class="total_nights">
+<div>Ukupan broj noćenja: <span class="pull-right" id="nightsCount"></span></div>
+<div>Ukupan broj osoba: <span class="pull-right" id="personCount"></span></div>
+</div>
+<!-- errors start -->
+<div class="__price_error error_not_defined">
+<i class="fa fa-circle-exclamation" style="margin-right:3px !important; font-size:18px !important;"></i>
+            Za odabrani period cijena nije definirana. 
+        </div>
+<div class="__price_error error_maxPersons">
+<i class="fa fa-circle-exclamation" style="margin-right:3px !important; font-size:18px !important;"></i>
+            Za odabranu smještajnu jedinicu maksimalan broj gostiju je  <span class="error_maxPersons"></span></div>
+<div class="__price_error error_minStay">
+<i class="fa fa-circle-exclamation" style="margin-right:3px !important; font-size:18px !important;"></i>
+            Za odabrani period minimalni broj noćenja je  <span class="error_minStay"></span></div>
+<!-- errors end -->
+</div>
+<div class="total_cont ff1">
+<div class="days" style="font-size: 14px; text-align:right; margin-bottom:5px;"></div>
+        Ukupni iznos: <span class="total pull-right"></span>
+</div>
+<p class="price__note">
+<strong>Napomena:</strong><br/>
+        Cijena je izračunata iz dostupnih parametara. Za točnu cijenu, molimo, kontaktirati iznajmljivača. <br/>U cijenu možda nisu uključeni sadržaji koji nisu navedeni na oglasu, a naplaćuju se.    </p>
+</div>
+<input id="currency" type="hidden" value="€">
+<input id="nights_trans" type="hidden" value="noći">
+<a class="property_unit_book_btn_xs text-center ff1" onclick="$('#cform-mob').submit();">Pošalji upit</a>
+</input></input></input></input></input></input></form>
+<a class="property_unit_book_btn ff1 property_inquiry_modal_close_btn" data-dismiss="modal" id="cform-mob_modal-close">Zatvori</a>
+<a class="property_unit_book_btn ff1 property_inquiry_modal_close_btn" id="cform-mob_resend" onclick="resendInquiry(2)" style="display:none">Pošalji novi upit</a>
+<script>
+                    //<![CDATA[
+                    var fval = new Validator("cform-mob");
+                    fval.EnableOnPageErrorDisplay();
+                    fval.EnableMsgsTogether();
+                    fval.addValidation("fname", "req", "Obavezno polje");
+                    fval.addValidation("lname", "req", "Obavezno polje");
+                    fval.addValidation("email", "req", "Obavezno polje");
+                    fval.addValidation("email", "email", "Neispravna e-mail adresa");
+                    fval.addValidation("arrival", "req", "Obavezno polje");
+                    fval.addValidation("departure", "req", "Obavezno polje");
+                                        fval.addValidation("acm_unit", "dontselect=0", "Obavezno polje");
+                                        fval.addValidation("adults", "dontselect=0", "Obavezno polje");
+                    fval.addValidation("inquiry", "req", "Obavezno polje");
+                    //]]>
+                </script>
+</div>
+</div>
+</div>
+</div>
+<input id="first_select_unit" type="hidden" value="Odaberite smještajnu jedinicu">
+<input id="city_id" type="hidden" value="245">
+<script type="application/javascript">
+    var exportJson = '{"city_name":"Rogoznica","region_name":"\u0160ibenik i okolica"}';
+</script>
+<div class="container-fluid cont_latest_ads hidden-xs">
+<div class="container ff1">
+<span class="text-center latest_ads_ttl">Posljednji oglasi</span>
+<div class="row">
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31610_1104_1721388259.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/lumbarda/apartmani-josipa/31610">Apartmani Josipa</a>
+<span>Korčula Lumbarda, Otoci</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31608_1435_1721367794.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/baska-voda/apartmani-villa-nedo/31608">Apartmani Villa Nedo</a>
+<span>Baška Voda, Split i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/villas/1782_7900_1721302176.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/vile/orebic/house-senija-gracin/1782">House Senija Gracin</a>
+<span>Orebić, Dubrovnik i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31605_1995_1721413527.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/bibinje/apartmani-ines/31605">Apartmani Ines</a>
+<span>Bibinje, Zadar i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31602_6151_1721232283.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/pakostane/apartmani-zdravko/31602">Apartmani Zdravko</a>
+<span>Pakoštane, Zadar i okolica</span>
+</div>
+<div class="col-md-2 col-sm-6 text-center latest_ad">
+<img class="img-circle" src="https://www.apartmanija.hr/slike_thumbs/apartments/31599_9537_1721221419.jpg"/>
+<a class="ff1" href="https://www.apartmanija.hr/apartmani/ciovo-okrug-gornji/apartman-summer-memories/31599">Apartman Summer Memories</a>
+<span>Čiovo Okrug Gornji, Otoci</span>
+</div>
+</div>
+</div>
+</div>
+<div class="container-fluid footer ff1">
+<div class="col-xs-12 to_top visible-xs">
+<a class="smooth" href="#top">
+<span class="fa-stack fa-lg">
+<i class="fa fa-circle fa-stack-2x"></i>
+<i class="fa fa-arrow-up fa-stack-1x"></i>
+</span>
+</a>
+</div>
+<img class="footer_logo hidden-xs" src="//www.apartmanija.hr/icons/bg_footer_graph.png"/>
+<div class="container">
+<div class="row">
+<div class="col-md-4 text-center hidden-xs">
+<span class="ff1">Top odredišta</span>
+<ul>
+<li><a href="https://www.apartmanija.hr/apartmani/dubrovnik" target="_blank" title="Dubrovnik smještaj i apartmani.">Dubrovnik - Grad muzej</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/zadar" target="_blank" title="Apartmani u Zadru i Pivatni smjestaj Zadar.">Grad Zadar</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/sibenik" target="_blank" title="Pronadjite idealan smjestaj u Šibeniku">Šibenik - grad povijesne baštine </a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/biograd-na-moru" target="_blank" title="Apartmani, sobe i privatni smještaj u Biogradu na Moru.">Grad Biograd na Moru</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/split" target="_blank" title="Apartmani, sobe i privatni smještaj u Splitu.">Grad Split - 1700 godina tradicije</a></li>
+</ul>
+</div>
+<div class="col-md-4 text-center hidden-xs">
+<span class="ff1">Korisni linkovi</span>
+<ul>
+<li><a href="https://www.viamichelin.com" rel="nofollow" target="_blank" title="Planer putovanja - Karte, rute i ostalo. Viamichelin.">Planer putovanja</a></li>
+<li><a href="https://meteo.hr" rel="nofollow" target="_blank" title="Vremenska prognoza za Hrvatsku">Vremenska prognoza</a></li>
+<li><a href="https://www.croatia.hr" rel="nofollow" target="_blank" title="Hrvatska turistička zajednica | Top destinacije i Kamo ići?">Hrvatska turistička zajednica</a></li>
+<li><a href="https://www.apartmanija.hr/oglasavanje-smjestaja" target="_blank" title="Oglašavanje apartmana i ostalih smještajnih kapaciteta u Hrvatskoj">Oglašavanje apartmana</a></li>
+<li><a href="https://www.udaljenosti.com" target="_blank" title="Cestovna i zračna udaljenosti gradova i mjesta na karti">Udaljenosti gradova</a></li>
+</ul>
+</div>
+<div class="col-md-4 text-center">
+<span class="ff1">Otkrijte Hrvatsku</span>
+<ul>
+<li><a href="https://www.apartmanija.hr/apartmani/restoran-agli-amici-rovinj" title="Restoran Agli Amici u Rovinju je izvanredan restoran koji se ponosi dvjema...">Restoran Agli Amici u Rovinju</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/voznja-quadom-bednja" title="Vožnja quadom u Bednji je prilika da se provozamo pitomim zagorskim bregima...">Vožnja quadom u Bednji</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/usce-rijeke-zrnovnice-stobrec" title="Ušće rijeke Žrnovnice u Stobreču je dragocjeni prirodni i kulturni...">Ušće rijeke Žrnovnice u Stobreču</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/peljeski-most" title="Pelješki most je spoj između kopna i poluotoka, most koji spaja Brijesta...">Pelješki most</a></li>
+<li><a href="https://www.apartmanija.hr/apartmani/stara-jela-z-dugog-sela" title="Stara jela z Dugog Sela je manifestacija koja se održava svake godine...">Stara jela z Dugog Sela</a></li>
+</ul>
+</div>
+</div>
+<div class="row footer_follow_us">
+<div class="col-md-12 text-center">
+<span class="text-center latest_ads_ttl ff1">Pratite nas</span>
+<div>
+<a href="https://www.facebook.com/apartmanija" rel="nofollow" target="_blank"><i class="fa fa-facebook"></i></a>
+<a href="https://www.twitter.com/apartmanija" rel="nofollow" target="_blank"><i class="fa fa-twitter"></i></a>
+<a href="http://www.pinterest.com/directcroatia" rel="nofollow" target="_blank"><i class="fa fa-pinterest"></i></a>
+<a href="https://www.instagram.com/apartmanija.hr/" rel="nofollow" target="_blank"><i class="fa fa-instagram"></i></a>
+</div>
+<a href="https://www.cimerfraj.hr" target="_blank" title="Cimerfraj.hr"><img alt="Cimerfraj.hr" class="ftr_logo_zi" src="https://www.apartmanija.hr/icons/v3/community/logo_v4_m.png"/></a>
+</div>
+</div>
+<hr/>
+<div class="row footer_end">
+<div class="col-md-12 text-center">
+</div>
+<div class="col-md-12 text-center">
+                Copyright © 2009 - 2024 Do-bra d.o.o. | <a href="https://www.apartmanija.hr/kontakt" rel="nofollow">Kontakt</a>
+                | <a href="https://www.apartmanija.hr/opci-uvjeti-koristenja" rel="nofollow">Pravila korištenja</a>
+                                    | <a href="https://www.apartmanija.hr/opci-uvjeti-oglasavanja" rel="nofollow">Uvjeti oglašavanja</a>
+                                | Apartmanija.hr
+            </div>
+</div>
+</div>
+</div>
+<!-- Modal fullscreen -->
+<div aria-hidden="true" aria-labelledby="myModalLabel" class="modal modal-fullscreen" id="mod-src" role="dialog" tabindex="-1">
+<div class="modal-dialog">
+<div class="modal-content">
+<div class="modal-header modal_bg_1">
+<button class="close" data-dismiss="modal" type="button"><span aria-hidden="true">×</span>
+</button>
+<div class="modal-title"><i class="glyphicon glyphicon-search"></i>Pronađi idealan smještaj u Hrvatskoj</div>
+</div>
+<div class="modal-body">
+<form action="https://www.apartmanija.hr/pretraga" enctype="multipart/form-data" id="search_form_mob" method="post">
+<div class="form-group">
+<input class="mob_mod_inp" id="inp_dest_mob" name="inp_dest" onkeyup="$('#dest_inp_clear').show(); $('#req_dest').hide(); " placeholder="Gdje se želite odmoriti?" type="text"/>
+<span id="dest_inp_clear" onclick="$('#inp_dest_mob').val('').focus(); $(this).hide()" style="position:absolute; top:16px; right:27px; font-size:28px; display:none;">×</span>
+<input id="inp_reg_val_mob" name="inp_reg_val" type="hidden">
+<input id="inp_cit_val_mob" name="inp_cit_val" type="hidden">
+<span class="help-block form_alert collapse" id="req_dest"><i class="fa-regular fa-caret-up"></i> Obavezno polje</span>
+</input></input></div>
+<div class="form-group" style="display:inline-block;">
+<i class="fa-regular fa-calendar-check home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<input class="mob_mod_inp" id="search_arrival_mobile" name="inp_start_date_val" placeholder="Dolazak" readonly="readonly" style="width:49%; padding-left:30px;" type="text">
+<i class="fa-regular fa-calendar-times home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<input class="mob_mod_inp" id="search_departure_mobile" name="inp_end_date_val" placeholder="Odlazak" readonly="readonly" style="width:49%; padding-left:30px;" type="text">
+</input></input></div>
+<div class="form-group">
+<i class="fa-regular fa-users home_search_icon" style="position:absolute; margin:13px 0 0 10px;"></i>
+<select class="mob_mod_inp" id="inp_nump_val_mob" name="inp_nump_val" style="padding-left:27px;">
+<option value="">Osoba</option>
+<option value="1">1</option>
+<option value="2">2</option>
+<option value="3">3</option>
+<option value="4">4</option>
+<option value="5">5</option>
+<option value="6">6</option>
+<option value="7">7</option>
+<option value="8">8</option>
+<option value="9">9</option>
+<option value="10">10</option>
+<option value="11">11</option>
+<option value="12">12</option>
+<option value="13">13+</option>
+</select>
+</div>
+<div class="form-group">
+<select class="mob_mod_inp" id="inp_acmt_cat_mob" name="inp_acmt_cat">
+<option value="apartments">Apartmani i sobe</option>
+<option value="villas">Vile</option>
+<option value="robinson">Robinzonski turizam</option>
+<option value="rural">Seoski turizam</option>
+</select>
+</div>
+<button class="button_reset btn_src btn_bg_1" onclick="start_mob_search();" type="button">
+<i class="glyphicon glyphicon-search"></i>Traži</button>
+</form>
+</div>
+</div>
+</div>
+</div>
+<div id="site_curr" style="display:none;">
+<li><a onclick="setCurrency('EUR')">EUR                - Euro <span>(€                    )</span></a></li>
+<li><a onclick="setCurrency('CHF')">CHF                - Švicarski franak <span>(CHF                    )</span></a></li>
+<li><a onclick="setCurrency('CZK')">CZK                - Češka koruna <span>(Kč                    )</span></a></li>
+<li><a onclick="setCurrency('DKK')">DKK                - Danska kruna <span>(kr                    )</span></a></li>
+<li><a onclick="setCurrency('GBP')">GBP                - Britanska funta <span>(£                    )</span></a></li>
+<li><a onclick="setCurrency('HRK')">HRK                - Hrvatska kuna <span>(kn                    )</span></a></li>
+<li><a onclick="setCurrency('HUF')">HUF                - Mađarski forint <span>(Ft                    )</span></a></li>
+<li><a onclick="setCurrency('NOK')">NOK                - Norveška kruna <span>(kr                    )</span></a></li>
+<li><a onclick="setCurrency('PLN')">PLN                - Poljski zloti <span>(zł                    )</span></a></li>
+<li><a onclick="setCurrency('RON')">RON                - Rumunjski lei <span>(LEI                    )</span></a></li>
+<li><a onclick="setCurrency('SEK')">SEK                - Švedska kruna <span>(kr                    )</span></a></li>
+<li><a onclick="setCurrency('RUB')">RUB                - Ruska rublja <span>(RUB                    )</span></a></li>
+<li><a onclick="setCurrency('USD')">USD                - Američki dolar <span>($                    )</span></a></li>
+</div><script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+<script>
+    var currentDateMDY = '07/20/2024';
+    var baseUrl = 'https://www.apartmanija.hr';
+    let exchangeRate = 7.53450;
+</script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.2/jquery.fancybox.min.js"></script>
+<script>
+        $('[data-fancybox]').fancybox({
+            buttons: [
+                'close'
+            ],
+            infobar: false,
+            caption: function (instance, item) {
+                var caption = $(this).data('caption') || '';
+
+                return (caption.length ? caption + '<br />' : '') + '<span data-fancybox-index></span> / <span data-fancybox-count></span>';
+            }
+        });
+    </script>
+<script type="text/javascript">
+    var daterangepicker_options = {
+            autoApply: true,
+            autoUpdateInput: false,
+            minDate: currentDateMDY
+        },
+        selector_arrival = '.datepicker_search_arrival',
+        selector_departure = '.datepicker_search_departure';
+    function start_date_f(){var start_date = $(selector_arrival).val().split("."); return typeof start_date[1] === "undefined" ? currentDateMDY : start_date[1]+"/"+start_date[0]+"/"+start_date[2];}function end_date_f(){var end_date = $(selector_departure).val().split("."); return typeof end_date[1] === "undefined" ? currentDateMDY :  end_date[1]+"/"+end_date[0]+"/"+end_date[2];}    daterangepicker_options['startDate'] = start_date_f();
+    daterangepicker_options['endDate'] = end_date_f();
+    </script>
+<script src="//code.jquery.com/ui/1.10.3/jquery-ui.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/jquery.mobile.custom.min.js" type="text/javascript"></script>
+<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/infobubble-compiled.js" type="text/javascript"></script>
+<script src="//cdn.jsdelivr.net/npm/moment@2.22.1/min/moment-with-locales.min.js" type="text/javascript"></script>
+<script>
+            daterangepicker_options['locale'] = {
+        daysOfWeek: 'ne_po_ut_sr_če_pe_su'.split('_'),
+        monthNames: 'sij_velj_ožu_tra_svi_lip_srp_kol_ruj_lis_stu_pro'.split('_')
+    };
+        daterangepicker_options['locale']['firstDay'] = 1;
+</script>
+<script src="https://www.apartmanija.hr/js/v3/datepicker.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/autocomplete/autocomplete-hr.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/functions.js?24-06-2024-14-00" type="text/javascript"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/jquery.lazy/1.7.6/jquery.lazy.min.js" type="text/javascript"></script>
+<script>
+    $(function () {
+        $("[data-src]").lazy();
+        $('[data-target="#mod-src"]').click(function (e) {
+            setTimeout(function () {
+                $('#inp_dest_mob').focus();
+                if ($('#inp_dest_mob').val().length > 0) {
+                    $('#dest_inp_clear').show();
+                }
+            }, 50);
+        });
+    });
+
+    function showImg() {
+        $(".lazy").lazy({
+            bind: "event",
+            delay: 0,
+            attribute: "data-ssrc"
+        });
+    }
+</script>
+<script charset="utf-8" src="https://www.googleadservices.com/pagead/conversion_async.js" type="text/javascript"></script>
+<script src="https://www.apartmanija.hr/js/v3/functions.property.js?05-07-2024-16-01"></script>
+<script>
+        jQuery(function ($) {
+            $.localScroll({
+                filter: '.smooth_event', onAfter: function () {
+                    $('#fname').focus();
+                }
+            });
+        });
+        if (typeof exportJson !== 'undefined') {
+            var searchValues = JSON.parse(exportJson);
+            $('#inp_dest_mob').val(searchValues.city_name + ', ' + searchValues.region_name);
+            if (searchValues.arrival != null && searchValues.departure != null) {
+                $('#search_arrival_mobile').val(searchValues.arrival);
+                $('#search_departure_mobile').val(searchValues.departure);
+            }
+        }
+    </script>
+<div id="fb-root"></div>
+<script src="https://www.apartmanija.hr/js/v3/jquery.smoothscroll.js"></script>
+<!-- Load Facebook SDK for JavaScript -->
+<script async="" crossorigin="anonymous" defer="" nonce="FOKrbAYI" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v10.0&amp;appId=119647764745190&amp;autoLogAppEvents=1"></script>
+<script>
+    !function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0], p = /^http:/.test(d.location) ? 'http' : 'https';
+        if (!d.getElementById(id)) {
+            js = d.createElement(s);
+            js.id = id;
+            js.src = p + '://platform.twitter.com/widgets.js';
+            fjs.parentNode.insertBefore(js, fjs);
+        }
+    }(document, 'script', 'twitter-wjs');
+    window.___gcfg = {lang: 'en-GB'};
+    if (typeof jQueryLoad === "function")
+        jQueryLoad();
+</script>
+<div class="fullPageLoader" style="display:none;top:0;left:0;z-index:9999;text-align:center;width: 100%; height: 100%; background: rgba(0,0,0,.6); position: fixed; color: #fff">
+<div style="position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);font-size: 16px">Učitavam...
+    </div>
+</div>
+</input></input></body>
+</html>
