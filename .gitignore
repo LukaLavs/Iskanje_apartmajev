@@ -10,6 +10,10 @@ __pycache__/
 # Ignoriraj Jupyter Notebook kontrolne točke
 .ipynb_checkpoints/
 
+# Izključi mape grafi_in_tabele in shranjevanje_strani
+grafi_in_tabele/
+shranjevanje_strani/
+
 # Izključi vse .xlsx datoteke
 *.xlsx
 
