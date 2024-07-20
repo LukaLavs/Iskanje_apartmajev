@@ -1,5 +1,5 @@
 IDEJA:
-Spletna stran apartmanija.hr ima mnogokrat na voljo dobre apartmaje. Kar me zmoti je to, da imajo kot ceno, ki predstavlja apartma, napisano najnižjo ceno, ki jo postavljajo, na primer neko ceno za zimsko sezono za njihovo najmanjšo sobo. Točne cene si lahko ogledamo le tako, da zapravimo svoj čas. Program, ki sem ga napisal, poišče in izračuna cene, poišče različne razdalje, izloči tiste, ki na želen termin niso v najem in še več. V program nisem vključil preverjanja ali je apartma zaseden, saj bi to močno prispevalo k zmanjšanju hitrosti kode, hkrati pa mnogi ne vpisujejo zasedenosti.
+Spletna stran apartmanija.hr ima mnogokrat na voljo dobre apartmaje. Kar me zmoti je to, da imajo kot ceno, ki predstavlja apartma, napisano najnižjo ceno, ki jo postavljajo, na primer neko ceno za zimsko sezono za njihovo najmanjšo sobo. Točne cene si lahko ogledamo le tako, da zapravimo svoj čas. Program, ki sem ga napisal, poišče in izračuna cene, poišče različne razdalje, izloči tiste, ki na želen termin niso v najem in še več
 
 
 

@@ -78,3 +78,12 @@ def ustvari_podroben_csv(df, stevilo_izbranih, zacetek, konec, brskalnik):
 
 def graf(df):
     graficni_prikaz.izrisi_grafe(df)
+
+            
+            
+
+
+
+
+def d(s):
+    return analiza_podstrani.luscenje_fino(s)
