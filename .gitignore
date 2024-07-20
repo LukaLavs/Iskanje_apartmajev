@@ -9,3 +9,12 @@ __pycache__/
 
 # Ignoriraj Jupyter Notebook kontrolne točke
 .ipynb_checkpoints/
+
+# Izključi vse .xlsx datoteke
+*.xlsx
+
+# Izključi vse .csv datoteke
+*.csv
+
+# Izključi vse .png datoteke
+*.png
