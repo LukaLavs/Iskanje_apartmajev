@@ -1,0 +1,11 @@
+# Ignoriraj virtualno okolje
+venv/
+
+# Ignoriraj Python začasne datoteke
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignoriraj Jupyter Notebook kontrolne točke
+.ipynb_checkpoints/
