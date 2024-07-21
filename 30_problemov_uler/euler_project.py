@@ -750,7 +750,7 @@ def selections():
     return s
 #print(selections())
 ########################################################################
-#problem 67: rešitev = 7273
+#problem 67: rešitev = 7273 
 with open(r"c:\Users\lavse\Desktop\tutoriali\python\0067_triangle.txt", 'r') as file:
     v = file.readlines()
 trikotnik = [list(map(int, u.split())) for u in v]
