@@ -165,8 +165,8 @@ def summation_of_primes(n):
             sum += i
     return sum
 #print(summation_of_primes(2000000))
-#from sympy import divisors
 ###########################################################
+#from sympy import divisors
 #problem 12: Highly devisible triangle number (rešitev76576500)
 def triangular_devisors():
     n = 1
@@ -305,16 +305,7 @@ def longest_collatez(n):
 def power_digits(n):
     n = str(n)
     return sum([int(j) for j in n])
-#print(power_digits(2**1000))
-######################################################
-#problem 17:
-def besedna_st(n):
-    n = str(n)
-    if n < 10:
-        return ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine"][n-1]
-    if n in [10*i for i in range(1, 10)]:
-        return
-#print(besedna_st(9))        
+#print(power_digits(2**1000))    
 #################################################
 #problem 18 rešitev=1074
 trikotnik="""75
@@ -365,6 +356,98 @@ def fakulteta(n):
 def fact_sum(n):
     return power_digits(fakulteta(n))
 #print(fact_sum(100))
+###################################################
+#problem 25: 1000digits Fibonaci rešitev=4782
+def fibo():
+    a, b = 1, 1
+    i = 2
+    while b < 10**999:
+        a, b = b, a+b
+        i += 1
+    return i
+#print(fibo())
+#############################################
+#problem 27 rešitev= -59231
+#b prime ker zacnemo z n=0, abs <1000
+def quadratic_primes():
+    def formula(n, a, b):
+        return n**2 + a*n + b
+    kandidatb = prastevila_do(1000)
+    pra = prastevila_do(10000)
+    print("kkk")
+    def zaporedni(a, b):
+        i = 0
+        n = 0
+        while formula(n, a, b) in pra:
+            i += 1
+            n += 1
+        return i
+    m = 0
+
+    for a in range(-999, 1000):
+        for b in kandidatb:
+            r = zaporedni(a, b)
+            if r > m:
+                m = r
+                konec = [a, b]
+                
+    return m, konec
+#(71, [-61, 971]) = (zaporedna pra, [a, b])
+#print(quadratic_primes())    
+#####################################################
+#problem 29: distinct Powers rešitev=9183
+def distinct_powers():
+    s = [i for i in range(2, 101)]
+    r = []
+    for a in s:
+        for b in s:
+            r.append(a**b)
+    return len(set(r))
+#print(distinct_powers())
+##################################################################################
+#problem 34 rešitev=40730
+def fakulteta(n):
+    if n <= 1:
+        return 1
+    return n*fakulteta(n-1)
+def digits_fakulteta(n):
+    return sum([fakulteta(int(i)) for i in str(n)])
+def test():
+    t=[]
+    for i in range(3, 500000):
+        if i == digits_fakulteta(i):
+            t.append(i)
+    return t
+#print(test())
+#[145, 40585]
+######################################################
+#problem 37: rešitev = 748317
+#pra = prastevila_do(1000000)
+def truncatable(n): 
+    
+    del1 = n 
+    del2 = 0  
+    while del1: 
+        zadnji_del1 = del1 % 10; 
+        del2 = del2 * 10 + zadnji_del1; 
+        # 7 3797 
+        # 97 379 
+        # 797 37 
+        # 3797 3 
+        if int(str(del2)[::-1]) in pra and del1 in pra: 
+            del1 //= 10 
+        else:
+            return False 
+
+    return True
+#r = []
+#for j in pra:
+    #if truncatable(j):
+        #r.append(j)
+#print( r, sum(r[4:]))
+
+#print(truncatable(739397))
+#[2, 3, 5, 7, 23, 37, 53, 73, 313, 317, 373, 797, 3137, 3797, 739397] , 748317
 #########################################################
 # Number Splitting (rešitev = ) ni rešeno
 from itertools import combinations
@@ -654,6 +737,18 @@ def consecutive_prime_sum(najvec):
         i = j
     return stevila
 #print(consecutive_prime_sum(1000000))  
+#############################################################
+#problem 53: Combinatoric Selections: rešitev = 4075
+#import math
+def selections():
+    s = 0
+    for n in range(1, 101):
+        for r in range(0, n+1):
+            komb = math.comb(n, r)
+            if komb > 1000000:
+                s += 1
+    return s
+#print(selections())
 ########################################################################
 #problem 67: rešitev = 7273
 with open(r"c:\Users\lavse\Desktop\tutoriali\python\0067_triangle.txt", 'r') as file:
