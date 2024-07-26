@@ -14,11 +14,3 @@ __pycache__/
 grafi_in_tabele/
 shranjevanje_strani/
 
-# Izključi vse .xlsx datoteke
-*.xlsx
-
-# Izključi vse .csv datoteke
-*.csv
-
-# Izključi vse .png datoteke
-*.png
