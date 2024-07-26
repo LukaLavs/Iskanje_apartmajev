@@ -22,12 +22,12 @@ Spletna stran apartmanija.hr pogosto nudi odlične apartmaje, vendar pogosto pri
    - _2_ : `https://www.apartmanija.hr/pretraga/apartmani/r:{okolica}+c:{kraj}+osobe:{osebe}+start:{prihod}+end:{odhod}`
 
    **Nastavitve parametrov glede na vrsto URL-ja:**
-   - Za URL obliki _1_ :
+   - Za URL oblike _1_ :
      - Nastavite `{prihod}`, `{odhod}`, `{glavni_naslov}`.
      - Vrednosti `{osebe}`, `{okolica}`, `{kraj}` pustite nespremenjene.
      - Nastavite `{i}` na `True`.
      
-   - Za URL obliki _2_ :
+   - Za URL oblike _2_ :
      - Nastavite `{prihod}`, `{odhod}`, `{osebe}`, `{okolica}`, `{kraj}`.
      - Vrednost `{glavni_naslov}` pustite nespremenjeno.
      - Nastavite `{i}` na `False`.
