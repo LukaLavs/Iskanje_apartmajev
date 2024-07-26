@@ -1,0 +1,16 @@
+podatki pridobljeni 19.07.2024 z uporabo parametrov:
+
+prihod = "01.08.2024"
+odhod = "08.08.2024"
+osebe = 4
+okolica = "zadar-i-okolica"
+kraj = "sukosan"
+glavni_naslov = "rogoznica"
+i = True
+podrobna_analiza = 150
+
+Ker je i = True, smo torej pogledali vse apartmaje na povezavi:
+https://www.apartmanija.hr/apartmani/rogoznica
+
+Program je na strani našel okoli 132 apartmajev,
+zato jih je za podrobno analizo vzel le toliko. Koda je tekla nekaj manj kot 6 minut.
