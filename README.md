@@ -1,7 +1,7 @@
 # README
 
 ## IDEJA:
-Spletna stran apartmanija.hr pogosto nudi odlične apartmaje, vendar pogosto prikažejo samo najnižjo ceno, ki se običajno nanaša na zimsko sezono za najmanjše sobe. Da bi ugotovili točne cene, je potrebno vložiti čas in trud. Program, ki sem ga razvil, poišče vse enote apartmajev, jih grobo uredi po cenah in ustvari tabelo v csv in xlsx formatu. Nato vzame izbrano število teh enot, preuči vse ponujene sobe, preračuna cene glede na izbrana datuma, izloči tiste, ki v izbranem terminu niso v oddaji, zbere tocne naslove in razdalje do morja, trgovin, restavracij in več. Zadnji del kode ustvari še tabele in grafe in jih doda v enako datoteko kot prej, in sicer datoteko z imenom grafi_in_tabele.
+Spletna stran apartmanija.hr pogosto nudi odlične apartmaje, vendar pogosto prikažejo samo najnižjo ceno, ki se običajno nanaša na zimsko sezono za najmanjše sobe. Da bi ugotovili točne cene, je potrebno vložiti čas in trud. Program, ki sem ga razvil, poišče vse enote apartmajev, jih grobo uredi po cenah in ustvari tabelo v csv in xlsx formatu. Nato vzame izbrano število teh enot, preuči vse ponujene sobe, preračuna cene glede na izbrana datuma, izloči tiste, ki v izbranem terminu niso v oddaji, zbere točne naslove in razdalje do morja, trgovin, restavracij in več. Zadnji del kode ustvari še tabele in grafe in jih doda v enako datoteko kot prej, in sicer datoteko z imenom grafi_in_tabele.
 
 
 ## NAVODILA ZA ZAGON:
