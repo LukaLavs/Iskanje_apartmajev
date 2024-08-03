@@ -1,6 +1,9 @@
 # Ignoriraj virtualno okolje
 venv/
 
+# VSCode settings
+.vscode/
+
 # Ignoriraj Python začasne datoteke
 __pycache__/
 *.pyc
