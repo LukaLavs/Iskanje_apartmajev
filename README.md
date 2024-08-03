@@ -18,21 +18,22 @@ Spletna stran apartmanija.hr pogosto nudi odlične apartmaje, vendar pogosto pri
 3. Nastavite parametre glede na vrsto URL-ja, ki ga želite analizirati:
 
    **URL-ji so v dveh oblikah:**
-   - _1_ : `https://www.apartmanija.hr/apartmani/{glavni_naslov}`
-   - _2_ : `https://www.apartmanija.hr/pretraga/apartmani/r:{okolica}+c:{kraj}+osobe:{osebe}+start:{prihod}+end:{odhod}`
+   - _1_ : `https://www.apartmanija.hr/pretraga/apartmani/r:{okolica}+c:{kraj}+osobe:{osebe}+start:{prihod}+end:{odhod}`
+   - _2_ : `https://www.apartmanija.hr/apartmani/{glavni_naslov}`
 
    **Nastavitve parametrov glede na vrsto URL-ja:**
    - Za URL oblike _1_ :
-     - Nastavite `{prihod}`, `{odhod}`, `{glavni_naslov}`.
-     - Vrednosti `{osebe}`, `{okolica}`, `{kraj}` pustite nespremenjene.
-     - Nastavite `{i}` na `True`.
-     
-   - Za URL oblike _2_ :
      - Nastavite `{prihod}`, `{odhod}`, `{osebe}`, `{okolica}`, `{kraj}`.
      - Vrednost `{glavni_naslov}` pustite nespremenjeno.
-     - Nastavite `{i}` na `False`.
+     - Nastavite `{tip_urlja}` na `1`.
 
-   **Pozor:** Datumi naj bodo v formatu "01.08.2024".
+   - Za URL oblike _2_ :
+     - Nastavite `{prihod}`, `{odhod}`, `{glavni_naslov}`.
+     - Vrednosti `{osebe}`, `{okolica}`, `{kraj}` pustite nespremenjene.
+     - Nastavite `{tip_urlja}` na `2`.
+     
+
+   **Pozor:** Datumi naj bodo v formatu "xx.xx.xxxx".
 
 4. V naslednji celici nastavite `{podrobna_analiza}` na številsko vrednost, ki predstavlja število apartmajev, ki jih želite podrobno pregledati. Prav tako nastavite `{brskalnik}` na ime brskalnika, ki ga uporabljate.
 

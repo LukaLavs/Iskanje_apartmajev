@@ -88,7 +88,7 @@ def create_excel_podrobnejsi(sez):
     df = df.sort_values(by=["Soba","Cena na noč", "Plaža"])
     
     podmapa = 'grafi_in_tabele'
-    file_name = 'excel_apartmaji_v_izbrani_okolici.xlsx'
+    file_name = 'excel_podrobnejsi_podatki.xlsx'
 
     if not os.path.exists(podmapa):
         os.makedirs(podmapa)

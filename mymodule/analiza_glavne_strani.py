@@ -12,8 +12,9 @@ import os
 #Funkcija sprejme datuma začetka in konca potovanja, ter število oseb.
 #Nato pa ustvari url do povezave.
 #Vedno lahko link do željene podstrani, na strani apartmanija.hr, prilepite tudi sami.
+#i predstavlja tip url-ja
 def create_url(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i):
-    if i:
+    if i == 2:
         for x in [zacetek, konec]:
             if not  re.match(r"\d{2}.\d{2}.\d{4}", x):
                 print("Datume piši v obliki kot 01.01.2001")
