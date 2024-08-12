@@ -88,10 +88,9 @@ def izbrisi_vse_datoteke_v_mapi():
 def save_soup_to_file(soup, filename):
     directory = nastavi_directory()
     text = str(soup)
-    os.makedirs(directory, exist_ok=True)
     path = os.path.join(directory, filename)
-    with open(path, 'w', encoding='utf-8') as file_out:
-        file_out.write(text)
+    with open(path, 'w', encoding='utf-8') as izhod:
+        izhod.write(text)
     return None
 
 

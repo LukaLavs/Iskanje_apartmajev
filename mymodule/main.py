@@ -1,10 +1,5 @@
-import sys
-import os
 import importlib
 
-module_path = os.path
-if module_path not in sys.path:
-    sys.path.append(module_path)
     
 import analiza_glavne_strani; importlib.reload(analiza_glavne_strani);
 import ustvarjanje_tabel; importlib.reload(ustvarjanje_tabel);
