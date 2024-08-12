@@ -6,10 +6,10 @@ osebe = 4
 okolica = "zadar-i-okolica"
 kraj = "sukosan"
 glavni_naslov = "rogoznica"
-i = True
+i = 2
 podrobna_analiza = 150
 
-Ker je i = True, smo torej pogledali vse apartmaje na povezavi:
+Ker je i = 2, smo torej pogledali vse apartmaje na povezavi:
 https://www.apartmanija.hr/apartmani/rogoznica
 
 Program je na strani našel okoli 132 apartmajev,
