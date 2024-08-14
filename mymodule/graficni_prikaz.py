@@ -28,8 +28,8 @@ def porazdelitev_cen(df):
     plt.xlabel("Cena na noč")
     plt.ylabel("Število sob")
     plt.grid(False)
-    plt.show()
     plt.savefig(nastavi_directory("porazdelitev_cen.png"), dpi=150)
+    plt.show()
     plt.close()
     
 
@@ -41,8 +41,8 @@ def cena_glede_na_tip_sobe(df_povprecji):
     plt.ylabel('Povprečna cena na noč')
     plt.xlabel('Tip sobe')
     plt.xticks(rotation=90, fontsize=10)
-    plt.show()
     plt.savefig(nastavi_directory("cena_glede_na_tip_sobe.png"), dpi=150)
+    plt.show()
     plt.close()
 
 
@@ -55,8 +55,8 @@ def razdalje_glede_na_tip_sobe(df_povprecji):
     plt.ylabel('Povprečna razdalja (v metrih)')
     plt.xlabel('Lokacija')
     plt.legend(title='Tip sobe')
-    plt.show()
     plt.savefig(nastavi_directory("razdalje_glede_na_tip_sobe.png"), dpi=150)
+    plt.show()
     plt.close()
     
     
@@ -68,8 +68,8 @@ def matrika_korelacij(df):
     plt.figure(figsize=(12, 8))
     sns.heatmap(matrika, annot=True, cmap='coolwarm', vmin=-1, vmax=1)
     plt.title('Korelacija med cenami in razdaljami')
-    plt.show()
     plt.savefig(nastavi_directory("matrika_korelacij.png"), dpi=150)
+    plt.show()
     plt.close()
     
     

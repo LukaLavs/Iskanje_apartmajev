@@ -8,6 +8,7 @@ Spletna stran apartmanija.hr pogosto nudi odlične apartmaje, vendar pogosto pri
 1. Namestite naslednje knjižnice:
    - `beautifulsoup4`
    - `pandas`
+   - `requests`
    - `selenium`
    - `seaborn`
    - `matplotlib`

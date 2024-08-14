@@ -6,7 +6,7 @@ osebe = 4
 okolica = "zadar-i-okolica"
 kraj = "sukosan"
 glavni_naslov = "rogoznica"
-i = 2
+tip_urlja = 2
 podrobna_analiza = 150
 
 Ker je i = 2, smo torej pogledali vse apartmaje na povezavi:
