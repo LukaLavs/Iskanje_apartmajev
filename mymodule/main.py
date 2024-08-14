@@ -1,15 +1,13 @@
-import importlib
-
-    
-import analiza_glavne_strani; importlib.reload(analiza_glavne_strani);
-import ustvarjanje_tabel; importlib.reload(ustvarjanje_tabel);
-import analiza_podstrani; importlib.reload(analiza_podstrani);
-import analiza_z_selenium; importlib.reload(analiza_z_selenium);
-import graficni_prikaz; importlib.reload(graficni_prikaz);
+import analiza_glavne_strani 
+import analiza_podstrani   
+import analiza_z_selenium
+import graficni_prikaz
+import ustvarjanje_tabel
 
 
 
 def izlusci_podatke(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i):
+    """Funkcija izlušči podatke iz glavne strani."""
     analiza_glavne_strani.izbrisi_vse_datoteke_v_mapi()
     url = analiza_glavne_strani.create_url(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i)
     soup = analiza_glavne_strani.url_to_soup(url)
@@ -18,16 +16,19 @@ def izlusci_podatke(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i):
 
 
 def ustvari_df_glavne_strani(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i):
+    """Funkcija izlušči podatke iz glavne strani, jih shrani v tabele, in vrne df."""
     a = izlusci_podatke(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i)
     ustvarjanje_tabel.create_excel(a)
     return ustvarjanje_tabel.create_csv(a)
 
 
 def datum_od_do(zacetek, konec):
+    """Funkcija ustvari zapis DD.MM-DD.MM"""
     return zacetek[:5] + "-" + konec[:5]
      
      
 def prave_cene(n, seznam_urljev, datum, brskalnik='firefox'):
+    """Funkcija vrne seznam velikosti sob in seznam izračunanih cen."""
     a = analiza_podstrani.seznam_price_id(n)
     velikost = [x[0] for x in a]
     b = analiza_z_selenium.tocni_ceniki(seznam_urljev, a, brskalnik)
@@ -36,13 +37,13 @@ def prave_cene(n, seznam_urljev, datum, brskalnik='firefox'):
     for blok in c:
         d = []
         for soba in blok:  
-           
             d.append(analiza_z_selenium.cena_skupaj_in_na_noc(soba, datum))           
         e.append(d)
     return [velikost, e]
 
 
 def natancne_informacije(df, stevilo_izbranih, zacetek, konec, brskalnik):
+    """Funkcija vzame nekaj sob in zbere natančne podatke o sobah."""
     stevilo_izbranih = min(stevilo_izbranih, df.shape[0])
     imena_povezave = ustvarjanje_tabel.povezave_do_izbranih(df, stevilo_izbranih)
     dobri = imena_povezave[1]
@@ -66,10 +67,13 @@ def natancne_informacije(df, stevilo_izbranih, zacetek, konec, brskalnik):
 
 
 def ustvari_podroben_csv(df, stevilo_izbranih, zacetek, konec, brskalnik):
+    """Funkcija ustvari tabelo v kateri se nahajaja željeno število sob, ki smo jih imeli na strani."""
     a = natancne_informacije(df, stevilo_izbranih, zacetek, konec, brskalnik)
     ustvarjanje_tabel.create_excel_podrobnejsi(a)
     return ustvarjanje_tabel.ustvari_podrobnejsi_csv(a)
 
 
 def graf(df):
+    """Funkcija ustvari, prikaže in shrani grafe."""
     graficni_prikaz.izrisi_grafe(df)
+    

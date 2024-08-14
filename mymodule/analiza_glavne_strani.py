@@ -5,26 +5,18 @@ import os
 
 
 
-
-
-
-
-#Funkcija sprejme datuma začetka in konca potovanja, ter število oseb.
-#Nato pa ustvari url do povezave.
-#Vedno lahko link do željene podstrani, na strani apartmanija.hr, prilepite tudi sami.
-#i predstavlja tip url-ja
 def create_url(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i):
+    """Funkcija ustvari željen url"""
+    
     if i == 2:
         for x in [zacetek, konec]:
             if not  re.match(r"\d{2}.\d{2}.\d{4}", x):
                 print("Datume piši v obliki kot 01.01.2001")
                 return None
-        
         url = f"https://www.apartmanija.hr/apartmani/{glavni_naslov}"
         return url
     else:    
         zacetek, konec = str(zacetek), str(konec)
-        
         if osebe != int(osebe):
             print("Napišite osebe kot število")
             return None
@@ -40,9 +32,9 @@ def create_url(zacetek, konec, osebe, okolica, kraj, glavni_naslov, i):
         return url
 
 
-
-#Funkcija pridobi html obliko strani
 def url_to_soup(url):
+    """Funkcija pridobi html željene strani"""
+    
     try:
         response = requests.get(url)
         if response.status_code == 200:
@@ -50,27 +42,29 @@ def url_to_soup(url):
         else:
             print("URL ni bil najden")
             return None
-
+        
     except Exception:
         print(f"Napaka pri nalaganju {url}:\n {traceback.format_exc()} ")
         return None
     
     
-    
-#Funkcija nastavi ustrezen directory
 def nastavi_directory():
-    base_dir = os.getcwd()  # To je mapa, kjer se nahaja trenutna skripta
-    # Zgradite pot do podmape
-    desired_directory = os.path.join(base_dir, 'shranjevanje_strani')
-    # Preverite, ali pot obstaja
-    if not os.path.exists(desired_directory):
-        os.makedirs(desired_directory)
-        
-    return desired_directory
+    """Funkcija ustvari shranjevanje_strani in vrne njeno lokacijo"""
     
+    pot_do_skripte = os.path.abspath(__file__)
+    pot_do_nadmape = os.path.dirname(os.path.dirname(pot_do_skripte))
+    tarca = os.path.join(pot_do_nadmape, 'shranjevanje_strani')
     
-#Funkcija izprazni mapo shranjevanje_strani, da preprečimo, da v njej ostanejo neželeni soupi    
+    if not os.path.exists(tarca):
+        os.makedirs(tarca)
+  
+    return tarca
+
+    
 def izbrisi_vse_datoteke_v_mapi():
+    """Funkcija izprazni mapo shranjevanje_strani."""
+    
+    #nastavi_directory()
     mapa = nastavi_directory()
     try:
         seznam_datotek = os.listdir(mapa)
@@ -82,10 +76,11 @@ def izbrisi_vse_datoteke_v_mapi():
     
     except Exception as e:
         print(f"Napaka pri brisanju datotek v mapi '{mapa}': {e}")    
-
     
-#Funkcija shrani stran v datoteko.
+
 def save_soup_to_file(soup, filename):
+    """Funkcija shrani stran v datoteko."""
+    
     directory = nastavi_directory()
     text = str(soup)
     path = os.path.join(directory, filename)
@@ -94,15 +89,15 @@ def save_soup_to_file(soup, filename):
     return None
 
 
-
-#Funkcija izlušči podatke iz seznama ki ima nize oblike "od 1 do 11 osoba u 2 apartmana"
-#vrne pa seznam seznamov oblike [od,do]
 def kapaciteta_uredi(sez):
+    """
+    Funkcija izlušči podatke iz seznama ki ima nize oblike "od 1 do 11 osoba u 2 apartmana"
+    vrne pa seznam seznamov oblike [od,do]. """
+    
     kapaciteta = []
     for stvar in sez:
         stevila = re.findall(r'\d+', stvar)
         stevila = list(map(int, stevila))
-        
         if stevila == []:
             kapaciteta.append("?")
         if len(stevila) == 1:
@@ -112,10 +107,8 @@ def kapaciteta_uredi(sez):
     return kapaciteta
 
 
-
-#izluščimo glavne podatke, in vrnimo seznam seznamov,
-#kjer je posamezen seznam oblike [ime, cena, kapaciteta, povezava]
 def luscenje_grobo(soup):
+    """Funkcija izlušči glavne podatke in vrne sezname oblik: [ime, cena, kapaciteta, povezava]."""
     
     imena = soup.find_all("p", class_="prop_name")
     imena = [geslo.text.strip() for geslo in imena]
@@ -134,11 +127,13 @@ def luscenje_grobo(soup):
     return [[a, b, c, d] for (a, b, c, d) in zip(imena, cena, kapaciteta, povezava)]
 
 
-#Funkcija vrne seznam Soup vsebin, iz podstrani
 def pridobi_soups(dobri):
+    """Funkcija vrne seznam Soup vsebin, iz podstrani."""
+    
     soups = []
     for (povezava, i) in zip(dobri, range(1, len(dobri) + 1)):
         soup_n = url_to_soup(povezava)
         save_soup_to_file(soup_n, f"soup{i}.txt")
         soups.append(soup_n)
+        
     return soups

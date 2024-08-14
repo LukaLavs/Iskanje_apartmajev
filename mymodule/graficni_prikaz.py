@@ -1,15 +1,23 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
+import os
 
 
-# Izračun povprečij za številčne stolpce    
+
+def nastavi_directory(ime_datoteke):
+    pot_do_skripte = os.path.abspath(__file__)
+    pot_do_nadmape = os.path.dirname(os.path.dirname(pot_do_skripte))
+    directory = os.path.join(pot_do_nadmape, 'grafi_in_tabele')
+    return os.path.join(directory, ime_datoteke)
+    
+
 def povprecje_stevil_glede_na_sobe(df):
+    """Funkcija izračuna povprečja za numerične stolpce."""
     
     numeric_columns = ['Skupna cena', 'Cena na noč', 'Morje', 'Plaža', 'Center', 'Trgovina', 'Restavracija']
     df = df.groupby('Soba')[numeric_columns].mean().reset_index()
     return df
-
 
 
 def porazdelitev_cen(df):
@@ -20,9 +28,9 @@ def porazdelitev_cen(df):
     plt.xlabel("Cena na noč")
     plt.ylabel("Število sob")
     plt.grid(False)
-    plt.savefig('grafi_in_tabele/porazdelitev_cen.png', dpi=150)
+    plt.show()
+    plt.savefig(nastavi_directory("porazdelitev_cen.png"), dpi=150)
     plt.close()
-    
     
 
 def cena_glede_na_tip_sobe(df_povprecji):
@@ -33,7 +41,8 @@ def cena_glede_na_tip_sobe(df_povprecji):
     plt.ylabel('Povprečna cena na noč')
     plt.xlabel('Tip sobe')
     plt.xticks(rotation=90, fontsize=10)
-    plt.savefig('grafi_in_tabele/cena_glede_na_tip_sobe.png', dpi=150)
+    plt.show()
+    plt.savefig(nastavi_directory("cena_glede_na_tip_sobe.png"), dpi=150)
     plt.close()
 
 
@@ -46,9 +55,9 @@ def razdalje_glede_na_tip_sobe(df_povprecji):
     plt.ylabel('Povprečna razdalja (v metrih)')
     plt.xlabel('Lokacija')
     plt.legend(title='Tip sobe')
-    plt.savefig('grafi_in_tabele/razdalje_glede_na_tip_sobe.png', dpi=150)
+    plt.show()
+    plt.savefig(nastavi_directory("razdalje_glede_na_tip_sobe.png"), dpi=150)
     plt.close()
-    
     
     
 def matrika_korelacij(df):
@@ -59,12 +68,13 @@ def matrika_korelacij(df):
     plt.figure(figsize=(12, 8))
     sns.heatmap(matrika, annot=True, cmap='coolwarm', vmin=-1, vmax=1)
     plt.title('Korelacija med cenami in razdaljami')
-    plt.savefig('grafi_in_tabele/matrika_korelacij.png', dpi=150)
+    plt.show()
+    plt.savefig(nastavi_directory("matrika_korelacij.png"), dpi=150)
     plt.close()
     
     
-    
 def izrisi_grafe(df):
+    """Funkcija izriše in shrani grafe."""
     
     df.replace("Ni podatka", pd.NA, inplace=True)
     df = df.dropna()
