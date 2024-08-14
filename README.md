@@ -13,7 +13,7 @@ Spletna stran apartmanija.hr pogosto nudi odlične apartmaje, vendar pogosto pri
    - `matplotlib`
    - `openpyxl`
    
-2. Odprite datoteko z razširitvijo `.ipynb` (Jupyter Notebook), Najdeto jo v mapi mymodule.
+2. Odprite datoteko z razširitvijo `.ipynb` (Jupyter Notebook). Najdeto jo v mapi mymodule.
 
 3. Nastavite parametre glede na vrsto URL-ja, ki ga želite analizirati:
 
