@@ -98,7 +98,7 @@ def izracuna_ceno(cenik, datum):
         overlap_start = max(datum_zacetek, interval_zacetek)
         overlap_end = min(datum_konec, interval_konec)
 
-        #ali obstaja prekrivni interval
+        # Preveri ali obstaja prekrivni interval
         if overlap_start <= overlap_end:
             days_in_overlap = (overlap_end - overlap_start).days + 1
             skupna_cena += days_in_overlap * dnevna_cena
