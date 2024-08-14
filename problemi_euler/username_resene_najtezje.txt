@@ -1,3 +1,0 @@
-username: lukaxs
-število rešenih nalog: 52
-tri najtežje naloge: 144, 146, 92
